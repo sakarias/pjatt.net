@@ -1,0 +1,52 @@
+title="Ny telefon"
+date="2005-10-26 12:53:49"
+I går kom min Z520i i posten fra komplett. Første intrykket av den ble utrolig bra. Helt til jeg skulle synkronisere den med mac'n min. Der var den ikke støttet gitt. Så jeg fikk ikke kopiert over kontaktene og kalenderen min. Skikkelig nedtur.
+
+Men nå nettopp fant jeg løsningen:
+
+For iSync gjør følgende:
+
+Åpne
+
+<code>/Applications/ iSync.app/ Contents/ PlugIns/ApplePhoneConduit.syncdevice / Contents/ PlugIns/ PhoneModelsSync.phoneplugin/ Contents/ Resources/ MetaClasses.plist</code>
+
+
+
+og finn innstillingene til K750. Kopier denne og bytt ut K750 med Z520 som under. Bytt også ut telefon ikonet med SEZ1010.tiff, siden denne ligner litt.
+<pre>
+&lt;key&gt;com.sony-ericsson.Z520&lt;/key&gt;
+&lt;dict&gt;
+	&lt;key&gt;Identification&lt;/key&gt;
+	&lt;dict&gt;
+		&lt;key&gt;com.apple.gmi+gmm&lt;/key&gt;
+		&lt;string&gt;Sony Ericsson+Sony Ericsson Z520&lt;/string&gt;
+	&lt;/dict&gt;
+	&lt;key&gt;InheritsFrom&lt;/key&gt;
+	&lt;array&gt;
+		&lt;string&gt;com.sony-ericsson.irmc5&lt;/string&gt;
+	&lt;/array&gt;
+	&lt;key&gt;Services&lt;/key&gt;
+	&lt;array&gt;
+		&lt;dict&gt;
+			&lt;key&gt;ServiceName&lt;/key&gt;
+			&lt;string&gt;com.apple.model&lt;/string&gt;
+			&lt;key&gt;ServiceProperties&lt;/key&gt;
+			&lt;dict&gt;
+				&lt;key&gt;ModelName&lt;/key&gt;
+				&lt;string&gt;Z520&lt;/string&gt;
+				&lt;key&gt;PhoneIcon&lt;/key&gt;
+				&lt;string&gt;SEZ1010.tiff&lt;/string&gt;
+			&lt;/dict&gt;
+		&lt;/dict&gt;
+	&lt;/array&gt;
+&lt;/dict&gt;</pre>
+
+For adressbook gjør følgende:
+
+Åpne
+<code>/Applications/ Address Book.app/ Contents/ Resources/ Telephony.bundle/ Contents/ Resources/ ABDeviceCommandSets.plist</code>
+og søk etter K700, kopier &lt;string&gt;K700&lt;/string&gt; og legg til en som heter &lt;string&gt;Z520&lt;/string&gt;.
+
+Det var i grunn det. Dette fungerte iallfall på min maskin og telefon
+
+[[!tag  geeking

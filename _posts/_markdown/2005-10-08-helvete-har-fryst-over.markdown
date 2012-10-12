@@ -1,0 +1,9 @@
+title="Helvete har fryst over"
+date="2005-10-08 08:54:04"
+For de av dere som kjenner meg så er ikke jeg noe stor "<a href="http://en.wikipedia.org/wiki/Gamer">gamer</a>", jeg spiller spill, men blir som regel lei spillet etter 10-15 minutter. Jeg kan derimot sitte med PHP kode i flere timer om gangen. Men jeg har vært nysgjerrig på dette fenomenet som folk kaller WoW. <a href="http://www.worldofwarcraft.com">World Of Warcraft</a> som det egentlig heter. Så i går bet jeg i det utrolig sure eplet og kjøpte spillet. 449 kr kostet herligheten. Enten så blir jeg like avhengi av spillet som alle andre har blitt, eller så blir det som vanlig, jeg spiller i 10-15 minutter før jeg blir lei og går å ser på reprise av myth busters.
+
+Har enda ikke fått installert spillet, mest pga jeg er usikker på hvilken maskin jeg burde installere det på. Spillet skal etter det jeg forstår fungere på macen min, men jeg tror den grafiske opplevelsen blir bedre hvis jeg installerer det på dama sin windows maskin. Og jeg regner med at hun kommer til å bli den som spiller WoW av oss. Så da kan man i grunn bare installere det på hennes maskin først som sist. Må bare få ryddet litt plass slik at man får plass til spillet.
+
+Kjøpte også bursdagsgave til min kjære i går. Jeg og min mors og hennes familie har spleiset på "<a href="http://www.platekompaniet.no/dvdproduct.asp?id=D059376">Friends - The Complete Series</a>". Det er da 238 episoder med ""Friends"" gjengen, så nå har Nina noe å se på framover i tillegg til "The X-Files", "Lost" og "Gilmore Girls" som hun allerede følger med på. Pluss andre små serier som <a href="http://www.tvnorge.no/programmer/internatet">Internatet</a>, <a hre"http://www.topmodel.tv3.no/">Top Model</a>, <a href="http://www.tvnorge.no/programmer/heia_tufte/laget">Heia Tufte</a> osv.
+
+[[!tag  generelt gaming

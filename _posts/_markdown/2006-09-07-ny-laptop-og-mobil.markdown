@@ -1,0 +1,45 @@
+title="Ny laptop og mobil?"
+date="2006-09-07 12:23:19"
+Jeg driver for tiden å titter på forskjellige laptoper med tanke på at jeg skal oppgradere fra min iBook G4 1.33 GHz maskin i oktober/november. Jeg er igrunn jakt på en liten og lett maskin, 12-13" skjerm, stor oppløsning og ikke så utrolig tung. Apple MacBook er den tyngste ut fra dem jeg så langt har sett på, den veier nesten 2.5 KG, rundt det samme som min iBook. De andre veier mellom 1.5 og 2 KG. Maskinen jeg har mest lyst på er igrunn Lenovo ThinkPad X60s, men den er jo også den dyreste av dem jeg har sett på. Men jeg har også blitt utrolig vant med Mac OS X, og gleder meg til å prøve Mac OS X 10.5 når den kommer til våren. Så jeg klarer ikke helt å bestemme meg for om jeg skal fortsette med Apple eller gå over til en IBM klone igjen.
+
+Jeg har så langt funnet meg 4 (5) alternativer:
+<ul>
+	<li><a href="http://store.apple.com/Apple/WebObjects/nostore.woa/6094042/wo/7W1qph01hPvy2fqsX4D2t3k5f9o/0.PSLID?mco=32B42242&nclm=MacBook">Apple MacBook hvit</a> 10.990,-</li>
+	<li>Apple MacBook sort 12.790,-</li>
+	<li><a href="http://www.komplett.no/k/ki.asp?sku=323976">HP Compaq nc2400</a> 16.295,-</li>
+	<li><a href="http://www.komplett.no/k/ki.asp?sku=324012">Lenovo ThinkPad X60s</a> 18.995,-</li>
+	<li><a href="http://www.komplett.no/k/ki.asp?sku=316497">ASUS W5F</a> 15.995,-</li>
+</ul>
+
+Ut fra prisene så blir det nok en Apple MacBook jeg kjøper meg, men jeg kommer til å kjøpe inn mer ram og større og raskere disk fra f.eks komplett.
+
+<ul>
+	<li><a href="http://www.komplett.no/k/ki.asp?sku=314983">Hitachi Travelstar 7K100 100GB 7200RPM SATA 2,5"</a> - 1.250,-</li>
+	<li><a href="http://www.komplett.no/k/ki.asp?sku=317452">eMagic harddiskkabinett 2.5" SATA ,aluminium, USB 2.0</a> - 295,-</li>
+	<li><a href="http://www.komplett.no/k/ki.asp?sku=317342&cks=CMS">Crucial DDR2 SO-DIMM 1024MB CL5 Non-ECC,1.8V,128Mx64,200p DDR2 PC2-5300</a> - 1.249,- (x2 = 2.498,-)</li>
+</ul>
+
+Jeg har også lyst på ny mobiltelefon, min SE Z520i driver igrunn å faller fra hverandre. Hver dag så fester jeg plastglasset forran displayet. Så nå er jeg rimlig lei og vil ha ny telefon. Jeg har sett på følgende telefoner så langt:
+
+<ul>
+	<li><a href="http://www.komplett.no/k/ki.asp?sku=320392">Sony Ericsson Cyber-Shot K800i</a> 3.795,-</li>
+	<li><a href="http://www.komplett.no/k/ki.asp?sku=324033">Sony Ericsson P990i</a> 5.549,-</li>
+	<li><a href="http://www.komplett.no/k/ki.asp?sku=318713">HP iPAQ Pocket PC hw6915</a> 5.995,-</li>
+	<li><a href="http://www.idedata.no/butikk/butikk.asp?m=1&b=233&k=CD5B3FA70F1643D99D90A65FB62CB3D6&p=20A2F092DC2B40918357397FCA567F5D">HTC TyTN</a> 7.238,-</li>
+</ul>
+
+Billigste alternativet er da SE K800i, men det er jo bare en telefon. De andre er mer eller mindre PDAer med telefon funksjoner. En kammerat av meg har SE P990i, og den har noen barnesykdommer. HTC og HP er Windows Mobile 5 produkter, HTC har 3G støtte, det har ikke HP saken, men HP'n har innebygget GPS, noe som er spennende å leke med. Aner ikke hva jeg skal velge, men tipper prisen kommer til å spille en stor rolle, så da blir det nok SE K800i jeg kommer til å velge, hvis nå ikke Apple kommer med iTunes tlf i mellomtiden.
+
+Hmmm, kom nettopp på at jeg bør i grunn kjøpe meg en ny mp3 spiller også, siden min iPod mini er død. Så sant jeg ikke tar med meg aggregat når jeg er ute på noe. Her blir valget veldig enkelt, ny iPod. Men skal man velge seg nano eller video iPod tro. Tipper prisen kommer til å bestemme mye her. Selv om det hadde vært kjekt å hatt kopi av hele musikk/lydbok samlingen min flere steder enn på maskinen min. Og da blir iPod nano litt for liten.
+
+Valget står da mellom:
+<ul>
+	<li>Apple iPod nano 4 GB 2.090,-</li>
+	<li>Apple iPod 30 GB 2.790,-</li>
+	<li>Apple iPod 60 GB 3.690,-</li>
+</ul>
+Akkurat nå er musikk/lydbok/podcast samlingen min på 7.82 GB. Men mesteparten ligger på en ekstern disk jeg ikke har tilkoblet. Ut fra behov og pris tror jeg at det beste kjøpet er iPod 30 GB.
+
+Jeg må ta å koble til disken en dag og sjekke hvor stor musikk katalogen er på den disken før jeg bestemmer meg. Podcastene sletter jeg etter hvert som jeg har hørt dem, med unntak av noen få som <a href="http://www.controlaltchicken.co.uk/">Ctrl+Alt+Chicken</a> og <a href="http://www.macfolkloreradio.com/">Macintosh Folklore Radio</a> og <a href="http://no.wikipedia.org/wiki/Ingvar_Ambj%C3%B8rnsen">Ingvar Ambjørnsen</a>: <a href="http://www.fillipmoberg.no/">De levende og de døde</a>.
+
+[[!tag  geeking

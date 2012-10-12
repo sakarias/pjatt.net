@@ -1,0 +1,5 @@
+title="Galleri"
+date="2006-10-23 19:18:05"
+Har nå fått fingeren min ut og driver å overfører gamle sakarias.net over til slaskdot.org igjen. Akkurat nå jobber jeg febrilsk med <a href="http://bilder.slaskdot.org/">bilder.slaskdot.org</a>, dvs bash skriptet mitt jobber febrilsk med å konvertere gigant bilder til 640x480 og samtidig lage thumbnails av dem.
+
+[[!tag  generelt

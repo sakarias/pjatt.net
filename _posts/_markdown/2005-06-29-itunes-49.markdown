@@ -1,0 +1,9 @@
+title="iTunes 4.9"
+date="2005-06-29 09:22:39"
+<img src="http://stuff.slaskdot.org/podcasticon128.jpg" alt="Podcast" align="left" style="padding-right: 5px;"  />I går kom <a href="http://www.apple.com/no/itunes/">iTunes 4.9</a> fra <a href="http://www.apple.com/">Apple</a>. Det store nye i iTunes 4.9 er at den har støtte for <a href="http://www.apple.com/no/podcasting/">podcasts</a> via <a href="http://www.apple.com/no/itunes/store/">iTunes Music Store</a> (iTMS), det betyr at man ikke lenger trenger et ekstra program for å laste ned podcast og legge dem over i iTunes for så å legge dem over på <a href="http://www.apple.com/no/ipodmini/">iPod mini'n</a>.
+
+En annen nyhet i går var at Apple lanserte en ny <a href="http://www.apple.com/no/ipod/color/">iPod</a>. En med farge skjerm og samtidig så fjernet dem iPod Photo fra sortemanget sitt.
+
+Apple har også oppdatert <a href="http://www.apple.com/no/ipod/download/">iPod softwaren</a>, slik at man får ett nytt valg i menyen på iPoden under musikk som heter "Podcasts", der vil de podcasts som du henter via iTMS havne.
+
+[[!tag  geeking

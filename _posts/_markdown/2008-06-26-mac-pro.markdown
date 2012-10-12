@@ -1,0 +1,29 @@
+title="Mac Pro"
+date="2008-06-26 15:51:33"
+Da er den bestilt, et stykk <a href="http://www.apple.com/">Apple</a> <a href="http://www.apple.com/no/macpro/">Mac Pro</a>. Det skal bli en kjærkommen oppgradering fra min forrige Mac, en <a href="http://en.wikipedia.org/wiki/IBook#iBook_G4">iBook G4</a> fra 2005, som i dag brukes som "senge-laptopen". Siden jeg mer eller mindre har overlevd i 3 år med iBook-en min, så vil jeg tro at jeg vil klare meg i 4-5 år med en Mac Pro.
+<img class="alignright size-medium wp-image-571" title="Mac Pro outside" src="http://pjatt.net/images/2008/06/macpro_hero.jpg" alt="" width="180" height="300"  />
+Tekniske spesifikasjoner:
+<ul>
+	<li>2 x Quad-Core Intel <a href="http://en.wikipedia.org/wiki/Xeon">Xeon</a> <a href="http://en.wikipedia.org/wiki/Xeon#5400-series_.22Harpertown.22">5400</a> 2,8 GHz (8-kjerner), 12 MB <a href="http://en.wikipedia.org/wiki/CPU_cache">L2 cache</a> (6 MB delt per kjernepar).</li>
+	<li> 2 GB RAM, fullbufret <a href="http://en.wikipedia.org/wiki/DDR2_SDRAM">DDR2</a> ECC <a href="http://en.wikipedia.org/wiki/DIMM">DIMM</a> (<a href="http://en.wikipedia.org/wiki/Fully_Buffered_DIMM">FB-DIMM</a>) på 800 MHz (8 spor, fordelt på 2 riser-kort, totalt 32 GB)</li>
+	<li>ATI Radeon HD 2600 XT med 256 MB <a href="http://en.wikipedia.org/wiki/GDDR3">GDDR3</a> med to «dual-link»-<a href="http://en.wikipedia.org/wiki/Digital_Visual_Interface">DVI</a>-utganger</li>
+	<li>2 x 10/100/1000 BASE-T med støtte for "<a href="http://en.wikipedia.org/wiki/Jumbo_frame">jumbo frames</a>"</li>
+	<li>Bluetooth 2.0+<a href="http://en.wikipedia.org/wiki/Enhanced_Data_Rate">EDR</a></li>
+	<li>320 GB <a href="http://en.wikipedia.org/wiki/Serial_ATA">SATA</a>2 harddisk, 7200 rpm med 8 MB buffer (plass til fire harddisker i et skuffesystem)</li>
+	<li>16x <a href="http://en.wikipedia.org/wiki/Superdrive">SuperDrive</a> (DVD+R DL/DVD±RW/CD-RW)</li>
+	<li>To <a href="http://en.wikipedia.org/wiki/IEEE_1394_interface">FireWire</a> <a href="http://en.wikipedia.org/wiki/IEEE_1394_interface#FireWire_800_.28IEEE_1394b-2002.29">800</a>-porter (en på frontpanelet, en på bakpanelet)</li>
+	<li>To FireWire <a href="http://en.wikipedia.org/wiki/IEEE_1394_interface#FireWire_400_.28IEEE_1394-1995.29">400</a>-porter (en på frontpanelet, en på bakpanelet)</li>
+	<li>Fem <a href="http://en.wikipedia.org/wiki/Universal_Serial_Bus">USB</a> <a href="http://en.wikipedia.org/wiki/Universal_Serial_Bus#USB_2.0">2.0</a>-porter (to på frontpanelet, tre på bakpanelet)</li>
+	<li>To USB 2.0-porter på tastaturet som følger med</li>
+	<li><a href="http://en.wikipedia.org/wiki/TRS_connector">Minijack</a>-tilkobling for hodetelefoner og høyttalere på frontpanelet</li>
+	<li><a href="http://en.wikipedia.org/wiki/TOSLINK">Toslink</a>-porter for optisk digital lyd inn/ut</li>
+	<li>Minijack-tilkobling for stereo analog linjeinngang og stereo analog linjeutgang</li>
+</ul>
+Jeg har også bestillt to stykk <a href="http://www.samsung.com/">Samsung</a> <a href="http://www.samsung.com/global/business/hdd/productmodel.do?group=72&amp;type=61&amp;subtype=64&amp;model_cd=259&amp;ppmi=1156">SpinPoint T166</a> 500 GB SATA2, 7200 rpm med 16 MB buffer, som kom i dag. Disse skal settes opp i <a href="http://en.wikipedia.org/wiki/RAID_1#RAID_1">RAID 1</a> og bli brukt som lagerplass for bilder, har ikke helt tenkt igjennom om det kun skal ligge bilder på disse diskene eller om hele /Users skal ligge på dette raid-settet.
+
+Også må jeg børste støvet av mine gamle Dell 2007FP. Dette er 4:3 20" skjermer jeg kjøpte for snart to år siden, som har stått å støvet ned siden min gamle stasjonære maskin ble konvertert til mediasenter og koblet rett på TVen min i vinter.
+
+[[!tag  geeking
+[[!tag  generelt
+[[!tag  mac
+[[!tag  mac-pro

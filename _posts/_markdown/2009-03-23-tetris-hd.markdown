@@ -1,0 +1,9 @@
+title="Tetris HD"
+date="2009-03-23 20:04:03"
+<a href="http://pjatt.net/images/2009/03/tetris.png"><img src="http://pjatt.net/images/2009/03/tetris-300x168.png" alt="Tetris HD" title="Tetris HD" width="300" height="168" class="aligncenter size-medium wp-image-834"  /></a>
+
+Orket ikke å spille selv, men ville se hvor lang tid det tok før spillet havnet i "game over", litt over 60 timer :D
+
+Du kan spille selv på <a href="http://sovietrussia.org/f/src/tetoris.swf">http://sovietrussia.org/f/src/tetoris.swf</a>.
+
+[[!tag  generelt

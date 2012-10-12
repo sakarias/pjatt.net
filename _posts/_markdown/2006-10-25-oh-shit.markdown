@@ -1,0 +1,13 @@
+title="Oh shit"
+date="2006-10-25 17:27:57"
+I dag skjedde det utenkelige. Mac'en min døde. Heldigvis bare en software død. Vet ikke om det var min skyld eller betaen av Leopard. Men den hang seg midt i en expose handling. Ingen ting ville virke, så jeg bare rebootet maskinen og fikk blå skjerm. Den som kommer rett før påloggingsvinduet og der sto den. Etter mye prøving å feiling av diverse ting jeg fant på <a href="http://docs.info.apple.com">docs.info.apple.com</a> så kom jeg på at OSX installasjonsplata er jo egentlig et live system som har masse verktøy. Fant fram plata mi, etter å ha lett en stund (jeg har alt for mange løse plater liggende) og bootet fra den. Der fant jeg gode gamle Term.app :D
+
+Startet Term.app og satte iPod'n min i "disc mode" (hold inne "select" og "play" når du rebooter iPod'n (hold inne "menu" og "select" for å reboote), koblet den til og så at iPod'n dukket opp i "/Volumes". Fra der så var det rimelig enkelt å bruke "cp" til å kopiere ut sikkerhetskopien jeg tok av gamle mobilen min i går, før jeg restatte den og ga den til søstera mi.
+
+Nå driver jeg å installerer "Tiger" (Mac OS X 10.4) på nytt, tror jeg skal holde meg unna beta av "Leopard" (Mac OS X 10.5) til den kommer i slutten av første kvartal i 2007.
+
+Jeg er i iallfall lykkelig over å få kopiert ut filene mine. Kommer til å bli en kjedelig jobb å sette opp igjen alle programmene på nytt, men jeg slipper iallfall å tenke på at ting har blitt borte for meg.
+
+Verste var at dette skjedde mens jeg lette etter et brenne program til Mac'n slik at jeg fikk brent ut filene fra gamle mobilen min :P
+
+[[!tag  geeking

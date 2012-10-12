@@ -1,0 +1,8 @@
+title="Home alone"
+date="2005-05-05 21:28:01"
+I går reiste Nina for å besøke sine foreldre. Så jeg har da noen dager helt alene. Da får jeg sett på TV programmer som kolliderer med Nina sine programmer. Og andre TV programmer som intresserer meg, men ikke henne. F.eks hvordan en hengebru blir konstruert og historien til hvordan man kom fram til det designet. Og ja, jeg er stor fan av <a href="http://www.discoverychannel.no/">Discovery Channel</a>. Hvis du har Discovery Channel så må du ikke gå glipp av <a href="http://dsc.discovery.com/fansites/mythbusters/mythbusters.html">Mythbusters</a> (<a href="http://www.discoverychannel.no/sannhet_eller_myte/">Sannhet eller myte</a>, på norsk) hverdager klokken 20:00.
+
+Hva jeg har gjort? Jeg har sittet forran PCen min fra jeg kom hjem fra jobb rundt 1700 og til 0600 da jeg la meg, døgnrytme er igrunn noe skit, denne gangen slet jeg med at jeg våknet 0830 etter å sovnet rundt 0600. Og jeg var lys våken. Eneste konstruktive jeg har gjort var vel å se på filmen Pirates of Silicon Valley, ikke helt den store filmen, ikke riktig historie messig heller. Dvs dem har fått med hovedelementene av utsagn og lignende, men dem blir sagt i feil setting. Men de har vel gjort det for å komprimere mange år til en film. Du kan lese hele historien som filmen er basserer seg på på <a href="http://www.folklore.org">www.folklore.org</a>.
+
+[[!tag  filmer---tv-serier
+[[!tag  generelt

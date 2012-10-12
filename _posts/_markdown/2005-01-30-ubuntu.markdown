@@ -1,0 +1,7 @@
+title="Ubuntu"
+date="2005-01-30 22:44:06"
+Vel, jeg klarer ikke å holde meg til kun en distro. Jeg må hele tiden bytte, jeg blir så fort lei alt. Men nå skal jeg prøve å holde meg i allefall til etter TG med Ubuntu.
+
+Har nå brukt Ubuntu ca 1 døgn, det meste har gått med på å bli kjent med distroen og sette opp ting slik jeg vil ha det. Har også brukt tid på å forske på mer blåtand ting. I hoary, ubuntu versjonen jeg bruker er faktisk gnome-phone-manager med, så det gjør at jeg kan sende og motta sms i et progam på laptopen koblet mot mobilen min. Er faktisk veldig greit program, synd den bare støtter 160 tegn.
+
+[[!tag  geeking

@@ -1,0 +1,11 @@
+title="Roadtrip"
+date="2007-07-17 22:10:33"
+<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/62/O2_large.jpg/180px-O2_large.jpg" alt="SGI 02" align="left" style="margin-right: 5px;"  />I går dukket det opp en mail fra en stakar som måtte kvitte seg med sine tre SGI 02 maskiner  pga plass mangel og han lurte på om det var noen der ute som kunne gi disse maskinene et godt hjem. Etter et par mailer så skal Fishy og jeg hente disse hjemløse maskinene i morgen. Jeg tar meg til og med en time fri fra jobben for at vi ikke skal bli så utrolig seint framme i Nøtterøy hvor maskinene er. Og siden vi først er ute på tur så tar vi turen innom "<a href="https://launchpad.net/~tfheen">Mithrandir</a>" på Bislet og henter 3 Sun maskiner der også.
+
+Gleder meg virkelig til å få en <a href="http://en.wikipedia.org/wiki/SGI_O2">SGI O2</a> i hus, har siklet på en slik lenge, men det er også en maskinvare jeg vet veldig lite om. Vet heller ikke hvilken stand disse maskinene er i, utenom at dem har stått i en garasje lenge.
+
+Er O2ene i orden så skal den ene få plass på pulten min og få påsatt seg en alpelue og få navnet "Irwin" (hvor mange er det som forstår hva jeg hinter til?).
+
+Sun maskinene vi skal hente i Oslo var vel <a href="http://en.wikipedia.org/wiki/SPARCstation_4">SPARCstation 4</a>, <a href="http://en.wikipedia.org/wiki/SPARCstation_5">SPARCstation 5</a> og <a href="http://en.wikipedia.org/wiki/SPARCstation_10">SPARCstation 10</a>. Dem har man en del av fra før, men reservedeler er alltids kjekt å ha.
+
+[[!tag  geeking

@@ -1,0 +1,7 @@
+title="200 GB harddisk"
+date="2005-07-11 12:38:21"
+Jeg har nå bestillt meg en <a href="http://www.samsung.com/Products/HardDiskDrive/SpinPointPSeries/HardDiskDrive_SpinPointPSeries_SP2014N.htm">Samsung SpinPoint P120</a> fra <a href="http://www.komplett.no/k/ki.asp?sku=307909">Komplett</a>. Dette er en 200 <attrib title="Giga Byte">GB</attrib> harddisk jeg har tenkt til å bruke i min <a href="http://www.microsoft.com/xbox/">Xbox</a> istedet for den 8 <attrib title="Giga Byte">GB harddisken som er standard. Jeg henter i dag musikk og filmer fra <a href="http://nenia.slaskdot.org">nenia</a> sin maskin over nettverket. Dette fungerer igrunn greit, men det er litt tungvint til tider å streame alt fra hennes maskin, derfor har jeg tenkt til å bruke Xbox'n som en harddisk i nettet. Synd den kun støtter <a href="http://en.wikipedia.org/wiki/Ftp" title="File Transfer Protocol">FTP</a> og ikke har en <a href="http://en.wikipedia.org/wiki/Server_message_block" title="Server Message Block">SMB</a> server installert.
+
+Jeg fant også en "<a href="http://x3.bustedchain.com/index.html">Xecuter X3 XBOX Modchip BIOS User's Manual</a>" i dag, den forklarte iallefall meg en god del.</attrib>
+
+[[!tag  geeking

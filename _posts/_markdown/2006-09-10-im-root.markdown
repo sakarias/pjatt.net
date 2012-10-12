@@ -1,0 +1,5 @@
+title="Im root"
+date="2006-09-10 23:03:50"
+<div align="center"><img id="image330" src="http://pjatt.net/images/2006/09/sudo.gif" alt="SuDo"  /></div>
+
+[[!tag  generelt

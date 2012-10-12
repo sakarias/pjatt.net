@@ -1,0 +1,7 @@
+title="9 - 10 dager"
+date="2005-09-20 08:58:22"
+I dag kom mailen jeg har ventet lenge på. Det er da "Shipment Notification" jeg endelig har fått fra <a href="http://www.apple.no/">Apple</a>, det betyr at endelig så er <a href="http://www.apple.com/no/ibook/">iBook</a>'n jeg har bestillt på tur til Norge. Eneste minus er at det vil ta fra 9 til 10 dager før den er hos meg. Men jeg er litt glad. Kommer nok til å plage tracking systemet til Apple en god del framover, lurer på om det finnes auto-refresh extension til <a href="http://www.mozilla.org/products/firefox/">Firefox</a>.
+
+Update: Joda, det fantes det, nå slipper jeg å trykke reload selv :P Har nå lagt til <a href="https://addons.mozilla.org/extensions/moreinfo.php?id=115">ReloadEvery</a>.
+
+[[!tag  geeking
