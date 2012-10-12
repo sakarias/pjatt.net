@@ -1,0 +1,1 @@
+<p class="next_actions">Følg med på <a href="http://twitter.com/sakarias/">Twitter</a> for oppdateringer på nye posteringer.</p>
