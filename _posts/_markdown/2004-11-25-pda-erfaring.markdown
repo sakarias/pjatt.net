@@ -1,5 +1,14 @@
-title="PDA erfaring"
-date="2004-11-25 05:13:34"
+---
+layout: post
+title: PDA erfaring
+date: 2004-11-25 05:13:34
+tags: 
+- geeking
+---
+
+{{ page.title }}
+================
+
 Vel, jeg har nå hatt PDAen en stund og har fått en god følelse av hvordan den fungerer. Jeg er så lang veldig fornøyd med enheten, den har hengt seg noen få ganger, men det er nok programmene jeg har brukt sin feil og ikke PDAen. Jeg tok i dag min første hard reset for å få fjernet alt jeg har installert og for å kun få installert det jeg bruker.
 
 <strong>Programmer jeg bruker er:</strong>
@@ -15,5 +24,3 @@ Vel, jeg har nå hatt PDAen en stund og har fått en god følelse av hvordan den
 <strong>VncViewer</strong> (Fjernadministrerings program, ser desktopen min fra PDAen).
 
 <strong>PocketPutty</strong> (SSH klient for Pocket PC)
-
-[[!tag  geeking
