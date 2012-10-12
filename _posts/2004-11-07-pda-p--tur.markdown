@@ -1,0 +1,18 @@
+---
+layout: post
+title: PDA på tur
+date: 2004-11-07 21:38:05
+tags:
+- gadgets
+---
+
+{{ page.title }}
+================
+
+Nå har jeg endelig fått bestillt meg en Dell Axim X30 High. Innen 7-10 dager skal jeg vist ha den i følge mailen til Dell. Tror ikke helt på akkurat den delen, har lest en god del forums i det siste og veldig mange klager over at Dell er trege på å levere.
+
+Men men, jeg gleder meg iallefall som en unge til å leke meg med noe nytt.
+
+Det er desverre en Pocket PC (Microsoft) basert PDA jeg ente opp med å valge det istedet for en Palm mest pga at Pocket PCene har WLAN innebygget, uten behov for å kjøpe ekstra kort som det Palm ikke har drivere for engang enda. Så siden jeg liker å ha det tråløst, så ble det en PocketPC.
+
+Edit: Jeg får ikke sjekket ordre statusen min med kundenummer og ordrenummer som står i mailen fra Dell.
