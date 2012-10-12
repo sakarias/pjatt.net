@@ -1,0 +1,12 @@
+---
+layout: post
+title: Apple
+date: 2004-12-03 10:04:41
+tags: 
+- generelt
+---
+
+{{ page.title }}
+================
+
+Nenia fikk besøk av sin bror i dag, media klassen hans var vært å besøkt NRK for å se hvordan TV lages. Han har en søt liten 14" Apple iBook. Jeg har funnet ut hva jeg skal kjøpe meg neste gang. Men jeg er ikke helt sikker på om jeg skal velge 12" eller 14" skjerm. Den tid den sorg. Først og fremst vil jeg ha meg en vanlig PC igjen. En som jeg kan skru litt på. Er litt lei av laptop fortiden. Har en følelse av at jeg går tom for diskplass hele tiden og ytelsens er ikke av det frakkeste lenger.

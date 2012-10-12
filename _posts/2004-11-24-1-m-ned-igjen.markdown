@@ -1,0 +1,20 @@
+---
+layout: post
+title: 1 måned igjen
+date: 2004-11-24 16:54:21
+tags: 
+- generelt
+---
+
+{{ page.title }}
+================
+
+Vel i dag er det 1 måned igjen til Juleaften.
+
+<strong>Her er min ønskeliste:</strong>
+
+Ny mobiltelefon (Sony Ericsson T630 eller Sony Ericsson Z600 eller Siemens S65)
+
+Secure Digital minnekort (512 MB eller 1 GB)
+
+En eller annen blåtand basert GPS

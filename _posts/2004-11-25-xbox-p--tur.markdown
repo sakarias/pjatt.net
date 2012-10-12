@@ -1,0 +1,12 @@
+---
+layout: post
+title: Xbox på tur
+date: 2004-11-25 05:02:42
+tags: 
+- geeking
+---
+
+{{ page.title }}
+================
+
+Har nå fått mail både fra <a href="http://www.komplett.no">Komplett</a> og <a href="http://www.freerecordshop.no">FreeRecordShop</a> om at pakkene mine er sendt fra dem. Da er det bare å smøre seg med tolmodighet og håpe at dem kommer på fredag, men kjenner jeg posten i butikken her så blir det nok først mandag jeg får hentet pakkene.

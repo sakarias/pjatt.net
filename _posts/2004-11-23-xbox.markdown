@@ -1,0 +1,17 @@
+---
+layout: post
+title: Xbox
+date: 2004-11-23 22:00:13
+tags: 
+- geeking
+- gadgets
+---
+
+{{ page.title }}
+================
+
+Jeg har nå bestillt meg en [Xbox](http://www.microsoft.com/xbox/) fra [Komplett](http://www.komplett.no). I en alder av 26 år så kjøper jeg meg min første spillkonsoll. Jeg som normalt ikke er så utrolig glad i å spille spill. Valget falt på en pakke med 2 kontrollere og 2 måneder prøvetid på Live! Jeg valgte pakken med 2 kontrollere pga den var igrunn bare 200 kr dyrere enn den vanlige pakken, og en ekstra kontroller kostet nesten 400 kr. Har enda ikke bredbånd her i ødemarken, men [Telenor](http://www.telenor.no) har lovet at det skal være på plass innen 16.12.2004. Så vi får se om Telenor holder det dem har lovet.
+
+Av en eller merkelig grunn så må man vist ha den dvd fjernkontroll pakken for å få lov til å bruke Xboxen sin dvd-rom som dvd spiller, noe jeg synes er litt rart, siden enheten har jo en dvd-rom. Kanskje det er med noe spesiellt i pakken. Men hvis jeg ikke tar helt feil så er det nok det at dem skal tjene litt mer penger.
+
+Komplett hadde ikke [Need For Speed Undergrund 2](http://www.eagames.com/official/nfs/underground2/us/home.jsp)Need For Speed Undergrund 2 (NFS:U2) på lager, så jeg bestillte det fra [FreeRecordShop](http://www.freerecordshop.no) samtidig som jeg bestillte julegave til dama. Jeg håper iallefall at jeg klarte å bestille riktig spill, dem hadde to stk NFS:U, men ingen av dem hadde tittel med 2 i seg, ene kostet 300 mens den andre kostet 600, så jeg vil anta at den til 600 er NFS:U2. For når jeg trykket på NFS:U2 på Topp 5 solgte Xbox tittler så havnet jeg på den til 600.
