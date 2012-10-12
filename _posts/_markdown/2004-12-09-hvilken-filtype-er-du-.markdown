@@ -11,6 +11,6 @@ tags:
 
 Tok en liten test nå nettopp, jeg er vist .inf jeg. Hva er du?
 
-<div align="center"><img src="http://stuff.slaskdot.org/inf.jpg" alt="Jeg er inf"  /></div>
+<img src="http://stuff.slaskdot.org/inf.jpg" alt="Jeg er inf" />
 
-<a href="http://www.bbspot.com/News/2004/10/extension_quiz.php">Ta testen du også</a>.
+[Ta testen du også](http://www.bbspot.com/News/2004/10/extension_quiz.php)
