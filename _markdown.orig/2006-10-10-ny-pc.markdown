@@ -1,0 +1,23 @@
+[[!meta  title="Ny PC"]]
+[[!meta  date="2006-10-10 12:15:47"]]
+Da har Komplett fått enda litt mer penger fra meg. Har fått ut fingeren min og fått bestillt meg maskina. Følge pakkesporingen til Dell så er skjermene mine her om 3 dager (noe jeg tviler på), så det var påtide jeg får bestillt maskinen også. Får ikke brukt skjermene til stort før maskinen er i hus.
+
+Følgende specs har jeg bestillt:
+
+<ul>
+	<li><a href="http://www.chieftec.de/?page=products_show&item=3810&k_id=&language=uk">Chieftec CH-03P Pianosort, Aluminium</a></li>
+	<li><a href="http://www.coolermaster-europe.com/index.php?LT=english&Language_s=2&url_place=product&p_serial=RS-500-ASAA&other_title=+RS-500-ASAA+iGreen%20Power%20500W">Cooler Master iGreen Power 500W, 120mm</a></li>
+	<li><a href="http://www.asus.com.tw/products4.aspx?l1=3&l2=11&l3=307&model=1178&modelmenu=1">Asus P5B, P965, Socket-775, ATX</a></li>
+	<li>Intel Core 2 Duo E6400 2.13GHz Socket</li>
+	<li><a href="http://www.corsairmemory.com/corsair/products/specs/TWIN2X2048-6400.pdf">Corsair TWIN2X 6400 DDR2, 2048MB CL5</a> (Warning: linket til PDF-fil)</li>
+	<li><a href="http://www.msi.com.tw/program/products/vga/vga/pro_vga_detail.php?UID=735">MSI GeForce 7600GS 256MB DDR2</a></li>
+	<li>2x <a href="http://www.seagate.com/cda/products/discsales/marketing/detail/0,1081,760,00.html">Seagate Barracuda 7200.10 250GB SATA2</a></li>
+	<li><a href="http://www.nec.se/templates/ProductStorage.aspx?id=401">NEC DVD-brenner AD-5170 IDE Black OEM</a></li>
+</ul>
+
+Har også tatt med ting som SATA-kabler, kabinett-vifter (5 stk), 2x blå musmatter (stygge som juling, men billige) og tastatur.
+
+
+Jeg har fremdeles lyst på en liten lett x86 laptop, men det får vente.
+
+[[!tag  geeking]]

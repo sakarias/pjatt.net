@@ -1,0 +1,5 @@
+[[!meta  title="Kule katter"]]
+[[!meta  date="2006-05-29 17:44:54"]]
+<embed style="width:400px; height:326px;" id="VideoPlayback" align="middle" type="application/x-shockwave-flash" src="http://video.google.com/googleplayer.swf?videoUrl=http%3A%2F%2Fvp.video.google.com%2Fvideodownload%3Fversion%3D0%26secureurl%3DtwAAAG7ggqAHSiJjpW0D3w4aYTXK6kHkDCBS1nT8jEB60_GYaT5WPKwPT7PVELUKMsiD-bDdO0KboG9dBNaI58LFA_3F5ERgsXJlTHHlGTkSY2WClLLX6kCXst5tPGqBQChhWjtKFsHhgdsZyTF5i-EJFr2hsRIGAYUBrdr1JU9bZqAdgsc9A7NVpkhQQPxBmHXrVIV9jRmb4uRUgS8LuV7VlnLuoKUi5y1HxD9_eY_Yo5ITJXmhU1AF1DtN_dwYuSdZfQ%26sigh%3DwxFGnn2beJp6xdz408jClj694uI%26begin%3D0%26len%3D71066%26docid%3D-7199158973758073420&thumbnailUrl=http%3A%2F%2Fvideo.google.com%2FThumbnailServer%3Fapp%3Dvss%26contentid%3D908456ef589253f5%26second%3D5%26itag%3Dw320%26urlcreated%3D1148922112%26sigh%3DIa3q4PIkhD2zJTQYCeiGwRSUQI0&playerId=-7199158973758073420" allowScriptAccess="sameDomain" quality="best" bgcolor="#ffffff" scale="noScale" wmode="window" salign="TL"  FlashVars="playerMode=embedded"> </embed>
+
+[[!tag  humor---tester]]

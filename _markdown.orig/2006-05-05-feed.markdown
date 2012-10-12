@@ -1,0 +1,14 @@
+[[!meta  title="Feeds"]]
+[[!meta  date="2006-05-05 07:54:41"]]
+<ul>
+<li><a href="http://feeds.feedburner.com/SakariasNettjournal">Sakarias posts RSS</a></li>
+<li><a href="http://feeds.feedburner.com/SakariasPhotos">Sakarias Flickr Stream</a></li>
+<li><a href="http://feeds.feedburner.com/SakariasBookmarks">Sakarias del.icio.us bookmarks</a></li>
+</ul>
+What is RSS?
+Its stands for Really Simple Syndication, and is an easy way of receiving new content from websites. A growing number of sites these days provide RSS feeds which you can subscribe to, keeping you up to date with the latest news, without having to constantly revisit the site to check for updates. This allows you to keep your bookmarks as just that, and to have the news come to you.
+
+How do I read these feeds?
+You need an RSS reader (also called an ‘aggregator’), which will check for and inform you of new content in the RSS feed. For Windows users, there are applications such as FeedDemon, and FeedLounge. For Mac OS X, you have NetNewsWire, NewsFire and Safari RSS. Bloglines is an excellent online service that works in most browsers which eliminates the need for downloading an application.
+
+Firefox users can also download extensions such as Sage and Lektora to allow them to read RSS feeds in the browser.

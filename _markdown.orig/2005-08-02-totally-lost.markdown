@@ -1,0 +1,14 @@
+[[!meta  title="Totally Lost"]]
+[[!meta  date="2005-08-02 13:21:20"]]
+Når jeg kom hjem fra jobb i går så var internet borte vekk. Kabel modemet sto bare å blinket på "cable". Det betyr at den ikke har kontakt med verden. Så i mangel av noe "fornuftig" å gjøre så lagde jeg meg litt mat og satte meg til å se på TV. Etter en stund så sovnet jeg, slik jeg pleier å gjøre når jeg ser på TV. Etter en stund så våknet jeg av at det var helt stille i hybelen. Jeg våknet i det harddiskene tok sine siste runder. Jaja, tenkte jeg. Sikringen. Opp av sofaen, lete etter nøkkel til sikringsrommet (ikke skap, men et rom. Noe lignede et bøttekott). Fant nøkkelen og gikk ut i gangen. Der var det helt mørkt. Helt svart. Så var det inn igjen og lete etter lommelykt. Men sikringene var i orden, automatsikringer. Så jeg tok meg en tur ut for å se om det var noen som kanskje sto ute å snakket om det, men de folkene jeg så ute oppførte seg som ingen ting hadde skjedd. Etter en stund kom strømmen tilbake. Men da var selvsagt kabel-tv borte. Men den kom da tilbake etter en stund. Men internet har enda ikke kommet tilbake ?
+
+<a href="http://www.aftenposten.no/nyheter/iriks/article1089507.ece">I dag så viser det seg at en trafo hadde røket</a>.
+
+Jeg har også prøvd å ringe <a href="http://www.canaldigital.no">Canal Digital</a>, huseier sin nettleverandør. Men etter 4 forsøk på å få lov til kun å ta et valg i den teite telefonsvarer løsningen dems ga jeg opp, og sendte dem en mail i stedet. Nå har jeg sendt mail til dem før hvor det har stått at jeg skal ta kontakt med telefon istedet. Men når telefonløsningen dems ikke fungerer, så hva skal man da gjøre? Regner med at det vil ta 2-3 dager før dem svarer på mailen, er iallefall det dem har brukt før når jeg har sendt dem mail.
+
+<a href="http://www.apple.no">Apple</a> har også kommet med et "nytt" og "spennende" produkt i dag. Nemmelig en TO knappers <a href="http://www.apple.com/no/mightymouse/">mus</a>.  Fortalte dette på <a href="http://lilug.no/index.php?side=informasjon&informasjon=lilug">#LiLUG</a> på <a href="http://www.efnet.net/">EFnet</a> og må derfor sitere noen kloke ord fra <a href="http://blog.der.se">mrpower</a>.
+
+<blockquote>15:28:58 +mrpower> først intel, og så anstendig mus!</blockquote>
+
+[[!tag  geeking]]
+[[!tag  generelt]]

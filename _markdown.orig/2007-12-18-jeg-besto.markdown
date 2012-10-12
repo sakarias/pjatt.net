@@ -1,0 +1,8 @@
+[[!meta  title="Jeg besto!"]]
+[[!meta  date="2007-12-18 13:37:26"]]
+Etter 90 minutter og 59 spørsmål så har jeg nå blitt "IBM Certified Specialist - IBM BladeCenter®".
+
+I følge sertifiseringen så skal jeg kunne følgende:
+<blockquote>This certification validates the skills required to plan and design, install, configure and maintain IBM BladeCenter systems. The IBM BladeCenter Certified Specialist will provide solution design and implementation support for those who work with the IBM BladeCenter technologies. This certified person will also work to provide longer-term technical support activities including problem solving and resolution.</blockquote>
+
+[[!tag  generelt]]

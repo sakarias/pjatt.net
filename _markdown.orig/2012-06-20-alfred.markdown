@@ -1,0 +1,60 @@
+[[!meta title="Alfred App"]]
+
+# Alfred 
+
+From [Alfreds](http://www.alfredapp.com/) webpage:
+
+Alfred is an award-winning productivity application for Mac OS X, which aims to save you time in searching your local computer and the web. Whether it's maps, Amazon, eBay, Wikipedia, you can feed your web addiction quicker than ever.
+
+*	Increase your productivity by launching apps with shortcuts
+*	Instant access to web searches, bookmarks & more
+*	Browse and play music from your iTunes library quickly
+*	Perform actions – copy, move & email files & folders
+*	Ward off RSI – skip using the mouse with easy shortcuts
+
+I absolutely adore this program, I have tried [Butler](http://manytricks.com/butler/), [QuickSilver](http://qsapp.com) and [LaunchBar](http://www.obdev.at/products/launchbar/index.html) in the past, but this one suits me much better. And it is dead simple to write extensions for it.
+
+## Alfred Extensions
+
+I do make some custom searches and extensions myself. Here are some of mine that is not work specific.
+
+### Custom search
+
+[Empty your Download folder](/projects/alfred/Empty_Downloads_Folder.alfredextension)
+
+[Empty your trash bin](/projects/alfred/Empty_Trash.alfredextension)
+
+[Move your applications where you want them to be](/projects/alfred/Move_Windows.alfredextension) (not finished)
+
+[Connect to a computer via VNC](/projects/alfred/ScreenSharing.alfredextension)
+
+[Toggle WiFi on and off](/projects/alfred/Toggle_Wifi.alfredextension)
+
+### Theme
+
+[Sakes Theme](/projects/alfred/Sakes_Themes.alfredtheme)
+
+
+#### Entertainment
+
+[Movies at the Cinema in Oslo](alfredapp://customsearch/Kino%20i%20Oslo/kino/utf8/url=http://www.google.no/movies?q={query}&btnG=S%C3%B8k+Filmer&near=Oslo)
+
+[Find songs in Spotify](alfredapp://customsearch/Spotify/sp/ascii/url=spotify:search:{query})
+
+### Webshops
+
+[Search Clas Ohlson](alfredapp://customsearch/Clas%20Ohlson/clas/utf8/url=http://www.clasohlson.com/no/view/content/search?N=0&Ntk=All&Ntt={query}*)
+
+[Search Dustin Home](alfredapp://customsearch/Dustin/dustin/utf8/url=http://www.dustinhome.no/search/{query})
+
+[Search Komplett](alfredapp://customsearch/Komplett/komplett/utf8/url=http://www.komplett.no/k/search.aspx?q={query})
+
+### Misc
+
+[Search Mac App Store](alfredapp://customsearch/Mac%20App%20Store%20for/mas/utf8/url=macappstore://ax.search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?q={query})
+
+[Search NZBmatrix](alfredapp://customsearch/NZBmatrix/nzb/ascii/url=http://nzbmatrix.com/nzb-search.php?search={query}&cat=0)
+
+[Track package Posten Norge](alfredapp://customsearch/Pakkesporing/posten/ascii/url=http://sporing.posten.no/sporing.html?lang=no&q={query}&submit=)
+
+[[!tag geeking mac apple alfred extension]]

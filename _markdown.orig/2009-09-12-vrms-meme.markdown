@@ -1,0 +1,63 @@
+[[!meta  title="vrms meme"]]
+[[!meta  date="2009-09-12 07:34:10"]]
+<pre>johnj@tenkepadda:~$ vrms
+             Non-free packages installed on tenkepadda
+
+fglrx-modaliases          Identifiers supported by the ATI graphics driver
+linux-generic             Complete Generic Linux kernel
+linux-restricted-modules- Non-free Linux 2.6.28 modules helper script
+linux-restricted-modules- Restricted Linux modules for generic kernels
+nvidia-173-modaliases     Modaliases for the NVIDIA binary X.Org driver
+nvidia-180-modaliases     Modaliases for the NVIDIA binary X.Org driver
+nvidia-71-modaliases      Modaliases for the NVIDIA binary X.Org driver
+nvidia-96-modaliases      Modaliases for the NVIDIA binary X.Org driver
+opera                     The Opera Web Browser
+skype                     Skype - Take a deep breath
+sun-java5-bin             Sun Java(TM) Runtime Environment (JRE) 5.0 (architectu
+sun-java5-jre             Sun Java(TM) Runtime Environment (JRE) 5.0 (architectu
+sun-java5-plugin          The Java(TM) Plug-in, Java SE 5.0
+sun-java6-bin             Sun Java(TM) Runtime Environment (JRE) 6 (architecture
+sun-java6-jre             Sun Java(TM) Runtime Environment (JRE) 6 (architecture
+tangerine-icon-theme      Tangerine Icon theme
+unrar                     Unarchiver for .rar files (non-free version)
+  Reason: Modifications problematic
+
+ Non-free packages with status other than installed on tenkepadda
+
+picasa                    ( dei)  Image management application from Google
+
+             Contrib packages installed on tenkepadda
+
+flashplugin-installer     Adobe Flash Player plugin installer
+flashplugin-nonfree       Adobe Flash Player plugin installer (transitional pack
+nvidia-common             Find obsolete NVIDIA drivers
+sip-communicator          the Java VoIP and Instant Messaging client
+
+  Contrib packages with status other than installed on tenkepadda
+
+ttf-mscorefonts-installer ( dei)  Installer for Microsoft TrueType core fonts
+
+  18 non-free packages, 1.2% of 1555 installed packages.
+  5 contrib packages, 0.3% of 1555 installed packages.</pre>
+
+<pre>johnj@solo:~$ vrms
+           Non-free packages installed on solo.pjatt.net
+
+sun-java6-bin             Sun Java(TM) Runtime Environment (JRE) 6 (architecture
+sun-java6-jre             Sun Java(TM) Runtime Environment (JRE) 6 (architecture
+
+  2 non-free packages, 0.3% of 634 installed packages.</pre>
+
+
+<pre>johnj@sparrow:~$ vrms
+              Non-free packages installed on sparrow
+
+linux-restricted-modules- Non-free Linux 2.6.28 modules helper script
+linux-restricted-modules- Restricted Linux modules for server kernels
+linux-server              Complete Linux kernel on Server Equipment.
+unrar                     Unarchiver for .rar files (non-free version)
+  Reason: Modifications problematic
+
+  4 non-free packages, 0.6% of 709 installed packages.</pre>
+
+[[!tag  geeking]]

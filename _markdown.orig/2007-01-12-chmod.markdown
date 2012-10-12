@@ -1,0 +1,24 @@
+[[!meta  title="Chmod"]]
+[[!meta  date="2007-01-12 23:21:13"]]
+<strong>Permissions</strong>
+
+u - User who owns the file.
+g - Group that owns the file.
+o - Other.
+a - All.
+r - Read the file.
+w - Write or edit the file.
+x - Execute or run the file as a program.
+
+<strong>Numeric Permissions</strong>
+
+CHMOD can also to attributed by using Numeric Permissions:
+400 read by owner
+040 read by group
+004 read by anybody (other)
+200 write by owner
+020 write by group
+002 write by anybody
+100 execute by owner
+010 execute by group
+001 execute by anybody

@@ -1,0 +1,10 @@
+[[!meta  title="Rydder"]]
+[[!meta  date="2009-02-08 22:12:04"]]
+Ryddet litt opp i mailen min :
+
+<img alt="" src="http://dl.getdropbox.com/u/586160/opprydding.png" title="Rydder opp i mailen min" class="aligncenter" width="153" height="73"  />
+
+Tester også <a href="http://www.getdropbox.com/">dropbox</a>, ved å hoste bildet der. Driver å ser på måter å få opp hurtigheten på siten min. Jeg har funnet ut at det er denne Wordpress installasjonen som er treg, selv om jeg har tatt en clean install nå, så er det noe som gjør siten treg. Jeg gikk bort fra å bruke Wordpress på <a href="http://blurry-eyes.net/">blurry-eyes.net</a> og byttet til <a href="http://www.pixelpost.org/">pixelpost</a> der.
+
+[[!tag  cleaning]]
+[[!tag  geeking]]

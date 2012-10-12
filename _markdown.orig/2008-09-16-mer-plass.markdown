@@ -1,0 +1,8 @@
+[[!meta  title="Mer plass"]]
+[[!meta  date="2008-09-16 23:14:15"]]
+<pre>
+Filesystem                            Size  Used Avail Use% Mounted on
+/dev/mapper/sparrow-media  1.8T  615G  1.2T  35% /home/media
+</pre>
+
+[[!tag  generelt]]
