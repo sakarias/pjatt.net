@@ -1,5 +1,15 @@
-title="Ta deg litt vin"
-date="2011-01-30 23:55:06"
+---
+layout: post
+title: Ta deg litt vin
+date: 2011-01-30 23:55:06
+tags: 
+- humor
+---
+
+{{ page.title }}
+================
+
+
 <table cellpadding="10" cellspacing="10" width="100%">
 <tr>
 	<th>Fare!</th>
@@ -38,5 +48,3 @@ date="2011-01-30 23:55:06"
 	<td>Her - ta deg litt vin...</td>
 </tr>
 </table>
-
-[[!tag  generelt

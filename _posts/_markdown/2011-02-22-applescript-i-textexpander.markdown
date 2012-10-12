@@ -1,5 +1,16 @@
-title="AppleScript i TextExpander"
-date="2011-02-22 13:42:56"
+---
+layout: post
+title: AppleScript i TextExpander
+date: 2011-02-22 13:42:56
+tags: 
+- geeking
+- applescript
+- textexpander
+---
+
+{{ page.title }}
+================
+
 I forbindelse med jobb, så skriver jeg veldig mye av det samme opp igjen. F.eks «Ha en fin dag.» i slutten av epostene til kundene våre. Med hjelp av TextExpander og AppleScript så skrive jeg nå bare «hdag», og TextExpander vil kjøre det AppleScriptet jeg har assignet den forkortelsen. Så det blir en liten variasjon i hva kunden mottar.
 
 	set toDay to (weekday of (current date)) as text
@@ -13,8 +24,3 @@ I forbindelse med jobb, så skriver jeg veldig mye av det samme opp igjen. F.eks
 	end if
 	
 	return responsSentence
-
-[[!tag  applescript
-[[!tag  geeking
-[[!tag  textexpander
-[[!tag  work

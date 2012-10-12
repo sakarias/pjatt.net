@@ -1,5 +1,15 @@
-title="Velge bibliotek i iTunes med tastatursnarveier"
-date="2011-01-30 05:12:56"
+---
+layout: post
+title: Velge bibliotek i iTunes med tastatursnarveier
+date: 2011-01-30 05:12:56
+tags: 
+- geeking
+- applescript
+---
+
+{{ page.title }}
+================
+
 Som vi alle vet, så er ikke det mulig å velge bibilotek i iTunes med tastatursnarveier. Men det er en løsning på dette, min nye favoritt, AppleScript. Start opp «AppleScript Editor», og skriv inn følgende kode:
 <pre lang="applescript">tell application "iTunes"
 	try
@@ -25,7 +35,3 @@ tell application "iTunes"
 	end try
 end tell
 </pre>
-
-[[!tag  applescript
-[[!tag  geeking
-[[!tag  itunes

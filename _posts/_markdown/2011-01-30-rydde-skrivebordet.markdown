@@ -1,5 +1,15 @@
-title="Rydde skrivebordet"
-date="2011-01-30 20:28:44"
+---
+layout: post
+title: Rydde skrivebordet
+date: 2011-01-30 20:28:44
+tags: 
+- geeking
+- applescript
+---
+
+{{ page.title }}
+================
+
 Jeg er verdensmester i å lagre alt mulig på skrivebordet. Av og til så flytter jeg alt over i en egen mappe, som jeg sorterer senere. Istedet for å gjøre dette manuelt hver gang, så skrev jeg meg nettopp et AppleScript som gjør jobben for meg, og assignet en hurtigtast for dette.
 
 <pre lang="applescript">
@@ -32,6 +42,3 @@ tell application "Finder"
 	delete (every item of folder rotFolder whose label index = 0)
 end tell
 </pre>
-
-[[!tag  applescript
-[[!tag  generelt
