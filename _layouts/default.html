@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="{% if page.summary %}{{ page.summary }} {% endif %}">
+	<link rel="alternate" href="http://pjatt.net/feed/" type="application/rss+xml">
+	<meta name="viewport" content="width=device-width">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<title>{{page.title}}</title>
+	<link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
+</head>
+<body>
+	<header>
+		<{% if page.title_element %}{{ page.title_element }}{% else %}h2{% endif %} class="site_title"><a href="/">Sakarias NettJournal</a> <span style="color:#ccc;font-size:19px;"></span></{% if page.title_element %}{{ page.title_element }}{% else %}h2{% endif %}>
+		<ul id="nav"><li class="nav_list_item" style="text-align:left"><a class="nav_list_link" href="http://slaskdot.org/">om meg</a></li><li class="nav_list_item" style="left:2px;"><a class="nav_list_link" href="/projects">prosjekter</a></li><li class="nav_list_item" style="text-align:right"><a class="nav_list_link" href="/archives">arkiv</a></li></ul>
+	</header>
+	<section>
+		{{content}}
+	</section>
+	<footer>
+		Site design is shamelessly "stolen" from <a href="https://github.com/charliepark/charliepark.github.com/">Charlie Park</a>.
+	</footer>
+</body>
+</html>
