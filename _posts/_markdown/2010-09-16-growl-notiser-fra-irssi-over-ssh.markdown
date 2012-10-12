@@ -1,5 +1,15 @@
-title="Growl notiser fra irssi over ssh"
-date="2010-09-16 16:33:10"
+---
+layout: post
+title: Growl notiser fra irssi over ssh
+date: 2010-09-16 16:33:10
+tags: 
+- geeking
+- irc
+---
+
+{{ page.title }}
+================
+
 Først og fremst så trenger du fnotify plugin til irssi, denne kan du laste ned fra <a href="http://www.leemhuis.info/files/fnotify/">http://www.leemhuis.info/files/fnotify/</a>. Putt denne i "~<code>/.irssi/scripts</code>" og lag en symlink til denne i "<code>~/.irssi/scripts/autorun</code>", slik at den blir lastet neste gang irssi blir startet på nytt. Neste steg er å laste modulen, dette gjøres i irssi, "<code>/script load fnotify</code>".
 
 Husk å installer growlnotify, denne finnes i Extras mappen i .dmg fila du laster ned fra <a href="http://growl.info/">growl.info</a>.
@@ -37,9 +47,3 @@ do
 fi
 done)&
 </pre>
-
-[[!tag  geeking
-[[!tag  growl
-[[!tag  irssi
-[[!tag  osx
-[[!tag  screen

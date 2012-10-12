@@ -1,5 +1,16 @@
-title="Sette opp AFTP i Ubuntu 10.04 (med Time Machine)"
-date="2010-04-04 20:21:05"
+---
+layout: post
+title: Sette opp AFTP i Ubuntu 10.04 (med Time Machine)
+date: 2010-04-04 20:21:05
+tags: 
+- geeking
+- time machine
+---
+
+{{ page.title }}
+================
+
+
 Først og fremst så trenger man å installere <a href="http://netatalk.sourceforge.net/">netatalk</a>.
 
 <code>sudo apt-get install netatalk</code>
@@ -46,8 +57,3 @@ For å bruke Ubuntu serveren din som mål for Time Machine, så må Time Machine
 Hvis du har oppgradert fra Ubuntu 9.04 til 10.04, så har netatalk forandret på database filene sine, og montering av shares vil feile fra din Mac, løsningen er å slette <a href="http://netatalk.sourceforge.net/wiki/index.php/SpecialFilesFolders">.AppleDB</a> katalogene på dine shares.
 
 <code>find &lt;sti til lagerplass&gt; -name '.AppleDB' -exec rm -rfv {} \;</code>
-
-[[!tag  geeking
-[[!tag  mac
-[[!tag  time-machine
-[[!tag  ubuntu

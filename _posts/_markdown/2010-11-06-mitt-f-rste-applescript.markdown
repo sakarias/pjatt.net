@@ -1,5 +1,15 @@
-title="Mitt første AppleScript"
-date="2010-11-06 19:25:44"
+---
+layout: post
+title: Mitt første AppleScript
+date: 2010-11-06 19:25:44
+tags: 
+- geeking
+- applescript
+---
+
+{{ page.title }}
+================
+
 Skrev mitt første AppleScript i dag. Til bruk i <a href="http://www.thesparklabs.com/viscosity/">Viscosity</a> VPN klienten for Mac, for å montere opp afp shares fra office serveren når jeg koblet meg til jobben sitt VPN nett.
 
 <pre lang="applescript">-- Written by John Johannessen - 2010
@@ -29,6 +39,3 @@ else
 		end tell
 	end repeat
 end if</pre>
-
-[[!tag  applescript
-[[!tag  geeking

@@ -1,5 +1,14 @@
-title="Oppgradering av Mac Pro"
-date="2010-08-01 04:25:19"
+---
+layout: post
+title: Oppgradering av Mac Pro
+date: 2010-08-01 04:25:19
+tags: 
+- geeking
+---
+
+{{ page.title }}
+================
+
 <img class="aligncenter size-medium wp-image-1002" title="starcraft_2" src="http://pjatt.net/images/2010/08/starcraft_2-300x250.png" alt="" width="300" height="250"  />
 
 <img class="alignleft size-medium wp-image-1012" title="Dell U2311H Ultrasharp" src="http://pjatt.net/images/2010/08/Dell-U2311H-Ultrasharp-296x300.jpg" alt="" width="237" height="240"  />Venter min kopi av StarCraft II fra cdon.com. Har planlagt oppgradering av Mac Pro'n min lenge, men det var StarCraft II sine systemkrav som fikk meg til å slutte å tenke på oppgraderingen, som jeg har gjort nå i rundt 2 år. Og faktisk gjøre noe med det.
@@ -11,8 +20,3 @@ Mac Pro'n min begynner å trekke litt på årene. Den kom levert med ATI Radeon 
 "Oppgraderer" i samme slengen skjerm. Jeg har i dag 2 x 20.1" Dell UltraSharp 2007FP (4:3) skjermer. Har bestillt en 23" Dell Ultrasharp U2311H (16:9) skjerm. Dustinhome solgte denne skjermen 1 371,- kr <strong>billigere</strong> enn Dell selv.
 
 Planen min er å la de to gamle skjermene mine være tilkoblet det gamle skjermkortet mitt og den nye skjermen kobles til det nye skjermkortet. Så 23" blir nye primary skjermen min, med de to gamle på hver sin side av denne. Håper ikke at dette resulterer i at jeg må "oppgradere" pulten min også :P
-
-[[!tag  apple
-[[!tag  geeking
-[[!tag  mac-pro
-[[!tag  upgrade
