@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Update is Available for Your Computer
-date: 2012-10-12 10:07:07
+date: 2011-02-25 10:07:07
 tags: 
 - geeking
 - humor
