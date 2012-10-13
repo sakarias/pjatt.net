@@ -7,10 +7,8 @@ tags:
 - prosjekt ipad
 ---
 
-{{ page.title }}
-================
+<img src="http://pjatt.net/images/2011/03/20110327-041656.jpg" alt="20110327-041656.jpg" class="alignnone size-full" />
 
-<a href="http://pjatt.net/images/2011/03/20110327-041656.jpg"><img src="http://pjatt.net/images/2011/03/20110327-041656.jpg" alt="20110327-041656.jpg" class="alignnone size-full"  /></a>
 Har gått til innkjøp av en iPad 2, og i den forbindelse så har jeg tenkt til å prøve å kun leve med denne enheten i en uke, som min eneste "datamaskin"... nesten. Jeg må bruke en vanlig maskin i forbindelse med jobb, men utover det så skal jeg kun bruke iPad.
 
 På slutten av uken/prosjektet så få man se om man er overbevist om at dette er plattformen for framtiden, eller om jeg har begynt å gnage på veggen.

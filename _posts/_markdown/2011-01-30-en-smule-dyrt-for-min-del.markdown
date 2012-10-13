@@ -6,12 +6,9 @@ tags:
 - geeking
 ---
 
-{{ page.title }}
-================
-
 Tenkte jeg skulle kjøpe <a href="http://machinarium.net/demo/">Machinarium</a> i dag, men spillet er en smule dyrt for min del.
 
-<img src="http://pjatt.net/images/2011/01/Machinarium.png" alt="" title="Machinarium" width="745" height="303" class="aligncenter size-full wp-image-1094"  />
+<img src="http://pjatt.net/images/2011/01/Machinarium.png" alt="" title="Machinarium" width="745" height="303" class="aligncenter size-full wp-image-1094" />
 
 Tror det må være en bug om i omregningen dems, spillet kan jo ikke koste så mye!
 

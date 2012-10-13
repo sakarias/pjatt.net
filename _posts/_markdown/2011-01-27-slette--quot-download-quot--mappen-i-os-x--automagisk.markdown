@@ -7,19 +7,14 @@ tags:
 - applescript
 ---
 
-{{ page.title }}
-================
+Så et innlegg av [MacGeeky](http://www.macgeeky.no/slett-filer-og-mapper-i-nedlastinger-med-tast)" i dag, og prøve å gjøre det samme med hans kode. Men den bare feilet, så jeg skrev min egen kode.
 
-Så et innlegg av <a href="http://www.macgeeky.no/slett-filer-og-mapper-i-nedlastinger-med-tast">MacGeeky</a> i dag, og prøve å gjøre det samme med hans kode. Men den bare feilet, så jeg skrev min egen kode.
-
-<pre lang="applescript">
-set downloadFolder to (((path to home folder) as text) & "Downloads") as alias
-tell application "Finder"
-	delete (every item of folder downloadFolder whose label index = 0)
-	empty trash
-	beep
-end tell
-</pre>
+	set downloadFolder to (((path to home folder) as text) & "Downloads") as alias
+	tell application "Finder"
+		delete (every item of folder downloadFolder whose label index = 0)
+		empty trash
+		beep
+	end tell
 
 Synes koden min er litt mer effektiv og korrekt, pluss at jeg har lagt til bittelitt mer. Automagisk tømming av søppelbøtta pluss en lyd når den er ferdig.
 

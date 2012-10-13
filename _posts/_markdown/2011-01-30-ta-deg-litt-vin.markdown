@@ -6,10 +6,6 @@ tags:
 - humor
 ---
 
-{{ page.title }}
-================
-
-
 <table cellpadding="10" cellspacing="10" width="100%">
 <tr>
 	<th>Fare!</th>
