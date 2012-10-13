@@ -1,5 +1,8 @@
-title="30+"
-date="2008-07-24 00:31:29"
+---
+layout: post
+title: 30+
+date: 2008-07-24 00:31:29
+tags: 
+- tanker
+---
 Nå kan jeg si at jeg er over 30 år gammel :S
-
-[[!tag  tanker

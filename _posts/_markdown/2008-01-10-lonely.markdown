@@ -1,5 +1,8 @@
-title="Lonely"
-date="2008-01-10 23:11:36"
-<blockquote>Loneliness in large doses can twist people so badly that they can't recognize them self anymore.</blockquote>
-
-[[!tag  tanker
+---
+layout: post
+title: Lonely
+date: 2008-01-10 23:11:36
+tags: 
+- tanker
+---
+	Loneliness in large doses can twist people so badly that they can't recognize them self anymore.

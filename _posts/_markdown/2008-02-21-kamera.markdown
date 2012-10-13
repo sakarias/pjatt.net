@@ -1,13 +1,15 @@
-title="Kamera"
-date="2008-02-21 13:05:01"
-Det var vel igrunn påtide at jeg også gikk til anskaffelse av et kamera. Siden jeg ikke er noe spes flink til å ta bilder, eller ha talent for det, så kjøpte jeg meg et billig kamera. Valget mitt falt på et <a href="http://www.usa.canon.com/consumer/controller?act=ModelInfoAct&fcategoryid=139&modelid=11154">Canon 350D</a> (også kjent som Canon Digital Rebel XT). Kameraet kom i går, og jeg har allerede nå funnet ut at jeg trenger et par linser til og tripod. Men det får vente.
+---
+layout: post
+title: Kamera
+date: 2008-02-21 13:05:01
+tags: 
+- generelt
+---
+Det var vel igrunn påtide at jeg også gikk til anskaffelse av et kamera. Siden jeg ikke er noe spes flink til å ta bilder, eller ha talent for det, så kjøpte jeg meg et billig kamera. Valget mitt falt på et <a href="http://www.usa.canon.com/consumer/controller?act=ModelInfoAct&fcategoryid=139&modelid=11154">Canon 350D</a> (også kjent som Canon Digital Rebel XT). 
 
-Først og fremst så må jeg lære meg å bruke kameraet på den "kreative" siden av skruknappen på toppen. Har enda igjen å finne ut hva P, Tv, Av, M og A-DEP står for, men det kommer sikker etter hvert.
+Kameraet kom i går, og jeg har allerede nå funnet ut at jeg trenger et par linser til og tripod. Men det får vente. Først og fremst så må jeg lære meg å bruke kameraet på den "kreative" siden av skruknappen på toppen. Har enda igjen å finne ut hva P, Tv, Av, M og A-DEP står for, men det kommer sikker etter hvert. 
 
-<div align="center"><a href='http://pjatt.net/images/2008/02/img_0213.jpg' title='General'><img src='http://pjatt.net/images/2008/02/img_0213.jpg' alt='General'  /></a></div>
-
-<div align="center"><a href='http://pjatt.net/images/2008/02/img_0096.jpg' title='Nokia E65'><img src='http://pjatt.net/images/2008/02/img_0096.jpg' alt='Nokia E65'  /></a></div>
+<img src='http://pjatt.net/images/2008/02/img_0213.jpg' alt='General' />
+<img src='http://pjatt.net/images/2008/02/img_0096.jpg' alt='Nokia E65' /> 
 
 Litt uskarpe bilder, men dem ble tatt på frihånd. Jeg skjelver litt for mye til at bildene blir helt skarpe enda.
-
-[[!tag  generelt

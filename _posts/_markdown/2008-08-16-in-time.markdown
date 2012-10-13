@@ -1,7 +1,10 @@
-title="In time"
-date="2008-08-16 07:18:58"
-<blockquote>"It has been said, 'time heals all wounds.'  I do not agree.  The wounds remain.  In time, the mind, protecting its sanity, covers them with scar tissue, and the pain lessens.  But it is never gone."</blockquote>
+---
+layout: post
+title: In time
+date: 2008-08-16 07:18:58
+tags: 
+- tanker
+---
+	"It has been said, 'time heals all wounds.'  I do not agree.  The wounds remain.  In time, the mind, protecting its sanity, covers them with scar tissue, and the pain lessens.  But it is never gone."
 
 -- Rose Kennedy
-
-[[!tag  tanker

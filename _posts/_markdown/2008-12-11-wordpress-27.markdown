@@ -1,9 +1,12 @@
-title="Wordpress 2.7"
-date="2008-12-11 08:01:29"
-Har nettopp oppgradert denne bloggen og <a href="http://blurry-eyes.net/">Blurry Eyes</a> til siste versjon av Wordpress. Siden jeg er meget lat, så bruker jeg subversionen til Wordpress folka til å oppdatere bloggene mine, alt jeg trengte var å skrive <code>svn sw http://svn.automattic.com/wordpress/tags/2.7 .</code> for å oppgradere bloggene.
+---
+layout: post
+title: Wordpress 2.7
+date: 2008-12-11 08:01:29
+tags: 
+- blurry-eyes
+- generelt
+- wordpress
+---
+Har nettopp oppgradert denne bloggen og <a href="http://blurry-eyes.net/">Blurry Eyes</a> til siste versjon av Wordpress. Siden jeg er meget lat, så bruker jeg subversionen til Wordpress folka til å oppdatere bloggene mine, alt jeg trengte var å skrive ```svn sw http://svn.automattic.com/wordpress/tags/2.7 .``` for å oppgradere bloggene.
 
 Jeg bruker et spesielt theme på Blurry Eyes som tydeligvis ikke likte nye wordpress, så den bloggen er litt ute av drift akkurat nå.
-
-[[!tag  blurry-eyes
-[[!tag  generelt
-[[!tag  wordpress

@@ -1,6 +1,10 @@
-title="My home"
-date="2008-10-19 20:30:20"
-Flere har lurt på hvordan det ser ut hjemme hos meg nå, så jeg tok noen kjappe bilder nå i kveld.
-<p style="text-align: center;"><a href="http://pjatt.net/stuff/stua/">http://pjatt.net/stuff/stua/</a></p>
+---
+layout: post
+title: My home
+date: 2008-10-19 20:30:20
+tags: 
+- generelt
+---
+Flere har lurt på hvordan det ser ut hjemme hos meg nå, så jeg tok noen kjappe bilder nå i kveld. 
 
-[[!tag  generelt
+<a href="http://pjatt.net/stuff/stua/">http://pjatt.net/stuff/stua/</a>

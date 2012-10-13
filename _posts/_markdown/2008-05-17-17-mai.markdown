@@ -1,5 +1,8 @@
-title="17 mai"
-date="2008-05-17 15:10:55"
-<div align="center"><a href='http://pjatt.net/images/2008/05/norwegianday08.gif'><img src="http://pjatt.net/images/2008/05/norwegianday08.gif" alt="" title="norwegian day 08" width="284" height="110"  /></a></div>
-
-[[!tag  generelt
+---
+layout: post
+title: 17 mai
+date: 2008-05-17 15:10:55
+tags: 
+- generelt
+---
+<div align="center"><a href='http://pjatt.net/images/2008/05/norwegianday08.gif'><img src="http://pjatt.net/images/2008/05/norwegianday08.gif" alt="" title="norwegian day 08" width="284" height="110" /></a></div>

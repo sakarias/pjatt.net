@@ -1,5 +1,9 @@
-title="Borte"
-date="2008-05-06 07:59:44"
-<a href="http://pjatt.net/images/2008/05/borte.jpg"><img class="aligncenter size-medium wp-image-528" title="Borte" src="http://pjatt.net/images/2008/05/borte.jpg" alt="" width="300" height="225"  /></a>
+---
+layout: post
+title: Borte
+date: 2008-05-06 07:59:44
+tags: 
+- generelt
+---
 
-[[!tag  generelt
+<a href="http://pjatt.net/images/2008/05/borte.jpg"><img class="aligncenter size-medium wp-image-528" title="Borte" src="http://pjatt.net/images/2008/05/borte.jpg" alt="" width="300" height="225" /></a>

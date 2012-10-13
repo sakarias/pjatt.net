@@ -1,5 +1,9 @@
-title="Garbage"
-date="2008-05-02 15:33:19"
-<blockquote>You treat me like garbage, therefore you must like me.</blockquote>
+---
+layout: post
+title: Garbage
+date: 2008-05-02 15:33:19
+tags: 
+- tanker
+---
 
-[[!tag  tanker
+	You treat me like garbage, therefore you must like me.

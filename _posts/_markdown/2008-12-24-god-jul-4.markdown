@@ -1,6 +1,11 @@
-title="God Jul"
-date="2008-12-24 15:38:35"
-<pre>
+---
+layout: post
+title: God Jul
+date: 2008-12-24 15:38:35
+tags: 
+- generelt
+---
+
            *             ,
                        _/^\_
                       <     >
@@ -26,6 +31,3 @@ date="2008-12-24 15:38:35"
                  .--' ')
                o(  )_-\
                  `"""` `
-</pre>
-
-[[!tag  generelt

@@ -1,5 +1,14 @@
-title="Novell Groupwise 8 på Ubuntu"
-date="2008-12-05 20:28:30"
+---
+layout: post
+title: Novell Groupwise 8 på Ubuntu
+date: 2008-12-05 20:28:30
+tags: 
+- geeking
+- groupwise
+- linux
+- novell
+- ubuntu
+---
 <img src="http://pjatt.net/images/2008/12/groupwise-8-linux.png" alt="" title="Groupwise 8 Ubuntu" width="449" height="449" class="aligncenter size-full wp-image-688"  />
 
 Besøk novell.com og last ned "<a href="http://download.novell.com/Download?buildid=v3w3LYhP1vU~">GroupWise 8 Linux Client</a>", om du velger US eller multi er helt opp til deg, om du vil ha ordbøker for andre språk enn amerikansk.
@@ -13,15 +22,10 @@ Installer RPM-pakken: "sudo alien -i novell-groupwise-gwclient-8.0.0-84910.i586.
 Last ned Sun JRE 1.6 fra <a href="http://java.com/">http://java.com/</a>.
 
 Pakken den ut i GroupWise mappen:
-<code>sudo mv jre-6u11-linux-i586.bin /opt/novell/groupwise/client
-cd /opt/novell/groupwise/client
-sudo chmod +x ./jre-6u11-linux-i586.bin
-sudo ./jre-6u11-linux-i586.bin
-sudo mv jre jre.old
-sudo ln -s jre1.6.0_11 jre</code>
 
-[[!tag  geeking
-[[!tag  groupwise
-[[!tag  linux
-[[!tag  novell
-[[!tag  ubuntu
+	sudo mv jre-6u11-linux-i586.bin /opt/novell/groupwise/client
+	cd /opt/novell/groupwise/client
+	sudo chmod +x ./jre-6u11-linux-i586.bin
+	sudo ./jre-6u11-linux-i586.bin
+	sudo mv jre jre.old
+	sudo ln -s jre1.6.0_11 jre

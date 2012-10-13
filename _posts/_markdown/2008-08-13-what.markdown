@@ -1,5 +1,9 @@
-title="What"
-date="2008-08-13 19:35:25"
-<blockquote>What we do for our selves dies with us. What we do for others and the world remains and is immortal.</blockquote>
-
-[[!tag  tanker
+---
+layout: post
+title: What
+date: 2008-08-13 19:35:25
+tags: 
+- tanker
+---
+	What we do for our selves dies with us.
+	What we do for others and the world remains and is immortal.

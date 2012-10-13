@@ -1,5 +1,12 @@
-title="Sommerferie 2009"
-date="2008-12-08 00:51:58"
+---
+layout: post
+title: Sommerferie 2009
+date: 2008-12-08 00:51:58
+tags: 
+- geeking
+- hacking
+- har
+---
 <img src="http://pjatt.net/images/2008/12/har2009.png" alt="" title="HAR 2009" width="500" height="277" class="aligncenter size-full wp-image-681"  />
 
 I dag ble det impulsivt bestemt at jeg skal til <a href="http://har2009.org/">Hacking at Random</a> (HAR) 2009 i august, 2009.
@@ -13,8 +20,5 @@ Jeg har lagt inn fjorten dagers ferie i kalendersystemet på jobb, fra 10 til 24
 Nå er det bare å tvinne tommeltotter i litt over åtte måneder, planlegge hva man skal ha med seg om seks måneders tid og begynne å handle inn ting jeg ikke har, som telt osv.
 
 Likte utsagnet til Halvor på IRC så godt, at jeg må sitere det her:
-<blockquote>09.12|11:14:38 +L2-CaStLe> Har sagt i flere år at jeg vil reise på Roskilde, og når jeg først drar på festival blir det geek-camp, funnaj how things work out =P</blockquote>
 
-[[!tag  geeking
-[[!tag  hacking
-[[!tag  har
+```09.12|11:14:38 +L2-CaStLe> Har sagt i flere år at jeg vil reise på Roskilde, og når jeg først drar på festival blir det geek-camp, funnaj how things work out =P```

@@ -1,6 +1,9 @@
-title="Dragons"
-date="2008-07-15 16:51:00"
-<blockquote>Fairy tales don't tell children dragons exist, children already know dragons exist. Fairy tales tell children dragons can be killed.</blockquote>
+---
+layout: post
+title: Dragons
+date: 2008-07-15 16:51:00
+tags: 
+- tanker
+---
+	Fairy tales don't tell children dragons exist, children already know dragons exist. Fairy tales tell children dragons can be killed.
 -- <a href="http://en.wikipedia.org/wiki/G._K._Chesterton">G. K. Chesterton</a>
-
-[[!tag  tanker

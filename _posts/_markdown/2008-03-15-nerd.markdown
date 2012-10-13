@@ -1,11 +1,12 @@
-title="Nerd"
-date="2008-03-15 22:27:22"
+---
+layout: post
+title: Nerd
+date: 2008-03-15 22:27:22
+tags: 
+- geeking
+---
 <div align="center">
-<a href="http://www.nerdtests.com/nq_ref.html">
-<img src="http://www.nerdtests.com/images/badge/851fdf2e23cc3a99.gif" alt="I am nerdier than 92% of all people. Are you a nerd? Click here to find out!" /></a>
-<br  /><br  />
-<a href="http://www.nerdtests.com/nt2ref.html">
-<img src="http://www.nerdtests.com/images/badge/nt2/5ca2e8a95ab0f89e.png" alt="NerdTests.com says I'm a Slightly Dorky Nerd King.  What are you?  Click here!" />
-</a></div>
+<a href="http://www.nerdtests.com/nq_ref.html"> <img src="http://www.nerdtests.com/images/badge/851fdf2e23cc3a99.gif" alt="I am nerdier than 92% of all people. Are you a nerd? Click here to find out!" /></a>
 
-[[!tag  geeking
+<a href="http://www.nerdtests.com/nt2ref.html"> <img src="http://www.nerdtests.com/images/badge/nt2/5ca2e8a95ab0f89e.png" alt="NerdTests.com says I'm a Slightly Dorky Nerd King. What are you? Click here!" /> </a>
+</div>
