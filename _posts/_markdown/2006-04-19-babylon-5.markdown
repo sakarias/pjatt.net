@@ -1,9 +1,10 @@
-title="Babylon 5"
-date="2006-04-19 23:24:49"
-<div align="center"><img id="image257" src="http://pjatt.net/images/2006/04/633_02.jpg" alt="Babylon 5"  /></div>
+---
+layout: post
+title: Babylon 5
+date: 2006-04-19 23:24:49
+tags: 
+- generelt
+---
+<div align="center"><img id="image257" src="http://pjatt.net/images/2006/04/633_02.jpg" alt="Babylon 5" /></div>
 
-Nå har jeg nettopp sett første sesong av <a href="http://www2.warnerbros.com/babylon5/home.html">Babylon 5</a>, og jeg må si at serien er like god som jeg husket den. Selv om jeg nå legger merke til at serien er gammel, den ser ikke like falsk ut som Airwolf som jeg også har begynt å se på. Jeg tror jeg har sett hele Babylon 5 serien før, men er ikke sikker. Jeg hadde iallfall sett alt i sesong 1. Tenkte jeg skulle se første episoden av sesong 2 nå også køye.
-
-Jeg har også satt opp slik at videobildet vises på den gamle 19" CRT skjermen min. Slik at jeg faktisk kan gjøre andre ting når jeg sitter å ser på serier. Blir litt rastløs etter å ha sittet å sett noe man sånn delvis husker i 45 minutter. Skal gjøre om litt på oppsettet i morgen, så er alt bare plassert for å testing. Skal prøve å få plassert laptopen slik at skjermen kommer i hode høyde slik at jeg ikke får så vondt i nakken etter noen timer. Kommer da også til å bruke vanlig tastatur og mus, men siden jeg har både mac tastatur og mus så kommer det til å se så pent ut atte :P
-
-[[!tag  generelt
+Nå har jeg nettopp sett første sesong av <a href="http://www2.warnerbros.com/babylon5/home.html">Babylon 5</a>, og jeg må si at serien er like god som jeg husket den. Selv om jeg nå legger merke til at serien er gammel, den ser ikke like falsk ut som Airwolf som jeg også har begynt å se på. Jeg tror jeg har sett hele Babylon 5 serien før, men er ikke sikker. Jeg hadde iallfall sett alt i sesong 1. Tenkte jeg skulle se første episoden av sesong 2 nå også køye. Jeg har også satt opp slik at videobildet vises på den gamle 19" CRT skjermen min. Slik at jeg faktisk kan gjøre andre ting når jeg sitter å ser på serier. Blir litt rastløs etter å ha sittet å sett noe man sånn delvis husker i 45 minutter. Skal gjøre om litt på oppsettet i morgen, så er alt bare plassert for å testing. Skal prøve å få plassert laptopen slik at skjermen kommer i hode høyde slik at jeg ikke får så vondt i nakken etter noen timer. Kommer da også til å bruke vanlig tastatur og mus, men siden jeg har både mac tastatur og mus så kommer det til å se så pent ut atte :P

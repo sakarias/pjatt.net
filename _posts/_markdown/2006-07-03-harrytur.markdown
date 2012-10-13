@@ -1,7 +1,8 @@
-title="Harrytur"
-date="2006-07-03 19:20:44"
-I morgen den dag skal jeg vist på harrytur. Så jeg må opp rundt åtte :( Er greit nok å våkne rundt åtte, men å stå opp blir ille.
-
-Polkvoten har vist blitt økt også, men selvsagt ikke på sprit, jeg er ikke intressert i hverken øl eller vin.
-
-[[!tag  generelt
+---
+layout: post
+title: Harrytur
+date: 2006-07-03 19:20:44
+tags: 
+- generelt
+---
+I morgen den dag skal jeg vist på harrytur. Så jeg må opp rundt åtte :( Er greit nok å våkne rundt åtte, men å stå opp blir ille. Polkvoten har vist blitt økt også, men selvsagt ikke på sprit, jeg er ikke intressert i hverken øl eller vin.

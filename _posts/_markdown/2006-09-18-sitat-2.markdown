@@ -1,5 +1,8 @@
-title="Sitat"
-date="2006-09-18 15:25:24"
+---
+layout: post
+title: Sitat
+date: 2006-09-18 15:25:24
+tags: 
+- generelt
+---
 Our lives begin to end the day we become silent about things that matter.
-
-[[!tag  generelt

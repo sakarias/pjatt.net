@@ -1,7 +1,8 @@
-title="Dance"
-date="2006-05-18 10:58:37"
-På grunnlag av at jeg ikke får filmen til å ikke autostarte, så linker jeg til den istedet. Er litt lei av å høre "The evolution of dance" hver gang jeg besøker siden min for å gjøre noe.
-
-<a href="http://clip.break.com/dnet/media/content/evolutiondance.wmv">hhttp://clip.break.com/dnet/media/content/evolutiondance.wmv</a>
-
-[[!tag  generelt
+---
+layout: post
+title: Dance
+date: 2006-05-18 10:58:37
+tags: 
+- generelt
+---
+På grunnlag av at jeg ikke får filmen til å ikke autostarte, så linker jeg til den istedet. Er litt lei av å høre "The evolution of dance" hver gang jeg besøker siden min for å gjøre noe. <a href="http://clip.break.com/dnet/media/content/evolutiondance.wmv">http://clip.break.com/dnet/media/content/evolutiondance.wmv</a>

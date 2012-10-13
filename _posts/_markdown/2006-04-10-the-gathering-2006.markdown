@@ -1,11 +1,8 @@
-title="The Gathering 2006"
-date="2006-04-10 19:09:10"
-Om ca 23 timer så møter jeg opp forran hallen på Hamar. Bare 11 timer før hallen åpnes for registrering. Med andre ord 34 timer igjen til årets happening starter.
-
-Et LiLUG medlem skal ha med seg campingvogn og lurte på om jeg ville være med på dagen før "festen". Jeg takket ja etter at jeg fikk snakket med min sjåfør om det var greit å reise et døgn før.
-
-Så da er det bare å håpe på pent vær og gode naboer slik at man kan sitte ute og prate nerd hele natta. Tror jeg gleder meg, men gleder meg ikke til det jeg burde gjøre nå. Pakke... Har skrevet huskeliste, men synes det er utrolig kjett å finne fram det som står på lista og putte det i bagger og sekker.
-
-Jeg har satt opp auto nedlasting av webcam sendingen av hallen en gang i timen som blir lagt opp i <a href="http://gallery.sakarias.net/The%20Gathering/The%20Gathering%202006/Webcam/">billedgalleriet</a> mitt. Tenker å kanskje sette det sammen til en liten videosnutt mot slutten av samligen, så sant ikke webcam'et blir borte etter hvert.
-
-[[!tag  generelt
+---
+layout: post
+title: The Gathering 2006
+date: 2006-04-10 19:09:10
+tags: 
+- generelt
+---
+Om ca 23 timer så møter jeg opp forran hallen på Hamar. Bare 11 timer før hallen åpnes for registrering. Med andre ord 34 timer igjen til årets happening starter. Et LiLUG medlem skal ha med seg campingvogn og lurte på om jeg ville være med på dagen før "festen". Jeg takket ja etter at jeg fikk snakket med min sjåfør om det var greit å reise et døgn før. Så da er det bare å håpe på pent vær og gode naboer slik at man kan sitte ute og prate nerd hele natta. Tror jeg gleder meg, men gleder meg ikke til det jeg burde gjøre nå. Pakke... Har skrevet huskeliste, men synes det er utrolig kjett å finne fram det som står på lista og putte det i bagger og sekker. Jeg har satt opp auto nedlasting av webcam sendingen av hallen en gang i timen som blir lagt opp i <a href="http://gallery.sakarias.net/The%20Gathering/The%20Gathering%202006/Webcam/">billedgalleriet</a> mitt. Tenker å kanskje sette det sammen til en liten videosnutt mot slutten av samligen, så sant ikke webcam'et blir borte etter hvert.

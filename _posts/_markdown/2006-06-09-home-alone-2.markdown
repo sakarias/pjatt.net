@@ -1,7 +1,8 @@
-title="Home alone"
-date="2006-06-09 18:10:05"
-Ah... Søsken er i Kongsvinger å besøker venner, de gamle jagde jeg på telttur... Skal bli deilig med huset helt for meg selv...
-
-God helg!
-
-[[!tag  generelt
+---
+layout: post
+title: Home alone
+date: 2006-06-09 18:10:05
+tags: 
+- generelt
+---
+Ah... Søsken er i Kongsvinger å besøker venner, de gamle jagde jeg på telttur... Skal bli deilig med huset helt for meg selv... God helg!

@@ -1,5 +1,8 @@
-title="God Jul"
-date="2006-12-24 16:05:26"
+---
+layout: post
+title: God Jul
+date: 2006-12-24 16:05:26
+tags: 
+- generelt
+---
 Vil bare ønske alle dere lesere av denne bloggen riktig god jul, begge to av dere :P
-
-[[!tag  generelt

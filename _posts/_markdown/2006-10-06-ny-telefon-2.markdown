@@ -1,5 +1,10 @@
-title="Ny telefon"
-date="2006-10-06 09:08:14"
-<a class="imagelink" href="http://pjatt.net/images/2006/10/k800i1.jpg" title="K800i"><img id="image350" src="http://pjatt.net/images/2006/10/k800i1.forhaandsvisning.jpg" alt="K800i" align="left" style="margin-right: 5px;"  /></a>Vel, da har jeg bestillt meg ny telefon, en Sony Ericsson K800i. Gleder meg som en liten unge til en tlf som kanskje fungerer. Og som kanskje har dekning her i gokk. Kjøpte med meg et 512MB minnekort også, det var utsolgt for 1GB kort :(
+---
+layout: post
+title: Ny telefon
+date: 2006-10-06 09:08:14
+tags: 
+- generelt
+---
+<a class="imagelink" href="http://pjatt.net/images/2006/10/k800i1.jpg" title="K800i"><img id="image350" src="http://pjatt.net/images/2006/10/k800i1.forhaandsvisning.jpg" alt="K800i" align="left" style="margin-right: 5px;" /></a>
 
-[[!tag  generelt
+Vel, da har jeg bestillt meg ny telefon, en Sony Ericsson K800i. Gleder meg som en liten unge til en tlf som kanskje fungerer. Og som kanskje har dekning her i gokk. Kjøpte med meg et 512MB minnekort også, det var utsolgt for 1GB kort :(

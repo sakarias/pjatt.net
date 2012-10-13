@@ -1,5 +1,10 @@
-title="The Four Seasons"
-date="2006-10-04 15:41:20"
+---
+layout: post
+title: The Four Seasons
+date: 2006-10-04 15:41:20
+tags: 
+- generelt
+---
 Springtime is upon us.
 The birds celebrate her return with festive song,
 and murmuring streams are softly caressed by the breezes.
@@ -41,5 +46,3 @@ We tread the icy path slowly and cautiously, for fear of tripping and falling.
 Then turn abruptly, slip, crash on the ground and, rising, hasten on across the ice lest it cracks up.
 We feel the chill north winds course through the home despite the locked and bolted doors...
 this is winter, which nonetheless brings its own delights.
-
-[[!tag  generelt

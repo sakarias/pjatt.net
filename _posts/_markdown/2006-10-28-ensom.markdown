@@ -1,14 +1,8 @@
-title="Ensom?"
-date="2006-10-28 05:17:09"
-Jeg sitter her alene klokken 7 om morgenen og venter på at rusen min skal bli nedadgående slik at jeg kan legge meg uten at morgen dagen skal bli alt for ille.
-
-Jeg sitter her å funderer på hvorfor jeg bestandig skal bli betatt av jenter som enten er opptatt eller ikke vil ha noe med meg å gjøre. Tror jeg aldri kommer til å få noe svar på det spørsmålet, så jeg kan fundere så mye jeg orker uten å bli noe spesielt klokere. Men du sjarmerte meg iallfall i senk i kveld du søte, morsomme jente.
-
-Savner deg allerede.
-Synd vi aldri kommer til å møtes igjen, takk for en koselig kveld.
-
-God natt og sov godt og drøm søtt.
-
-<strong>Update :</strong> Nå er klokken åtte, da kan jeg legge meg til å sove. Skal bli godt. Tenker på deg, hvor du nå enn er i verden.
-
-[[!tag  generelt
+---
+layout: post
+title: Ensom?
+date: 2006-10-28 05:17:09
+tags: 
+- generelt
+---
+Jeg sitter her alene klokken 7 om morgenen og venter på at rusen min skal bli nedadgående slik at jeg kan legge meg uten at morgen dagen skal bli alt for ille. Jeg sitter her å funderer på hvorfor jeg bestandig skal bli betatt av jenter som enten er opptatt eller ikke vil ha noe med meg å gjøre. Tror jeg aldri kommer til å få noe svar på det spørsmålet, så jeg kan fundere så mye jeg orker uten å bli noe spesielt klokere. Men du sjarmerte meg iallfall i senk i kveld du søte, morsomme jente. Savner deg allerede. Synd vi aldri kommer til å møtes igjen, takk for en koselig kveld. God natt og sov godt og drøm søtt. <strong>Update :</strong> Nå er klokken åtte, da kan jeg legge meg til å sove. Skal bli godt. Tenker på deg, hvor du nå enn er i verden.

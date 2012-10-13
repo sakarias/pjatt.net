@@ -1,6 +1,15 @@
-title="Dell 2007FP"
-date="2006-10-09 11:49:52"
-<a class="imagelink" href="http://pjatt.net/images/2006/10/21_858-10039.jpg" title="Dell 2007FP"><img id="image348" src="http://pjatt.net/images/2006/10/21_858-10039.forhaandsvisning.jpg" alt="Dell 2007FP" align="left" style="margin-right: 5px;"  /></a>Da har prosjekt "få seg ny arbeidstasjon" begynt. For en stund tilbake å posterte jeg at jeg skulle kjøpe meg ny laptop. Denne tanken har jeg slått fra meg og istedet bestemt meg for at det jeg egentlig trenger ikke er en ny laptop, men en arbeistasjon. Så nå har jeg sendt inn en bestilling av 2 stykk <a href="http://accessories.euro.dell.com/sna/productdetail.aspx?c=no&l=no&s=dhs&cs=nodhs1&sku=59236">Dell 2007FP</a> skjermer. Dette er 20.1" skjermer med en oppløsning på 1600x1200. Regner med at det kommer til å bli en kraftig overgang fra 1024x768 på en 12" skjerm. Tanken er å ha en arbeidstasjon med 2 hoder. så oppløsningen min blir 3200x1200 :P.
+---
+layout: post
+title: Dell 2007FP
+date: 2006-10-09 11:49:52
+tags: 
+- geeking
+---
+<img id="image348" src="http://pjatt.net/images/2006/10/21_858-10039.forhaandsvisning.jpg" alt="Dell 2007FP" align="left" style="margin-right: 5px;" />
+
+<img id="image348" src="http://pjatt.net/images/2006/10/21_858-10039.forhaandsvisning.jpg" alt="Dell 2007FP" align="left" style="margin-right: 5px;" />
+
+Da har prosjekt "få seg ny arbeidstasjon" begynt. For en stund tilbake å posterte jeg at jeg skulle kjøpe meg ny laptop. Denne tanken har jeg slått fra meg og istedet bestemt meg for at det jeg egentlig trenger ikke er en ny laptop, men en arbeistasjon. Så nå har jeg sendt inn en bestilling av 2 stykk <a href="http://accessories.euro.dell.com/sna/productdetail.aspx?c=no&l=no&s=dhs&cs=nodhs1&sku=59236">Dell 2007FP</a> skjermer. Dette er 20.1" skjermer med en oppløsning på 1600x1200. Regner med at det kommer til å bli en kraftig overgang fra 1024x768 på en 12" skjerm. Tanken er å ha en arbeidstasjon med 2 hoder. så oppløsningen min blir 3200x1200 :P.
 
 <ul>
 	<li>Display Type : LCD Monitor</li>
@@ -16,5 +25,3 @@ date="2006-10-09 11:49:52"
 </ul>
 
 Da gjennstår det å finne ut hvordan innmat maskinen min skal ha. Jeg har igrunn bare funnet ut at jeg  vil ha <a href="http://www.chieftec.de/?page=products_show&item=3810&k_id=&language=uk">Chieftec CH-03P Pianosort</a> kabinett, <a href="http://www.intel.com/products/processor/core2duo/index.htm">Intel Core 2 Duo</a> prosessor og 2 GB RAM. Mangler bare resten :P
-
-[[!tag  geeking

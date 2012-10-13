@@ -1,15 +1,15 @@
-title="52%"
-date="2006-09-25 03:03:21"
-<table width=350 align=center border=0 cellspacing=0 cellpadding=2><tr><td bgcolor="#CCCCCC" align=center>
-<font face="Georgia, Times New Roman, Times, serif" style='color:black; font-size: 14pt;'>
+---
+layout: post
+title: 52%
+date: 2006-09-25 03:03:21
+tags: 
+- generelt
+---
 <strong>You Are 52% Paranoid Schizophrenic</strong>
-</font></td></tr>
-<tr><td bgcolor="#DDDDDD">
-<center><img src="http://images.blogthings.com/areyouaparanoidschizophrenicquiz/paranoid-3.jpg" height="100" width="100" /></center>
-<font color="#000000">
+
+<img src="http://images.blogthings.com/areyouaparanoidschizophrenicquiz/paranoid-3.jpg" height="100" width="100" />
+
 It's likely that you're perfectly fine, though you have your crazy moments.<br  />
 You tend to be a bit paranoid, but no one's out to get you but yourself.
-</font></td></tr></table>
-<div align="center"><a href="http://www.blogthings.com/areyouaparanoidschizophrenicquiz/">Are You A Paranoid Schizophrenic?</a></div>
 
-[[!tag  generelt
+<a href="http://www.blogthings.com/areyouaparanoidschizophrenicquiz/">Are You A Paranoid Schizophrenic?</a>

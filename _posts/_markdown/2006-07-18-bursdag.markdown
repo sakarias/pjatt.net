@@ -1,9 +1,8 @@
-title="Bursdag"
-date="2006-07-18 22:31:55"
-Vel, det nærmer seg den dagen jeg fyller 28. I den forbindelse reiser jeg til Lillehammer og besøk en god kammerat som faktisk har bursdag samme dag som meg og hans bedre halvdel. Men siden vi fyller på en søndag flytter vi festingen til dagen før, nemmelig lørdag den 22.
-
-Er lenge siden jeg har vært i Lillehammer nå, så jeg kommer sikkert ikke til å kjenne meg igjen eller vite hvor noe er :P
-
-Er du på byen den 22 så send meg en mld så kan vi treffes :P
-
-[[!tag  generelt
+---
+layout: post
+title: Bursdag
+date: 2006-07-18 22:31:55
+tags: 
+- generelt
+---
+Vel, det nærmer seg den dagen jeg fyller 28. I den forbindelse reiser jeg til Lillehammer og besøk en god kammerat som faktisk har bursdag samme dag som meg og hans bedre halvdel. Men siden vi fyller på en søndag flytter vi festingen til dagen før, nemmelig lørdag den 22. Er lenge siden jeg har vært i Lillehammer nå, så jeg kommer sikkert ikke til å kjenne meg igjen eller vite hvor noe er :P Er du på byen den 22 så send meg en mld så kan vi treffes :P

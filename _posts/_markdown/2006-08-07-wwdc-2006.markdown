@@ -1,7 +1,9 @@
-title="WWDC 2006"
-date="2006-08-07 18:25:39"
-<div align="center"><a class="imagelink" href="http://pjatt.net/images/2006/08/07082006050.jpg" title="WWDC 2006"><img id="image318" src="http://pjatt.net/images/2006/08/07082006050.forhaandsvisning.jpg" alt="WWDC 2006"  /></a></div>
-
+---
+layout: post
+title: WWDC 2006
+date: 2006-08-07 18:25:39
+tags: 
+- generelt
+---
+<img src="http://pjatt.net/images/2006/08/07082006050.jpg" alt="WWDC 2006" />
 Nerdene slapper av mandag med WWDC 2006 live feed på storskjerm :P
-
-[[!tag  generelt
