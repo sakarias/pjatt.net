@@ -1,0 +1,9 @@
+---
+layout: post
+title: Trist
+date: 2005-05-16 21:32:49
+tags: 
+- geeking
+- generelt
+---
+Jeg hadde et lite uhell med laptopen min natt til 15 mai. Så nå har jeg en boks som lager lyder og står i, men mus og tastatur fungerere sånn delvis. Jeg har demontert hele maskinen, rensket og skrudd den sammen igjen uten at det hjalp så utrolig mye. Tror jeg må kjøpe nytt tastatur til den, men det er bare <a href="http://www.multicom.no/">Multicom</a> som selger <a href="http://www.ecsusa.com/">Elitegroup</a> maskiner i <a href="http://www.norge.no/">norge</a>. Og dem vil jeg ikke gi en kr til lenger. Så min lille plan er da å kjøpe en barebone laptop og hente deler som fungerer fra min gamle maskin (Er litt usikker på om jeg skal velge <a href="http://solution.aopen.com.tw/products/nb/1551-AW1AG1.htm">Aopen 1551</a>, den har ikke fått så veldig bra resultat på <a href="http://www.hardware.no/">hardware.no</a> sin <a href="http://www.hardware.no/art.php?artikkelid=9604">test</a>). Så det "eneste" jeg trenger å kjøpe er kabinettet, norsk tastatur, dvd brenner (evnt cd brenner) og cpu. Ram og harddisk henter jeg fra min gamle maskin. Blir dyrt, men fremdeles litt billigere enn å kjøpe helt ny maskin.

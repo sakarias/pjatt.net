@@ -1,0 +1,8 @@
+---
+layout: post
+title: Geek trip
+date: 2006-10-07 16:09:41
+tags: 
+- generelt
+---
+107.6 km/t, verdens raskeste blogg? 135 kg pinball maskin på vei til Trondheim på hengeren. Et halvt tonn med hardware som venter i Trondheim. GPRS, GPS og IRC i bilen. Og god flyt over fjellet, god tid for blogging. Current lat / long: 62.056N / 10.721E

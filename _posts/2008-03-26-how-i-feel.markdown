@@ -1,0 +1,8 @@
+---
+layout: post
+title: How I feel
+date: 2008-03-26 00:03:42
+tags: 
+- the-gathering
+---
+<div align="center"><img src='http://pjatt.net/images/2008/03/tg-stripe.gif' alt='TG var fett' /></div>

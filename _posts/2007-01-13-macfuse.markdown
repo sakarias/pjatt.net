@@ -1,0 +1,29 @@
+---
+layout: post
+title: MacFuse
+date: 2007-01-13 01:47:07
+tags: 
+- geeking
+---
+En ting jeg har savnet lenge på min Mac laptop er muligheten til å montere opp filsystemer over <a href="http://en.wikipedia.org/wiki/Ssh" title="Secure Shell">ssh</a>. Under Linux så har man noe som heter sshfs som lar deg gjøre dette. Ved å bruke <a href="http://en.wikipedia.org/wiki/SSHFS" title="Secure SHell FileSystem">sshfs</a> så får man en trygg og kryptert kobling mellom din maskin og serveren du vil koble deg til.
+
+Nå har det endelig kommet et <a href="http://en.wikipedia.org/wiki/Filesystem_in_Userspace" title="Filesystem in USErspace">FUSE</a> system til OS X også. Dette heter da <a href="http://code.google.com/p/macfuse/">MacFuse</a>. Jeg har ikke satt meg inn i hvordan dette fungerer i detalj, jeg har bare testet det og konstatert at det fungerer på mitt lokale nettverk. Men avspilling av film over en sshfs montert "disk" medførte en god del hakking (buffering) på min iBook. Om det er MacFuse sin feil eller det at maskina mi er for svak til å dekryptere datastrømmen fort nok vet jeg ikke siden jeg ikke har noen kraftigere Mac til rådighet.
+
+Installasjonen av MacFuse kan gjøres på 2 måter. Enten via kildekode eller ferdig kompilert. Kildenkoden skaffes ved å bruke <a href="http://subversion.tigris.org/">subversion</a> (OS X pakker kan lastes ned fra <a href="http://www.codingmonkeys.de/mbo/">Martin Ott</a> sin side).
+
+Kildekoden så ut for meg til å kreve en god del kompilering av forskjellige pakker og siden jeg ikke har X code på min nå nyinstallerte laptop så valgte jeg å gå for binær pakke.
+
+Last ned <a href="http://macfuse.googlecode.com/files/fuse-binaries-0.1.0b006.tar.bz2">fuse-binaries-0.1.0b006.tar.bz2</a> (gjerne besøk siden først og se om det har kommet ny pakke) og pakke den ut med følgende kommando:
+
+	sudo tar -C / -jxvpf fuse-binaries-0.1.0b006.tar.bz2
+
+Det er veldig viktig at du pakker ut pakken på denne metoden for å riktige rettigheter på filene og få dem plassert riktig på systemet ditt. Etter at pakken er ferdig pakket ut restarter du systemet ditt.
+
+Etter at du har startet systemet ditt på nytt så skal alt være klart for å teste om MacFuse virker. Åpne en terminal (Terminal.app eller <a href="http://iterm.sourceforge.net/">iTerm</a> f.eks), og kjør følgende kommando:
+
+	sshfs user@host:/some/directory /some/mount/point \
+	-oping_diskarb,volname=&lt;volname&gt;
+
+For at serveren du monterer opp skal dukke opp i Finder så må du ha med "-oping_diskarb,volname=&lt;volname&gt;" hvor du bytter ut "&lt;volname&gt;" med den teksten du vil identifisere "nettverksdisken" med i Finder.
+
+**PS: Du må ha /usr/local/bin i din $PATH.**

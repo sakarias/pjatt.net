@@ -6,7 +6,4 @@ tags:
 - generelt
 ---
 
-{{ page.title }}
-================
-
-<div align="center"><iframe width="640" height="510" src="http://www.youtube.com/embed/0_9BTHcpssM?rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<iframe width="640" height="510" src="http://www.youtube.com/embed/0_9BTHcpssM?rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

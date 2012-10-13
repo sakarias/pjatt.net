@@ -1,0 +1,10 @@
+---
+layout: post
+title: Flyttet
+date: 2008-06-18 10:54:38
+tags: 
+- wordpress
+---
+<a href="http://pjatt.net/images/2008/06/wordpress1.png"><img class="alignleft size-medium wp-image-565" title="WordPress" src="http://pjatt.net/images/2008/06/wordpress1.png" alt="" width="294" height="300" /></a>
+
+Nå har jeg flyttet bloggen min til en server jeg har i USA. Har oppgradert fra MySQL 4.x til 5.x med de problemene det innebærer, men jeg fikk da løst dem til slutt (teite norske bokstaver). Løsningen ble å sjekket ut Wordpress 2.5.1 fra subversion på den "nye" serveren og sette opp en ny blogg. Neste steg var å eksportere bloggen min fra den "gamle" serveren og importere dette på den "nye" serveren. Mangler fremdeles masse plugins, men jeg tar dem etter hvert som jeg ser at ting mangler, så langt så har det bare vært 4 jeg trenger, av noen og 20 jeg hadde før.

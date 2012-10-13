@@ -1,0 +1,49 @@
+---
+layout: post
+title: Operating Systems
+date: 2005-11-18 10:46:55
+tags: 
+---
+**IF OPERATING SYSTEMS RAN THE AIRLINES**
+
+**UNIX Airways:**
+Everyone brings one piece of the plane along when they come to the airport. They all go out on the runway and put the plane together piece by piece, arguing non-stop about what kind of plane they are supposed to be building.
+
+**Air DOS:**
+Everybody pushes the airplane until it glides, then they jump on and let the plane coast until it hits the ground again. Then they push again, jump on again, and so on ...
+
+**Mac Airlines:**
+All the stewards, captains, baggage handlers, and ticket agents look and act exactly the same. Every time you ask questions about details, you are gently but firmly told that you don't need to know, don't want to know, and everything will be done for you without your ever having to know, so just shut up.
+
+**Windows Air:**
+The terminal is pretty and colorful, with friendly stewards, easy baggage check and boarding, and a smooth take-off. After about 10 minutes in the air, the plane explodes with no warning whatsoever.
+
+**Windows NT Air:**
+Just like Windows Air, but costs more, uses much bigger planes, and takes out all the other aircraft within a 40-mile radius when it explodes.
+
+**Linux Air:**
+Disgruntled employees of all the other OS airlines decide to start their own airline. They build the planes, ticket counters, and pave the runways themselves. They charge a small fee to cover the cost of printing the ticket, but you can also download and print the ticket yourself. When you board the plane, you are given a seat, four bolts, a wrench and a copy of the seat-HOWTO.html. Once settled, the fully adjustable seat is very comfortable, the plan leaves and arrives on time without a single problem, the in-flight meal is wonderful. You try to tell customers of the other airlines about the great trip, but all they can say is, "You had to do what with the seat?"
+
+**VMS Air:**
+Your ticket weighs approximately 200 tons and comes in 400 volumes, but does not actually permit you to fly, merely to enter the terminal. You must buy layered ticket products to gain the right to fly. On arrival at the terminal you are blindfolded and taken to the plane. The planes consist of a family of ever-larger clones of the DC-3, or are early jets with fake fuselages and propellors designed to make them look like big DC-3s. You must remain blindfolded throughout the flight during which the Captain makes verbose and incomprehensible announcements. When the plane blows up VMS Air have just about the best accident-investigation people around, so at least you know how you died.
+
+**BeOS Air:**
+Someone stole one of the planes from Mac Airlines, lowered the fuselage by six inches, tinted the glass, fitted white-wall tyres to the undercarriage, put groovy new afterburners on it and gave it a psychedlic paint job, but forgot that chucking the passenger seats out was a bad idea. In-flight entertainment is marvellous though.
+
+**Amigair:**
+A fleet of Sopwith Camels flown by enthusiasts in goggles and scarves. Despite the fact that the planes can carry only one passenger at a time and crash a lot they look very cute.
+
+**Air Berkeley:**
+Constantly torn by boardroom struggles and mergers, Air BSD is fundamentally similar to Linux Air and the fact that the internal factions within the airline spent all their time shooting one another's planes out of the sky means they can't use the formidable weaponry they've replaced all the passenger seats with against Linux Air
+
+**RISCos Airlines:**
+Possesses a fleet of old ex-flying school Cessnas and Pipers which they believe are theoretically superior to the latest airliners. Maintenance is carried out by a mixture of apprentices, enthusiasts and schoolchildren and it doesn't matter if the planes crash because nobody's around.
+
+**Air Novell:**
+Just like the worst parts of Air Dos and Windows Air, but all their flights go via their own hub which is inconveniently out of the way and some of their ticketing procedures rival VMS Air in their complexity.
+
+**Tru64 Air:**
+Changes its name every week to hide the fact that once upon a time it was related to VMS Air. The owners would really rather get out of the airline business and want you to fly Windows NT Airways, but many of them have discovered that Linux Air flies to all the same places for a fraction of the price.
+
+**VM Airways:**
+The blue-suited checkin staff are very polite and suggest that you need to pay an additional "discount" on your fare. You are shown to your seat and notice that you can't see any other passengers or hear their screams as they are invited to pay further "discounts" for such luxuries as cushions, seatbelts, fuel, engines or cabin air pressure. The planes never crash, but individual seats often fall out.

@@ -1,0 +1,9 @@
+---
+layout: post
+title: Grrr
+date: 2006-10-24 23:38:32
+tags: 
+- generelt
+- wordpress
+---
+Er nå lei av bugs i Wordpress. Skal se om det å installere nyere versjon av Wordpress hjelper, hvis ikke så får jeg ta å nuke databasen og bygge den opp igjen fra bunnen. <strong>Update 1:</strong> Det begynner å bli mindre og mindre bugs nå, men er et stykke igjen gitt. <strong>Update 2:</strong> Men da ser det ut til at alle buggene mine er borte, det at Dashboard ikke fungerte vet jeg ikke, men det fungerer nå etter at jeg har oppgradert til nyere Wordpress. Det at undersider ikke har fungert er dette temaet sin feil. Den bruker en egen php kode som henter ut "guid" fra "wp_post" databasen, og mine "guid" var totalt på villspor. Alt er nå rettet som jeg kan se med hjelp av vim og sql spørringer. Da er det igrunn bare å fortsette å oversette temaet til norsk, men programmet jeg bruker, "<a href="http://www.poedit.org/">poEdit</a>" krasjer hver gang jeg lagrer, så det begynner å bli utrolig slitsomt. Hvis noen kjenner til et program som kan redigere .po filer på samme måte som "poEdit" så sleng inn en kommentar.

@@ -8,9 +8,6 @@ tags:
 - textexpander
 ---
 
-{{ page.title }}
-================
-
 Kollega på jobb, spurte for en evighet siden om jeg kunne utvide [TextExpander](http://pjatt.net/2011/02/22/applescript-i-textexpander/) skriptet mitt til å si "ha en fortsatt xxxx helg" når man svarte på tickets på lørdag/søndag.
 
 {% highlight applescript %}

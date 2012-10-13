@@ -1,0 +1,8 @@
+---
+layout: post
+title: Jobb i mai
+date: 2005-04-27 19:00:24
+tags: 
+- generelt
+---
+Vikariatet mitt gjennom <a href="http://www.proffice.no/">Proffice</a> har blitt forlenget med 1 måned, så jeg har jobb ut mai iallefall. Gleder meg veldig til å oppleve 17 mai her i Oslo, det lange barnetoget jeg har sett på <abbr title="Television">TV</abbr> nå i så mange år. En ting som er litt kipt med Proffice, er det timeregistrerings systemet. Det fungerer ikke med <a href="http://www.mozilla.org/products/firefox/">Firefox</a>, så jeg må bruke <abbr title="Internet Explorer">IE</abbr> :( .

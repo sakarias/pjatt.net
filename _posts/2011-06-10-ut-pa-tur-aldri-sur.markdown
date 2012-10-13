@@ -6,7 +6,4 @@ tags:
 - generelt
 ---
 
-{{ page.title }}
-================
-
-<a href="http://pjatt.net/images/2011/06/20110610-084759.jpg"><img src="http://pjatt.net/images/2011/06/20110610-084759.jpg" alt="20110610-084759.jpg" class="alignnone size-full"  /></a>
+<img src="http://pjatt.net/images/2011/06/20110610-084759.jpg" alt="20110610-084759.jpg" />

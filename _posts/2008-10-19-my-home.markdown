@@ -1,0 +1,10 @@
+---
+layout: post
+title: My home
+date: 2008-10-19 20:30:20
+tags: 
+- generelt
+---
+Flere har lurt på hvordan det ser ut hjemme hos meg nå, så jeg tok noen kjappe bilder nå i kveld. 
+
+<a href="http://pjatt.net/stuff/stua/">http://pjatt.net/stuff/stua/</a>

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Opera 8
+date: 2005-04-19 11:03:04
+tags: 
+- geeking
+---
+Opera 8 har blitt lansert. I Opera 8 er det nå støtte for XHTML+Voice-standarden, som lar brukeren kommandere nettleseren ved hjelp av tale. Denne funksjonen er utviklet i samarbeid med IBM, og krever en ekstra programvarepakke. Opera støtter nå også såkalt Scalable Vector Graphics, SVG-filer, som blant annet gjør det mye enklere å lage kart-bilder. Opera 8 har også støtte for å nedjustere størrelsen på nettsider som normalt er for brede til å bli vist på små skjermer. Funksjonen heter "Fit to window width", og gjør bare noe med nettsider som er for brede. Mer kan du lese i <a href="http://www.opera.com/windows/changelogs/800/">endringsloggen</a>. Last ned <a href="ftp://ftp.sunet.se/pub/www/clients/Opera/win/800/en/ow32enen800.exe">Windows</a> eller <a href="ftp://ftp.sunet.se/pub/www/clients/Opera/linux/800/final/en/">Linux</a> versjon fra Sunet da <a href="http://www.opera.com/">Opera.com</a> er rimelig overbelastet :P

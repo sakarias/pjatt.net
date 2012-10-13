@@ -1,0 +1,8 @@
+---
+layout: post
+title: Ladder
+date: 2006-07-28 13:26:06
+tags: 
+- generelt
+---
+<div align="center"><img id="image313" src="http://pjatt.net/images/2006/07/fence.jpg" alt="Fence" /> Buidling 50-foot walls just creates a market for 52-foot ladders.</div>

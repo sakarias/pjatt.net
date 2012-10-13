@@ -1,0 +1,8 @@
+---
+layout: post
+title: Hug?
+date: 2007-04-14 23:37:39
+tags: 
+- generelt
+---
+<div align="center"><img src='http://pjatt.net/images/2007/04/hug.jpg' alt='HUG' /></div>

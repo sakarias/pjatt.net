@@ -1,0 +1,8 @@
+---
+layout: post
+title: Sitat
+date: 2005-11-02 07:38:35
+tags: 
+- generelt
+---
+"The idea that <a href="http://en.wikipedia.org/wiki/Bill_gates">Bill Gates</a> has appeared like a knight in shining armour to lead all customers out of a mire of technological chaos neatly ignores the fact that it was he who, by peddling second-rate technology, led them into it in the first place." - <a href="http://en.wikipedia.org/wiki/Douglas_Adams">Douglas Adams</a>

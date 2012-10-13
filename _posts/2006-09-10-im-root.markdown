@@ -1,0 +1,8 @@
+---
+layout: post
+title: Im root
+date: 2006-09-10 23:03:50
+tags: 
+- generelt
+---
+<div align="center"><img id="image330" src="http://pjatt.net/images/2006/09/sudo.gif" alt="SuDo" /></div>
