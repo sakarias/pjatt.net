@@ -1,4 +1,4 @@
----¬
+---
 layout: post
 title: Loppis
 date: 2004-10-17 21:44:05
