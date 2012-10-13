@@ -1,13 +1,11 @@
-title="Weekend"
-date="2005-11-21 10:24:01"
-Ikke noe spesielt skjedde i helgen igrunn. <a href="http://nenia.slaskdot.org">Fruen</a> skulle egentlig på kino på lørdag sammen med ei annen jente, men dette falt i vasken da hun jenta ble syk (jeg er elendig til å huske navn). Så istedet for at jeg fikk meg en "hjemme-alene-nerde-lørdag" så ble det bytur istedet. <a href="http://www.oslocity.no/">Oslo City</a> + lørdag + snart jul = helvetes mye folk. Men Nina klarte da å finne seg et skjørt til å ha på seg på julebordet med jobben sin.
-
-Siden <a href="http://www.clasohlson.no/">Clas Ohlson</a> også har fått seg en butikk i Oslo City så måtte vi (jeg iallfall) innom der en tur. Kjøpte noe så spennende som 3 x 1 meter TP kabler.
-
-Var også en tur innom Platekompaniet som vanlig. og ente opp med 1 tv-serie til meg og to filmer til Nina. Nina kjøpte seg [[!imdb Welcome To The Dollhouse og [[!imdb Hide And Seek]]  Og jeg ente opp med [[!imdb "Band of Brothers"]].
-
-Måtte også en liten tur innom <a href="http://www.eplehuset.no/">Eplehuset</a> sin nye butikk her i <a href="http://www.eplehuset.no/butikker/oslo.html">Oslo</a>. Der så jeg en <a href="http://www.logitech.com/">Logitech</a> <a href="http://www.logitech.com/index.cfm/products/details/US/EN,CRID=2173,CONTENTID=10785">mm50</a>, som nå står på min ønskeliste. mm50 er portable høytalere for <a href="http://www.apple.com/no/ipod/">iPOD</a> og f.eks en laptop. Og skal etter det jeg har hørt gi meget god lyd.
-
-[[!tag  filmer---tv-serier
-[[!tag  geeking
-[[!tag  generelt
+---
+layout: post
+title: Weekend
+date: 2005-11-21 10:24:01
+tags: 
+- tv-serier
+- filmer
+- geeking
+- generelt
+---
+Ikke noe spesielt skjedde i helgen igrunn. <a href="http://nenia.slaskdot.org">Fruen</a> skulle egentlig på kino på lørdag sammen med ei annen jente, men dette falt i vasken da hun jenta ble syk (jeg er elendig til å huske navn). Så istedet for at jeg fikk meg en "hjemme-alene-nerde-lørdag" så ble det bytur istedet. <a href="http://www.oslocity.no/">Oslo City</a> + lørdag + snart jul = helvetes mye folk. Men Nina klarte da å finne seg et skjørt til å ha på seg på julebordet med jobben sin. Siden <a href="http://www.clasohlson.no/">Clas Ohlson</a> også har fått seg en butikk i Oslo City så måtte vi (jeg iallfall) innom der en tur. Kjøpte noe så spennende som 3 x 1 meter TP kabler. Var også en tur innom Platekompaniet som vanlig. og ente opp med 1 tv-serie til meg og to filmer til Nina. Nina kjøpte seg *Welcome To The Dollhouse* og *Hide And Seek* Og jeg ente opp med *Band of Brothers*. Måtte også en liten tur innom <a href="http://www.eplehuset.no/">Eplehuset</a> sin nye butikk her i <a href="http://www.eplehuset.no/butikker/oslo.html">Oslo</a>. Der så jeg en <a href="http://www.logitech.com/">Logitech</a> <a href="http://www.logitech.com/index.cfm/products/details/US/EN,CRID=2173,CONTENTID=10785">mm50</a>, som nå står på min ønskeliste. mm50 er portable høytalere for <a href="http://www.apple.com/no/ipod/">iPOD</a> og f.eks en laptop. Og skal etter det jeg har hørt gi meget god lyd.

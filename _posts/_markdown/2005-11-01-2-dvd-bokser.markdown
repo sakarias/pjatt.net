@@ -1,9 +1,9 @@
-title="2 DVD bokser"
-date="2005-11-01 13:22:19"
-Var en liten tur i byen i går pga min elskede trengte noe spesiellt tegnepapir (ligner på bakepapir, men koster mye mer). <a href="http://nenia.slaskdot.org">Nina</a> fant ikke butikken som hun vet har dette, den skal ha flyttet til et nytt sted følge websiden, men på det nye stedet har det ikke dukket opp noen butikk.
-
-Siden vi først hadde forvillet oss til byen, så måtte vi innom film-dealeren vår, <a href="http://www.platekompaniet.no">Platekompaniet</a> :P
-
-Vel inne på Platekompaniet kom vi over "The Omen Trilogy" og "Nightmare On Elm Street", The Ultimate Collectors Edition (7 filmer). Så det forsvant 500 kr fra kontoen. The Omen Trilogy er min, har sett den første engang og synes den virket ok. Normalt så ser jeg ikke på skrekkfilmer. Nightmare On Elm Street er Nina sin. Som vanlig fikk hun flere filmer enn meg. Jeg fikk hele tre og hun syv.
-
-[[!tag  filmer---tv-serier
+---
+layout: post
+title: 2 DVD bokser
+date: 2005-11-01 13:22:19
+tags: 
+- tv-serier
+- filmer
+---
+Var en liten tur i byen i går pga min elskede trengte noe spesiellt tegnepapir (ligner på bakepapir, men koster mye mer). <a href="http://nenia.slaskdot.org">Nina</a> fant ikke butikken som hun vet har dette, den skal ha flyttet til et nytt sted følge websiden, men på det nye stedet har det ikke dukket opp noen butikk. Siden vi først hadde forvillet oss til byen, så måtte vi innom film-dealeren vår, <a href="http://www.platekompaniet.no">Platekompaniet</a> :P Vel inne på Platekompaniet kom vi over "The Omen Trilogy" og "Nightmare On Elm Street", The Ultimate Collectors Edition (7 filmer). Så det forsvant 500 kr fra kontoen. The Omen Trilogy er min, har sett den første engang og synes den virket ok. Normalt så ser jeg ikke på skrekkfilmer. Nightmare On Elm Street er Nina sin. Som vanlig fikk hun flere filmer enn meg. Jeg fikk hele tre og hun syv.

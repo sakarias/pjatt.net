@@ -1,7 +1,9 @@
-title="Garfield"
-date="2005-03-31 17:45:20"
-<a href="http://www.imdb.com/title/tt0356634/">Garfield</a>, verdens lateste katt har blitt en spillefilm. Hvis noen husker gode gamle <a href="http://www.imdb.com/title/tt0096438/">Who Framed Roger Rabbit</a> fra 1988 og måten den ble laget på, tegnefigurer i interaksjon med skuespillere. Garfield er laget på samme måte, bare at Garfield er animert og ikke tegnet.
-
-Handling: Hvilken handling? Filmen handler om at Jon (spillt av <a href="http://www.imdb.com/name/nm0005227/">Breckin Meyer</a>) får en hund i hus. Noe Garfield ikke liker. Denne hunden rømmer og blir "funnet" av en ond mann som skal på internasjonal TV. Osv... Handlingen er tynn, meget tynn. Filmen hadde sikkert vært bra hadde jeg vært 6 og ikke 26 år gammel.
-
-[[!tag  filmer---tv-serier
+---
+layout: post
+title: Garfield
+date: 2005-03-31 17:45:20
+tags: 
+- tv-serier
+- filmer
+---
+[Garfield](http://www.imdb.com/title/tt0356634/), verdens lateste katt har blitt en spillefilm. Hvis noen husker gode gamle [Who Framed Roger Rabbit](http://www.imdb.com/title/tt0096438/) fra 1988 og måten den ble laget på, tegnefigurer i interaksjon med skuespillere. Garfield er laget på samme måte, bare at Garfield er animert og ikke tegnet. Handling: Hvilken handling? Filmen handler om at Jon (spillt av [Breckin Meyer](http://www.imdb.com/name/nm0005227/)) får en hund i hus. Noe Garfield ikke liker. Denne hunden rømmer og blir "funnet" av en ond mann som skal på internasjonal TV. Osv... Handlingen er tynn, meget tynn. Filmen hadde sikkert vært bra hadde jeg vært 6 og ikke 26 år gammel.

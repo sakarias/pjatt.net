@@ -1,30 +1,8 @@
-title="Ny iBook"
-date="2005-07-26 13:16:37"
-I dag ca klokken 15:00 lanserte <a href="http://www.apple.no/">Apple</a> ny <a href="http://www.apple.com/no/ibook/">iBook</a>. Det var ikke store forskjeller fra den gamle og den nye, men nok til at det muligens har vært verd å vente litt med å kjøpe iBook. Dem har også kommet med ny <a href="http://www.apple.com/no/macmini/">mini</a> også, men den har jeg ikke fulgt så godt med på til at jeg kan si hva som er de store forskjellene på den.
-
-<table><tr><td>Gamle iBook 12"</td><td>Nye iBook 12"</td></tr><tr valign="top"><td>1.2GHz PowerPC G4
-512K L2 cache @1.2GHz
-256MB DDR266 SDRAM
-12-inch TFT Displays
-1024x768 resolution
-ATI Mobility Radeon 9200
-32MB DDR video memory
-30GB Ultra ATA drive
-Combo Drive
-AirPort Extreme built-in</td><td><strong>1.33GHz PowerPC G4</strong>
-512K L2 cache @1.33GHz
-<strong>512MB memory (DDR333 SDRAM)</strong>
-12.1-inch TFT Display
-1024x768 resolution
-<strong>ATI Mobility Radeon 9550</strong>
-32MB DDR video memory
-<strong>40GB Ultra ATA hard drive</strong>
-Combo Drive (DVD-ROM/CD-RW)
-Built-in AirPort Extreme
-<strong>Built-in Bluetooth 2.0+EDR</strong>
-<strong>Scrolling Trackpad</strong>
-<strong>Sudden Motion Sensor</strong></td></tr></table>
-
-Forandringer er uhevet.
-
-[[!tag  geeking
+---
+layout: post
+title: Ny iBook
+date: 2005-07-26 13:16:37
+tags: 
+- geeking
+---
+I dag ca klokken 15:00 lanserte <a href="http://www.apple.no/">Apple</a> ny <a href="http://www.apple.com/no/ibook/">iBook</a>. Det var ikke store forskjeller fra den gamle og den nye, men nok til at det muligens har vært verd å vente litt med å kjøpe iBook. Dem har også kommet med ny <a href="http://www.apple.com/no/macmini/">mini</a> også, men den har jeg ikke fulgt så godt med på til at jeg kan si hva som er de store forskjellene på den. <table><tr><td>Gamle iBook 12"</td><td>Nye iBook 12"</td></tr><tr valign="top"><td>1.2GHz PowerPC G4 512K L2 cache @1.2GHz 256MB DDR266 SDRAM 12-inch TFT Displays 1024x768 resolution ATI Mobility Radeon 9200 32MB DDR video memory 30GB Ultra ATA drive Combo Drive AirPort Extreme built-in</td><td><strong>1.33GHz PowerPC G4</strong> 512K L2 cache @1.33GHz <strong>512MB memory (DDR333 SDRAM)</strong> 12.1-inch TFT Display 1024x768 resolution <strong>ATI Mobility Radeon 9550</strong> 32MB DDR video memory <strong>40GB Ultra ATA hard drive</strong> Combo Drive (DVD-ROM/CD-RW) Built-in AirPort Extreme <strong>Built-in Bluetooth 2.0+EDR</strong> <strong>Scrolling Trackpad</strong> <strong>Sudden Motion Sensor</strong></td></tr></table> Forandringer er uhevet.

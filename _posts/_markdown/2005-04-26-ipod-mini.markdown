@@ -1,11 +1,8 @@
-title="Ipod Mini"
-date="2005-04-26 16:18:24"
-Hipp, hipp. hipp hurra. Ipoden har kommet. En liten søt sølvfarget sak.
-
-Første feil var da jeg skulle registere Ipod'en på Apple sine sider, den sa at serial nummeret mitt ikke finnes. Men jeg fikk da registrert den på et vis.
-
-Andre feil var da jeg koblet den til for å lade den. Den kom opp som en uformatert disk på PCen (Jada, windows, Itunes er ikke i Linux). Så jeg tok å formaterte den på den vanlige Windows måten, dobbelt klikke og svare ja på man skal formatere den. åpnet så Itunes og kopierte over litt musikk. Måtte selvsagt vente en god stund før jeg kunne bruke den, den måtte lade i minimum 1 time. Etter at ladingen var ferdig (ladet i 3 timer, jeg sovnet på sofaen mens jeg ventet) koblet jeg fra Ipoden, men så snart jeg hadde valgt eject eller safe remove i windows så koblet den seg til igjen automagisk. Etter en god del forsøk så ble jeg lei og tok ut kabelen. Da kom det opp et mappe ikon med et stop skilt på Ipod'en. Ikke noe fungerte faktisk. Tok å sammenlignet katalog strukturen på dama sin Ipod og min, og jeg manglet masse kataloger. Så jeg tok å kjørte Ipod restore softwaren. Denne slettet selvfølgelig alt jeg hadde på Ipod'en, så jeg måtte overføre sangene på nytt, men denne gangen fungerte alt som det var tenkt.
-
-Så nå har jeg en Ipod med 600 MB med musikk, 3,1 GB ledig. Lurer på hva jeg skal legge der. Noen som vil komme med forslag til bra musikk?
-
-[[!tag  geeking
+---
+layout: post
+title: Ipod Mini
+date: 2005-04-26 16:18:24
+tags: 
+- geeking
+---
+Hipp, hipp. hipp hurra. Ipoden har kommet. En liten søt sølvfarget sak. Første feil var da jeg skulle registere Ipod'en på Apple sine sider, den sa at serial nummeret mitt ikke finnes. Men jeg fikk da registrert den på et vis. Andre feil var da jeg koblet den til for å lade den. Den kom opp som en uformatert disk på PCen (Jada, windows, Itunes er ikke i Linux). Så jeg tok å formaterte den på den vanlige Windows måten, dobbelt klikke og svare ja på man skal formatere den. åpnet så Itunes og kopierte over litt musikk. Måtte selvsagt vente en god stund før jeg kunne bruke den, den måtte lade i minimum 1 time. Etter at ladingen var ferdig (ladet i 3 timer, jeg sovnet på sofaen mens jeg ventet) koblet jeg fra Ipoden, men så snart jeg hadde valgt eject eller safe remove i windows så koblet den seg til igjen automagisk. Etter en god del forsøk så ble jeg lei og tok ut kabelen. Da kom det opp et mappe ikon med et stop skilt på Ipod'en. Ikke noe fungerte faktisk. Tok å sammenlignet katalog strukturen på dama sin Ipod og min, og jeg manglet masse kataloger. Så jeg tok å kjørte Ipod restore softwaren. Denne slettet selvfølgelig alt jeg hadde på Ipod'en, så jeg måtte overføre sangene på nytt, men denne gangen fungerte alt som det var tenkt. Så nå har jeg en Ipod med 600 MB med musikk, 3,1 GB ledig. Lurer på hva jeg skal legge der. Noen som vil komme med forslag til bra musikk?

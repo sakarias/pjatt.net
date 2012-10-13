@@ -1,7 +1,8 @@
-title="Arbeid"
-date="2005-02-25 16:02:26"
-Hipp Hurra, jeg har fått jobb! Men desverre i bare 2-3 måneder. Et vikariat gjennom Proffice.
-
-Jeg driver for det meste med linje 2 support, på windows plattformen. For det meste Windows XP.
-
-[[!tag  generelt
+---
+layout: post
+title: Arbeid
+date: 2005-02-25 16:02:26
+tags: 
+- generelt
+---
+Hipp Hurra, jeg har fått jobb! Men desverre i bare 2-3 måneder. Et vikariat gjennom Proffice. Jeg driver for det meste med linje 2 support, på windows plattformen. For det meste Windows XP.

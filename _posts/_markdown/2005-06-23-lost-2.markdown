@@ -1,8 +1,11 @@
-title="LOST"
-date="2005-06-23 12:58:06"
-<div align="center"><img src="http://stuff.slaskdot.org/lost.jpg" alt="LOST"  /></div>
-I går sendte <a href="http://www.tvnorge.no/">TV Norge</a> siste episode av sesong 1 av <a href="http://abc.go.com/primetime/lost/">Lost</a>. Dem regner med å kunne starte opp igjen med sesong 2 i oktober. Det er noen måneder å vente for <a href="http://en.wikipedia.org/wiki/Lost_%282004_television_series%29">Lost</a> fans det.
+---
+layout: post
+title: LOST
+date: 2005-06-23 12:58:06
+tags: 
+- tv-serier
+- filmer
+---
+<div align="center"><img src="http://stuff.slaskdot.org/lost.jpg" alt="LOST" /></div>
 
-Jeg tror sommeren er den verste tiden for tv-serie fans, det er da høysesong for agurknytt og reprise av <a href="http://www.pacificblue.com/">Pacific Blue</a>.
-
-[[!tag  filmer---tv-serier
+I går sendte <a href="http://www.tvnorge.no/">TV Norge</a> siste episode av sesong 1 av <a href="http://abc.go.com/primetime/lost/">Lost</a>. Dem regner med å kunne starte opp igjen med sesong 2 i oktober. Det er noen måneder å vente for <a href="http://en.wikipedia.org/wiki/Lost_%282004_television_series%29">Lost</a> fans det. Jeg tror sommeren er den verste tiden for tv-serie fans, det er da høysesong for agurknytt og reprise av <a href="http://www.pacificblue.com/">Pacific Blue</a>.

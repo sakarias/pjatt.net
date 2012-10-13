@@ -1,21 +1,8 @@
-title="Julen 2005"
-date="2005-12-27 09:48:07"
-Vel, da er julen for min del over. Jeg og Nina var hos min mor og hennes familie fra 23 til 26. Siden jeg måtte på jobb igjen i dag. Nina reiste hjem til sin familie for å tilbringe resten av romjulen og nyttår der.
-
-Julaften spiste vi ribbe med tilbehør, Nina liker vist ikke ribbe, så hun spiste bare tilbehøret. 1. dag spiste vi ørret. De fleste koste seg utom meg, er ikke så veldig glad i fisk jeg må rense, siden fisken blir kald innen jeg begynner å spise den. 2. dag spiste vi pinnekjøtt med poteter, lefse, pølse (husker ikke navnet på den nå) og kålrotstappe. Nina likte ikke kålrotstappen og pølsen. Så hun spiste bare potet og pinnekjøtt.
-Til jul fikk jeg:
-<ul>
-	<li>Jakke (frakk lignede sak) av Mamma og Vidar</li>
-	<li>Futurama Sesong 1 av Nina</li>
-	<li>Skål, kopp og tallerken av Arnt Vegar</li>
-	<li>Disney te-lys holder av Ane</li>
-	<li>Lommebok av Nina</li>
-	<li>Diverse Disney julehefter av Nina</li>
-	<li>Absolutt Vodka flaske av Rolf</li>
-	<li>2 sleiver, 1 fra Ane og 1 fra Nina sin mor</li>
-</ul>
-Var dette jeg kom på i farten, skal skrive komplett liste når jeg pakker ut av kofferten min.
-
-Så jeg blir "hjemme alene" resten av 2005. Noen som har noen forslag på hva jeg skal gjøre f.eks på nyttårsaften?
-
-[[!tag  generelt
+---
+layout: post
+title: Julen 2005
+date: 2005-12-27 09:48:07
+tags: 
+- generelt
+---
+Vel, da er julen for min del over. Jeg og Nina var hos min mor og hennes familie fra 23 til 26. Siden jeg måtte på jobb igjen i dag. Nina reiste hjem til sin familie for å tilbringe resten av romjulen og nyttår der. Julaften spiste vi ribbe med tilbehør, Nina liker vist ikke ribbe, så hun spiste bare tilbehøret. 1. dag spiste vi ørret. De fleste koste seg utom meg, er ikke så veldig glad i fisk jeg må rense, siden fisken blir kald innen jeg begynner å spise den. 2. dag spiste vi pinnekjøtt med poteter, lefse, pølse (husker ikke navnet på den nå) og kålrotstappe. Nina likte ikke kålrotstappen og pølsen. Så hun spiste bare potet og pinnekjøtt. Til jul fikk jeg: <ul> <li>Jakke (frakk lignede sak) av Mamma og Vidar</li> <li>Futurama Sesong 1 av Nina</li> <li>Skål, kopp og tallerken av Arnt Vegar</li> <li>Disney te-lys holder av Ane</li> <li>Lommebok av Nina</li> <li>Diverse Disney julehefter av Nina</li> <li>Absolutt Vodka flaske av Rolf</li> <li>2 sleiver, 1 fra Ane og 1 fra Nina sin mor</li> </ul> Var dette jeg kom på i farten, skal skrive komplett liste når jeg pakker ut av kofferten min. Så jeg blir "hjemme alene" resten av 2005. Noen som har noen forslag på hva jeg skal gjøre f.eks på nyttårsaften?

@@ -1,11 +1,8 @@
-title="Loppis"
-date="2005-04-10 19:00:46"
-Vel, loppemarked sesongen har startet. Var i dag på 2 loppemarkeder. En på Smestad skole. Greit loppemarked, dyrt som f..., de ventet i det lengste med å starte pose salget. Men de hadde iMac av den gamle typen, CRT skjerm og kule farger. 750kr skulle dem ha for dem. Jeg klarte å stå imot. Men angrer stort på at jeg ikke kjøpte.
-
-Det andre loppemarkedet fant vi bare et skilt om at det var loppemarked på en skole (husker ikke navn) og adressen. Så da var det fram med PDAen og fyre opp GRPS og finne fram på GuleSider sine kart sider. Vi fant fram, selv om vi gikk en omvei pga enveis kjørte veier. GuleSider er vist laget for dem som kjører bil.
-
-De hadde en Mac her også, en PowerMac 750. Digert beist av en maskin, med ekstern CDrom og greier. Så det fristet ikke så utrolig. Men de hadde pose salg på klær. Så Nina fikk iallefall handlet mye. Hun er veldig, veldig flink til å stappe mye i en pose. Så mye at vaktene ser stygt på oss når vi gr. Det var også pose salg på bøker, jeg tror vi fant en 8-10 stykker om intresserte oss. Det blir mye lesing framover :P
-
-Det er vist loppemarked neste helg også, men da jobber heldigvis Nina :D, men jeg tror vi må ut en tur på søndag. Men neste helg der igjen har hun fri og det er en 6-7 loppemarkeder som vi vet om her i Oslo.
-
-[[!tag  generelt
+---
+layout: post
+title: Loppis
+date: 2005-04-10 19:00:46
+tags: 
+- generelt
+---
+Vel, loppemarked sesongen har startet. Var i dag på 2 loppemarkeder. En på Smestad skole. Greit loppemarked, dyrt som f..., de ventet i det lengste med å starte pose salget. Men de hadde iMac av den gamle typen, CRT skjerm og kule farger. 750kr skulle dem ha for dem. Jeg klarte å stå imot. Men angrer stort på at jeg ikke kjøpte. Det andre loppemarkedet fant vi bare et skilt om at det var loppemarked på en skole (husker ikke navn) og adressen. Så da var det fram med PDAen og fyre opp GRPS og finne fram på GuleSider sine kart sider. Vi fant fram, selv om vi gikk en omvei pga enveis kjørte veier. GuleSider er vist laget for dem som kjører bil. De hadde en Mac her også, en PowerMac 750. Digert beist av en maskin, med ekstern CDrom og greier. Så det fristet ikke så utrolig. Men de hadde pose salg på klær. Så Nina fikk iallefall handlet mye. Hun er veldig, veldig flink til å stappe mye i en pose. Så mye at vaktene ser stygt på oss når vi gr. Det var også pose salg på bøker, jeg tror vi fant en 8-10 stykker om intresserte oss. Det blir mye lesing framover :P Det er vist loppemarked neste helg også, men da jobber heldigvis Nina :D, men jeg tror vi må ut en tur på søndag. Men neste helg der igjen har hun fri og det er en 6-7 loppemarkeder som vi vet om her i Oslo.

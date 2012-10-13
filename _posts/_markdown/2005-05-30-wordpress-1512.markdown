@@ -1,5 +1,8 @@
-title="Wordpress 1.5.1.2"
-date="2005-05-30 08:22:18"
+---
+layout: post
+title: Wordpress 1.5.1.2
+date: 2005-05-30 08:22:18
+tags: 
+- wordpress
+---
 Har igjen oppgradert <a href="http://www.wordpress.org">Wordpress</a>, denne gangen fra 1.5.1.1 til 1.5.1.2. Det høres ikke ut som noen "major" oppgradering, men for meg så er den viktig, RSS feeds har endelig begynt å fungere igjen.
-
-[[!tag  wordpress

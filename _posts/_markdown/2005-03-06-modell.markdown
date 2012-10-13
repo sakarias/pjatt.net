@@ -1,5 +1,8 @@
-title="Modell"
-date="2005-03-06 13:40:47"
+---
+layout: post
+title: Modell
+date: 2005-03-06 13:40:47
+tags: 
+- generelt
+---
 I går, lørdag så var min kjære hårmodell for <a href="http://www.adamogeva.no/">"Adam og Eva"</a> frisør salong. Nina har gått til frisøren sin onsdag for å fåklippet og farget håret sitt. Selve showet var da på lørdag. Hvis jeg får tillatelse av min kjære så skal jeg legge ut bilder fra showet. Det var faktisk live band der også, et band som heter <a href="http://www.thesilverband.com">Silver</a>, som jeg synes var like musikalske som en motorsag.
-
-[[!tag  generelt

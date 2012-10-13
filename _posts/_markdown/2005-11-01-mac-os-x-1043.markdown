@@ -1,5 +1,8 @@
-title="Mac OS X 10.4.3"
-date="2005-11-01 08:44:26"
+---
+layout: post
+title: Mac OS X 10.4.3
+date: 2005-11-01 08:44:26
+tags: 
+- geeking
+---
 Da er versjon 10.4.3 av Mac OS X gitt ut. Oppdateringen til systemet kan i skrivende øyeblikk bare hentes fra Programvareoppdatering (Software Update). Oppdateringen er på hele 109MB (<a href="http://www.apple.com/support/downloads/macosxupdate1043combo.html">combo</a>). Det kan være lurt å <a href="http://docs.info.apple.com/article.html?path=DiskUtility/10.5/en/duh17.html">reparere diskrettigheter</a> før og etter oppdateringen. Det er også lurt å koble fra eksterne harddisker før man oppdaterer.
-
-[[!tag  geeking

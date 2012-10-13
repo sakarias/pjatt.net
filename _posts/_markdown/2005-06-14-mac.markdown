@@ -1,140 +1,186 @@
-title="Macintosh notater"
-date="2005-06-14 21:28:02"
-<p><img alt="HappyMac" src="http://pjatt.net/wp-content/happymac.jpg"  /></p>
-<p>Jeg har endelig fått inn nok penger til å kunne bestille meg min første Apple Macintosh. Jeg har bestillt meg en nesten standard iBook, eneste ekstra jeg har slengt på er en 80 GB disk i stedet for 40 GB som er standard.</p>
-<p>Bestillings oppdatering:</p>
-<p>TNT tracking<br  />
-29.09.05 20:50 Oslo Delivered<br  />
-29.09.05 15:10 Oslo Out For Delivery<br  />
-29.09.05 06:38 Oslo Import Received<br  />
-29.09.05 06:00 Oslo Import Received<br  />
-27.09.05 21:49 Arnhem Hub Consignment Passed Through Transit Point<br  />
-27.09.05 21:49 Arnhem Hub Consignment Received At Transit Point<br  />
-27.09.05 21:02 Arnhem Hub Consignment Received At Transit Point<br  />
-27.09.05 21:01 Arnhem Hub Consignment Passed Through Transit Point<br  />
-27.09.05 19:54 Eindhoven Shipped From Originating Depot<br  />
-27.09.05 14:43 Eindhoven Consignment Received At Transit Point<br  />
-27.09.05 13:19 Eindhoven Consignment Received At Transit Point</p>
-<p>Apple tracking<br  />
-19.09.05 - 14:05 : Shipped<br  />
-19.09.05 - 11:43 :  Preparing Shipment<br  />
-16.09.05 - 16:54 : We now expect to ship your order by September 23rd, 2005<br  />
-09.09.05 - 19:50 : Processing Order, ship on or before 16.09.05<br  />
-09.09.05 - 13:45 : Ordre sendt til Apple</p>
-<p>-- Tidligere notater --</p>
-<p><a href="http://mac.erlang.no/doku.php?id=cocoaspell">Norsk ordbok</a></p>
-<p><a href="http://www.flip4mac.com/">Flip4Mac</a></p>
-<p><a href="http://www.sagefire.org/C1827030151/E20050812201046/index.html">Iridium</a></p>
-<p><a href="http://www.objectpark.net/en/mcc.html">MenuCalendarClock for iCal</a></p>
-<p><a href="http://pjatt.net/wp-content/nemiringerapplesupport7dm.gif">Nemi ringer Apple Support</a></p>
-<p><a href="webcal://www.apple.com/no/batteries/images/ipod_icalreminder.ics">Minn meg på å lade opp og lade ut iPod-batteriet </a></p>
-<p><a href="webcal://www.apple.com/no/batteries/images/notebook_icalreminder.ics">Minn meg på å lade opp og lade ut batteriet i den bærbare maskinen</a></p>
-<p><a href="http://www.macrabbit.com/cssedit/">CSSedit</a></p>
-<p><a href="http://hmdt-web.net/shiira/index-e.html">Shiira</a></p>
-<p><a href="http://www.newsfirerss.com/">NewsFire</a></p>
-<p><a href="http://www.appleerrorcodes.com/">Apple Error Codes</a></p>
-<p><a href="http://forums.macrumors.com/showthread.php?t=54704">GUIDE: Networking Windows with OS X</a></p>
-<p><a href="http://webkit.opendarwin.org/building/checkout.html">WebKit</a></p>
-<p><a href="http://desktopmanager.berlios.de/">Desktopmanager</a><br  />
-<a href="http://www.codetek.com/ctvd/">VirtualDesktop</a></p>
-<p><a href="http://quicksilver.blacktree.com/">Quicksilver</a></p>
-<p><a href="http://www.apple.com/downloads/dashboard/blogs_forums/wordpressdash.html">Wordpress Widget</a> - Blogge rett fra dashboard, sikkert kjekt :P</p>
-<p><a href="http://www.apple.com/downloads/dashboard/">Dashboard Widgets</a> fra Apple sine sider.</p>
-<p><a href="http://www.patchburn.de/download.html">PathBurn</a> - Gjør at man kan bruke externe brenne fra diskutil</p>
-<p><a href="http://darwinports.opendarwin.org/">Darwin Ports</a> - Unix software for Mac OS X</p>
-<p><a href="http://fink.sourceforge.net/">Fink</a> - Unix software for Mac OS X</p>
-<p><a href="http://www.rutemoeller.com/mp/ibook/ibook_e.html">Screen Spanning Doctor</a></p>
-<p><strong>Editorer</strong><br  />
-<a href="http://smultron.sourceforge.net/">Smultron</a></p>
-<p><strong>IRC klienter</strong><br  />
-<a href="http://www.snak.com/">Snak</a><br  />
-<a href="http://homepage.mac.com/philrobin/conversation/">Conversation</a><br  />
-<a href="http://www.g1m0.se/macirssi/">MacIrssi</a><br  />
-<a href="http://adlr.info/?Irssix">IrssiX</a></p>
-<p><strong>FTP klienter</strong><br  />
-<a href="http://www.interarchy.com/">Interarchy</a> -  koster penger, men ligner på finder<br  />
-<a href="http://www.panic.com/transmit/">Transmit</a></p>
-<p><strong>RSS lesere</strong><br  />
-<a href="http://freshsqueeze.com/products/pulpfiction/">PulpFiction</a></p>
-<p><strong>Tastaturet</strong><br  />
-Eple tast = CMD<br  />
-ALT tasten kalles i en del tilfeller for tilvalgstasten og har et symbol i menyer som ligner på ett jernbanespor.</p>
-<p>CTRL - A blir CMD - A<br  />
-CTRL - C blir CMD - C<br  />
-CTRL - V blir CMD - V<br  />
-CTRL - X blir CMD - X<br  />
-ALT - TAB blir CMD - TAB</p>
-<p>Home og End fungerer ikke som du er vant til, her er de Topp og Bunn, og ikke Starten av linja, Slutten av linja. Til de formålene har man CMD-VENSTRE, og CMD-HØYRE. ALT-HØYRE, og ALT-VENSTRE, hopper enkeltord.</p>
-<p>Ctrl-Eject-Enter - slå av (quit)<br  />
-Ctrl-Eject-r - omstart (restart)<br  />
-Ctrl-Eject-s - dvale (sleep)<br  />
-CMD-D - Svare ja i dialogbokser)<br  />
-CMD-1, 2 og 3 - Velge visningsmodus i Finder<br  />
-CMD-pil opp - Tilsvarer backspace i Explorer, bare toveis<br  />
-CMD-pil ned - Tilsvarer enter i Explorer.<br  />
-CMD-Delete - Flytt til søppelkassa.<br  />
-CMD-I - Egenskaper for markert fil.<br  />
-CMD-ALT-I - "Inspektør" (Egenskaper for den filen du til enhver tid har markert)<br  />
-CMD-H - Gjem alle vinduer i aktiv applikasjon.<br  />
-ALT-CMD-H - Gjem ALLE vinduer.<br  />
-CMD-Shift-3 - Screenshot av hele skjermen<br  />
-CMD-Shift-4 - Screenshot av markert område. (trykker du space med en gang, kan du velge hvilket vindu du skal ta bilde av)<br  />
-ALT + 7 - | (pipe)<br  />
-ALT + ^ - ~ (tilde)<br  />
-ALT-SHIFT 7 - \<br  />
-ALT-SHIFT 8 - {<br  />
-ALT-SHIFT 9 - }<br  />
-Control+Alt+Apple+the star on the num pad It will switch your display into grayscale and invert it Under MacOS X 10.3 you will have to press Control+Alt+Apple+8</p>
-<p>Fra forum på <a href="http://mac1.no/forum/viewtopic.php?t=8632&#038;highlight=pipe">mac1</a></p>
-<blockquote><p>Merk et terminal vindu og trykk på terminal også "window setting".</p>
-<p>På emulation så har jeg følgende aktivert: Option click to position cursor, Paste newlines as carriage returns og reverse linewrap. Resten er av.</p>
-<p>På "Display" og under Character Set Encoding så har jeg "Windows Latin 1".</p>
-<p>i .bashrc så har jeg følgende:<br  />
-export LESSCHARSET=latin1<br  />
-set dspmbyte = "utf8" (vet ikke om denne overstyrer terminal instillingene eller motsatt)</p>
-<p>For å få nordiske tegn i alle programmer så har jeg:<br  />
-I .profile:<br  />
-stty pass8<br  />
-export LESSCHARSET=latin1</p>
-<p>I .inputrc:<br  />
-set meta-flag on<br  />
-set convert-meta off<br  />
-set output-meta on</p></blockquote>
-<p><strong>Exposé</strong><br  />
-F9 - alle vinduer<br  />
-F10 - vinder i det programmet du bruker for øyeblikket<br  />
-F11 - skrivebordet, har du ei mus med flere knapper, lønner det seg å koble disse funksjonene til noen av disse</p>
-<p>Hold forøvrig shift inne for å brife litt ekstra ;)</p>
-<p><strong>Dashboard</strong><br  />
-F12 - henter fram dashboard.</p>
-<p><strong><a href="http://en.wikipedia.org/wiki/Mac_OS_X">Mac OS X versjoner</a></strong><br  />
-Mac OS X 10.0 "Cheetah" (24.03.01)<br  />
-Mac OS X 10.1 "Puma" (25.09.01)<br  />
-Mac OS X 10.2 "Jaguar" (24.08.02)<br  />
-Mac OS X 10.3 "Panther" (24.10.03)<br  />
-Mac OS X 10.4 "Tiger" (29.04.05)<br  />
-Mac OS X 10.5 "Leopard" (slutten av 2006 eller tidlig 2007)</p>
-<p><a href="http://en.wikipedia.org/wiki/Mac_OS_history">Tidligere versjoner av Mac OS</a>.</p>
-<p>You can enter Open Firmware by pressing the key combination cmd-opt-O-F just as you power on a Macintosh.<br  />
-The cmd key is the one with the Apple logo, and the opt (option) key is the same as the alt key.</p>
-<blockquote><p>/	        root, the Local domain<br  />
-/Applications	GUI applications<br  />
-/Applications/Utilities	GUI utilities<br  />
-/Developer	Xcode developer tools<br  />
-/Library	User installed frameworks<br  />
-/Network	the Network domain<br  />
-/System	the System domain<br  />
-/System/Library	System frameworks<br  />
-/Users	Home directories, the User domain<br  />
-~/Desktop	Your desktop<br  />
-~/Documents	Your documents<br  />
-~/Movies	Your movies directory (iMovie uses it by default)<br  />
-~/Music	Your music directory (iTunes uses it by default)<br  />
-~/Pictures	Your pictures directory (iPhoto uses it by default)<br  />
-~/Public	For sharing (contents visible to others)<br  />
-~/Sites	Your www (apache) directory</p></blockquote>
-<p><a href="http://www.kernelthread.com/mac/osx/software.html">http://www.kernelthread.com/mac/osx/software.html</a><br  />
-<code><br  />
-PC = problem computer<br  />
-MAC = More advance computer</code></p>
-<p><code>ioreg -w0 -l | grep Capacity</code></p>
+---
+layout: post
+title: Macintosh notater
+date: 2005-06-14 21:28:02
+tags: 
+---
+<img alt="HappyMac" src="http://pjatt.net/wp-content/happymac.jpg" />
+
+Jeg har endelig fått inn nok penger til å kunne bestille meg min første Apple Macintosh. Jeg har bestillt meg en nesten standard iBook, eneste ekstra jeg har slengt på er en 80 GB disk i stedet for 40 GB som er standard.
+Bestillings oppdatering:
+
+**TNT tracking**
+
+	29.09.05 20:50 Oslo Delivered
+	29.09.05 15:10 Oslo Out For Delivery
+	29.09.05 06:38 Oslo Import Received
+	29.09.05 06:00 Oslo Import Received
+	27.09.05 21:49 Arnhem Hub Consignment Passed Through Transit Point
+	27.09.05 21:49 Arnhem Hub Consignment Received At Transit Point
+	27.09.05 21:02 Arnhem Hub Consignment Received At Transit Point
+	27.09.05 21:01 Arnhem Hub Consignment Passed Through Transit Point
+	27.09.05 19:54 Eindhoven Shipped From Originating Depot
+	27.09.05 14:43 Eindhoven Consignment Received At Transit Point
+	27.09.05 13:19 Eindhoven Consignment Received At Transit Point
+
+**Apple tracking**
+
+	19.09.05 - 14:05 : Shipped
+	19.09.05 - 11:43 : Preparing Shipment
+	16.09.05 - 16:54 : We now expect to ship your order by September 23rd, 2005
+	09.09.05 - 19:50 : Processing Order, ship on or before 16.09.05
+	09.09.05 - 13:45 : Ordre sendt til Apple
+
+-- Tidligere notater --
+
+[Norsk ordbok](http://mac.erlang.no/doku.php?id=cocoaspell)  
+[Flip4Mac](http://www.flip4mac.com/)  
+[Iridium](http://www.sagefire.org/C1827030151/E20050812201046/index.html)  
+[MenuCalendarClock for iCal](http://www.objectpark.net/en/mcc.html)  
+[Nemi ringer Apple Support](http://pjatt.net/wp-content/nemiringerapplesupport7dm.gif)  
+[Minn meg på å lade opp og lade ut iPod-batteriet](webcal://www.apple.com/no/batteries/images/ipod_icalreminder.ics)  
+[Minn meg på å lade opp og lade ut batteriet i den bærbare maskinen](webcal://www.apple.com/no/batteries/images/notebook_icalreminder.ics)  
+[CSSedit](http://www.macrabbit.com/cssedit/)  
+[Shiira](http://hmdt-web.net/shiira/index-e.html)  
+[NewsFire](http://www.newsfirerss.com/)  
+[Apple Error Codes](http://www.appleerrorcodes.com/)  
+[GUIDE: Networking Windows with OS X](http://forums.macrumors.com/showthread.php?t=54704)  
+[WebKit](http://webkit.opendarwin.org/building/checkout.html)  
+[Desktopmanager](http://desktopmanager.berlios.de/)  
+[VirtualDesktop](http://www.codetek.com/ctvd/)  
+[Quicksilver](http://quicksilver.blacktree.com/)  
+[Wordpress Widget](http://www.apple.com/downloads/dashboard/blogs_forums/wordpressdash.html) - Blogge rett fra dashboard, sikkert kjekt :P  
+[Dashboard Widgets](http://www.apple.com/downloads/dashboard/) fra Apple sine sider.  
+[PathBurn](http://www.patchburn.de/download.html) - Gjør at man kan bruke externe brenne fra diskutil  
+[Darwin Ports](http://darwinports.opendarwin.org/) - Unix software for Mac OS X  
+[Fink](http://fink.sourceforge.net/) - Unix software for Mac OS X  
+[Screen Spanning Doctor](http://www.rutemoeller.com/mp/ibook/ibook_e.html)  
+
+**Editorer**
+
+[Smultron](http://smultron.sourceforge.net/)  
+
+**IRC klienter**
+
+[Snak](http://www.snak.com/)  
+[Conversation](http://homepage.mac.com/philrobin/conversation/)  
+[MacIrssi](http://www.g1m0.se/macirssi/)  
+[IrssiX](http://adlr.info/?Irssix)  
+
+**FTP klienter**
+
+[Interarchy](http://www.interarchy.com/) - koster penger, men ligner på finder  
+[Transmit](http://www.panic.com/transmit/)  
+
+**RSS lesere**
+
+[PulpFiction](http://freshsqueeze.com/products/pulpfiction/)  
+
+**Tastaturet**
+
+Eple tast = CMD
+
+ALT tasten kalles i en del tilfeller for tilvalgstasten og har et symbol i menyer som ligner på ett jernbanespor.  
+CTRL - A blir CMD - A  
+CTRL - C blir CMD - C  
+CTRL - V blir CMD - V  
+CTRL - X blir CMD - X  
+ALT - TAB blir CMD - TAB  
+Home og End fungerer ikke som du er vant til, her er de Topp og Bunn, og ikke Starten av linja, Slutten av linja. Til de formålene har man CMD-VENSTRE, og CMD-HØYRE. ALT-HØYRE, og ALT-VENSTRE, hopper enkeltord.  
+Ctrl-Eject-Enter - slå av (quit)  
+Ctrl-Eject-r - omstart (restart)  
+Ctrl-Eject-s - dvale (sleep)  
+CMD-D - Svare ja i dialogbokser)  
+CMD-1, 2 og 3 - Velge visningsmodus i Finder  
+CMD-pil opp - Tilsvarer backspace i Explorer, bare toveis  
+CMD-pil ned - Tilsvarer enter i Explorer.  
+CMD-Delete - Flytt til søppelkassa.  
+CMD-I - Egenskaper for markert fil.  
+CMD-ALT-I - "Inspektør" (Egenskaper for den filen du til enhver tid har markert)  
+CMD-H - Gjem alle vinduer i aktiv applikasjon.  
+ALT-CMD-H - Gjem ALLE vinduer.  
+CMD-Shift-3 - Screenshot av hele skjermen  
+CMD-Shift-4 - Screenshot av markert område. (trykker du space med en gang, kan du velge hvilket vindu du skal ta bilde av)  
+ALT + 7 - | (pipe)  
+ALT + ^ - ~ (tilde)  
+ALT-SHIFT 7 - \  
+ALT-SHIFT 8 - {  
+ALT-SHIFT 9 - }  
+Control+Alt+Apple+the star on the num pad It will switch your display into grayscale and invert it Under MacOS X 10.3 you will have to press Control+Alt+Apple+8
+Fra forum på [mac1](http://mac1.no/forum/viewtopic.php?t=8632&#038;highlight=pipe).
+
+Merk et terminal vindu og trykk på terminal også "window setting".  
+På emulation så har jeg følgende aktivert:
+
+	Option click to position cursor
+	Paste newlines as carriage returns og reverse linewrap.
+
+Resten er av.
+
+På "Display" og under Character Set Encoding så har jeg "Windows Latin 1".
+
+I .bashrc så har jeg følgende:
+
+	export LESSCHARSET=latin1
+	set dspmbyte = "utf8" (vet ikke om denne overstyrer terminal instillingene eller motsatt)
+	For å få nordiske tegn i alle programmer så har jeg:
+
+I .profile:
+
+	stty pass8
+	export LESSCHARSET=latin1
+
+I .inputrc:
+
+	set meta-flag on
+	set convert-meta off
+	set output-meta on
+
+**Exposé**
+
+F9 - alle vinduer  
+F10 - vinder i det programmet du bruker for øyeblikket  
+F11 - skrivebordet, har du ei mus med flere knapper, lønner det seg å koble disse funksjonene til noen av disse  
+Hold forøvrig shift inne for å brife litt ekstra ;)
+
+**Dashboard**
+
+F12 - henter fram dashboard.
+
+**[Mac OS X versjoner](http://en.wikipedia.org/wiki/Mac_OS_X">)**
+
+Mac OS X 10.0 "Cheetah" (24.03.01)  
+Mac OS X 10.1 "Puma" (25.09.01)  
+Mac OS X 10.2 "Jaguar" (24.08.02)  
+Mac OS X 10.3 "Panther" (24.10.03)  
+Mac OS X 10.4 "Tiger" (29.04.05)  
+Mac OS X 10.5 "Leopard" (slutten av 2006 eller tidlig 2007)  
+
+[Tidligere versjoner av Mac OS](http://en.wikipedia.org/wiki/Mac_OS_history).
+
+You can enter Open Firmware by pressing the key combination cmd-opt-O-F just as you power on a Macintosh.
+The cmd key is the one with the Apple logo, and the opt (option) key is the same as the alt key.
+
+	/						root, the Local domain
+	/Applications			GUI applications
+	/Applications/Utilities	GUI utilities
+	/Developer				Xcode developer tools
+	/Library				User installed frameworks
+	/Network				the Network domain
+	/System					the System domain
+	/System/Library			System frameworks
+	/Users					Home directories, the User domain
+	~/Desktop				Your desktop
+	~/Documents				Your documents
+	~/Movies				Your movies directory (iMovie uses it by default)
+	~/Music					Your music directory (iTunes uses it by default)
+	~/Pictures				Your pictures directory (iPhoto uses it by default)
+	~/Public				For sharing (contents visible to others)
+	~/Sites					Your www (apache) directory
+
+[http://www.kernelthread.com/mac/osx/software.html](http://www.kernelthread.com/mac/osx/software.html)
+
+	PC = problem computer
+	MAC = More advance computer
+	
+```ioreg -w0 -l | grep Capacity```

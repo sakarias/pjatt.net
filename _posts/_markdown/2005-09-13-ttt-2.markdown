@@ -1,9 +1,9 @@
-title="TTT"
-date="2005-09-13 09:40:30"
-Her sitter jeg da, på jobb å sjekker om maskinen min fra Apple har blitt sendt enda, men nei da. Den har ikke gang blitt satt til produksjon. "Processing Order" er det som står, som det har gjort siden fredag (09/09/2005 12:45 PM GMT) da jeg bestillte maskinen. Jeg synes virkelig den snart kan bli satt til produksjon i det minste. Begynner å bli lei av å vente. Noe av det dummeste jeg har gjort er å bestille på en fredag, det betyr at jeg må vente hele helgen til ingen nytte. 2 dager hvor det ikke blir gjort noe pga. det er helg :(
-
-Fikk en link av min kjære til dette bildet, som forklarer det meste.
-<div align="center"><img src="http://stuff.sakarias.net//skybush.jpg" alt="SkyBush"  /></div>
-
-[[!tag  geeking
-[[!tag  generelt
+---
+layout: post
+title: TTT
+date: 2005-09-13 09:40:30
+tags: 
+- geeking
+- generelt
+---
+Her sitter jeg da, på jobb å sjekker om maskinen min fra Apple har blitt sendt enda, men nei da. Den har ikke gang blitt satt til produksjon. "Processing Order" er det som står, som det har gjort siden fredag (09/09/2005 12:45 PM GMT) da jeg bestillte maskinen. Jeg synes virkelig den snart kan bli satt til produksjon i det minste. Begynner å bli lei av å vente. Noe av det dummeste jeg har gjort er å bestille på en fredag, det betyr at jeg må vente hele helgen til ingen nytte. 2 dager hvor det ikke blir gjort noe pga. det er helg :( Fikk en link av min kjære til dette bildet, som forklarer det meste. <div align="center"><img src="http://stuff.sakarias.net//skybush.jpg" alt="SkyBush" /></div>

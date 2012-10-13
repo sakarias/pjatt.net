@@ -1,5 +1,8 @@
-title="DopeWars"
-date="2005-04-04 13:29:41"
-Noen som husker det gode gamle <a href="http://dopewars.sourceforge.net">DopeWars</a> spillet? Ikke? Vel da har du gått glipp av noe. Så besøk websiden til <a href="http://dopewars.sourceforge.net">DopeWars</a> og last ned. Men til det saken egentlig handler om, jeg fant i dag en port av spillet for PocketPC, <a href="http://dopewarsppc.sourceforge.net/">DopeWars PPC</a>.  Det bringer tilbake mange gode minner :D
-
-[[!tag  geeking
+---
+layout: post
+title: DopeWars
+date: 2005-04-04 13:29:41
+tags: 
+- geeking
+---
+Noen som husker det gode gamle <a href="http://dopewars.sourceforge.net">DopeWars</a> spillet? Ikke? Vel da har du gått glipp av noe. Så besøk websiden til <a href="http://dopewars.sourceforge.net">DopeWars</a> og last ned. Men til det saken egentlig handler om, jeg fant i dag en port av spillet for PocketPC, <a href="http://dopewarsppc.sourceforge.net/">DopeWars PPC</a>. Det bringer tilbake mange gode minner :D

@@ -1,11 +1,9 @@
-title="LOTR"
-date="2005-04-12 19:17:11"
-Som erstatning for at jeg ikke kjøpte meg en iMac i helgen, så kjøpte jeg The Lord Of The Rings Special Extended DVD Edition. Skulle egentlig kjøpe <a href="http://www.eagames.com/official/burnout/burnout3/us/home.jsp">Burnout 3</a> til <a href="http://www.microsoft.com/xbox/">Xbox</a>, men fant ingen som hadde det. Var innom 2 <a href="http://www.freerecordshop.no/">Free Record Shop</a> butikker og <a href="http://www.ebgames.no/">EB games</a> har jeg sett hos før helgen.
-
-Så nå har jeg endelig alle tre LOTR filmene. Tenkte å ta en LOTR maraton til helgen, og se hvor mye jeg orker å se i strekk. Og det er masse dokumentar i pakken. Så jeg kommer til å være opptatt lenge framover.
-
-Nina kjøpte seg The X-Files <a href="http://www.tvtome.com/XFiles/eplist.html#s1">Sesong 1</a>. Hun er straks ferdig med å se Sex and the City serien, alle sesongene. Så det var påtide å få kjøpt inn en ny serie. Problemet er at det er så få butikker som selger serier på DVD. <a href="http://www.play.com/">Play</a> har mange, men de er desverre over 200 kr grensen. Så da blir det veldig dyrt. Er det noen som har tips om hvor man får kjøpt serier, helst sone 2 (DVD spilleren min tar begge, men ikke Nina sin)?
-
-Ellers så ble det <a href="http://www.vg.no/pub/vgart.hbs?artid=273509">kastet ut noen hus okupanter</a> et stykke ovenfor der jeg bor i dag.
-
-[[!tag  filmer---tv-serier
+---
+layout: post
+title: LOTR
+date: 2005-04-12 19:17:11
+tags: 
+- tv-serier
+- filmer
+---
+Som erstatning for at jeg ikke kjøpte meg en iMac i helgen, så kjøpte jeg The Lord Of The Rings Special Extended DVD Edition. Skulle egentlig kjøpe <a href="http://www.eagames.com/official/burnout/burnout3/us/home.jsp">Burnout 3</a> til <a href="http://www.microsoft.com/xbox/">Xbox</a>, men fant ingen som hadde det. Var innom 2 <a href="http://www.freerecordshop.no/">Free Record Shop</a> butikker og <a href="http://www.ebgames.no/">EB games</a> har jeg sett hos før helgen. Så nå har jeg endelig alle tre LOTR filmene. Tenkte å ta en LOTR maraton til helgen, og se hvor mye jeg orker å se i strekk. Og det er masse dokumentar i pakken. Så jeg kommer til å være opptatt lenge framover. Nina kjøpte seg The X-Files <a href="http://www.tvtome.com/XFiles/eplist.html#s1">Sesong 1</a>. Hun er straks ferdig med å se Sex and the City serien, alle sesongene. Så det var påtide å få kjøpt inn en ny serie. Problemet er at det er så få butikker som selger serier på DVD. <a href="http://www.play.com/">Play</a> har mange, men de er desverre over 200 kr grensen. Så da blir det veldig dyrt. Er det noen som har tips om hvor man får kjøpt serier, helst sone 2 (DVD spilleren min tar begge, men ikke Nina sin)? Ellers så ble det <a href="http://www.vg.no/pub/vgart.hbs?artid=273509">kastet ut noen hus okupanter</a> et stykke ovenfor der jeg bor i dag.

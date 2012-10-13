@@ -1,5 +1,10 @@
-title="Mer Blåtand"
-date="2005-01-29 13:40:39"
+---
+layout: post
+title: Mer Blåtand
+date: 2005-01-29 13:40:39
+tags: 
+- geeking
+---
 Ved hjelp av blåtand og en plugin til <a href="http://www.xmms.org">xmms</a> så kan jeg styre xmms fra mobilen min. Plugin'n heter btexmms og kan enten installeres ved hjelp av emerge i gentoo eller lastes ned fra <a href="http://www.lyola.com/bte/">websiden</a> dems.
 
 Gentoo:
@@ -22,5 +27,3 @@ Høyre - Neste sang
 0 - Volum opp
 
 Jeg må finne ut om plugin fungerer i <a href="http://www.sosdg.org/~larne/w/BMP_Homepage">beep media player</a> også, siden jeg bruker den mer enn xmms.
-
-[[!tag  geeking

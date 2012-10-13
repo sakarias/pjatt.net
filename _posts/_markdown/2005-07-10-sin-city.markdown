@@ -1,7 +1,11 @@
-title="Sin City"
-date="2005-07-10 22:30:39"
-<img src="http://pjatt.net/wp-content/SinCity.jpg" alt="SinCity" align="left" style="padding-right: 5px;"  />"Sin City", syndenes by :P På lørdag ble det pratet om hva bra Sin City på <a href="http://lilug.no/index.php?side=informasjon&informasjon=lilug">#LiLUG</a> var, så i dag stakk jeg og <a href="http://nenia.slaskdot.org" title="Verdens søteste jente :)">nenia</a> på <a href="http://www2.filmweb.no/oslokino/kinofakta/colosseum/">Colosseum</a> for å se akkurat denne filmen. Den var faktisk like bra som <a href="http://beltazore.net/">davalex</a> og acid skulle ha den til å være. Tror dette er første gang jeg har sett nenia kose seg når hun ser på en action preget film.
+---
+layout: post
+title: Sin City
+date: 2005-07-10 22:30:39
+tags: 
+- tv-serier
+- filmer
+---
+<img src="http://pjatt.net/wp-content/SinCity.jpg" alt="SinCity" align="left" style="padding-right: 5px;" />
 
-På lørdag prøvde jeg  å se på "Constantine", men kvaliteten på det jeg hadde liggende var så dårlig at det nesten ikke gikk ann å se hva som skjedde til tider. Så jeg bestemte meg for å gå over gata og leie filmen, men den var selvfølgelig utleid, så jeg og nenia leide en annen film som jeg ikke kommer på tittelen akkurat nå. Den var litt rar. Oppdaterer posten så snart jeg husker tittelen.
-
-[[!tag  filmer---tv-serier
+"Sin City", syndenes by :P På lørdag ble det pratet om hva bra Sin City på <a href="http://lilug.no/index.php?side=informasjon&informasjon=lilug">#LiLUG</a> var, så i dag stakk jeg og <a href="http://nenia.slaskdot.org" title="Verdens søteste jente :)">nenia</a> på <a href="http://www2.filmweb.no/oslokino/kinofakta/colosseum/">Colosseum</a> for å se akkurat denne filmen. Den var faktisk like bra som <a href="http://beltazore.net/">davalex</a> og acid skulle ha den til å være. Tror dette er første gang jeg har sett nenia kose seg når hun ser på en action preget film. På lørdag prøvde jeg å se på "Constantine", men kvaliteten på det jeg hadde liggende var så dårlig at det nesten ikke gikk ann å se hva som skjedde til tider. Så jeg bestemte meg for å gå over gata og leie filmen, men den var selvfølgelig utleid, så jeg og nenia leide en annen film som jeg ikke kommer på tittelen akkurat nå. Den var litt rar. Oppdaterer posten så snart jeg husker tittelen.

@@ -1,7 +1,8 @@
-title="Wordpress 2.0"
-date="2005-12-27 04:23:49"
-Vel, da har <a title="WordPress" href="http://www.wordpress.org">WordPress</a> <strong>2.0</strong> blitt sluppet og jeg har oppgradert bloggen min til den. Har kjørt noen tester av "work-in-progress" versjonen av Wordpress på <a title="wp.sakarias.net" href="http://wp.sakarias.net">wp.sakarias.net</a> før. Eneste problemet så langt er at jeg ikke finner igjen pluginen som jeg bruker på imdb linkene mine.
-
-Jeg har også oppgradert themet jeg bruker på denne bloggen, <a href="http://www.squible.com/my-work/squible/">Squible</a> har kommet i versjon 2.5 Alpha. Men <a href="http://blog.beltazore.net/squible/">Beltazore</a> har vist ikke laget noen norsk versjon av denne enda gitt. Får nesten oversette selv da.
-
-[[!tag  wordpress
+---
+layout: post
+title: Wordpress 2.0
+date: 2005-12-27 04:23:49
+tags: 
+- wordpress
+---
+Vel, da har <a title="WordPress" href="http://www.wordpress.org">WordPress</a> <strong>2.0</strong> blitt sluppet og jeg har oppgradert bloggen min til den. Har kjørt noen tester av "work-in-progress" versjonen av Wordpress på <a title="wp.sakarias.net" href="http://wp.sakarias.net">wp.sakarias.net</a> før. Eneste problemet så langt er at jeg ikke finner igjen pluginen som jeg bruker på imdb linkene mine. Jeg har også oppgradert themet jeg bruker på denne bloggen, <a href="http://www.squible.com/my-work/squible/">Squible</a> har kommet i versjon 2.5 Alpha. Men <a href="http://blog.beltazore.net/squible/">Beltazore</a> har vist ikke laget noen norsk versjon av denne enda gitt. Får nesten oversette selv da.

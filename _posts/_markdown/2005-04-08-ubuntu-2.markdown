@@ -1,7 +1,8 @@
-title="Ubuntu"
-date="2005-04-08 10:25:27"
-Da har endelig <a href="http://www.ubuntulinux.org/504Released">Ubuntu 5.04</a> blitt sluppet.
-
-Du får tak i både torrent og iso, for Live CD og Install CD på <a href="http://se.releases.ubuntu.com/mirror/ubuntu-releases/5.04/">http://se.releases.ubuntu.com/mirror/ubuntu-releases/5.04/</a>
-
-[[!tag  geeking
+---
+layout: post
+title: Ubuntu
+date: 2005-04-08 10:25:27
+tags: 
+- geeking
+---
+Da har endelig <a href="http://www.ubuntulinux.org/504Released">Ubuntu 5.04</a> blitt sluppet. Du får tak i både torrent og iso, for Live CD og Install CD på <a href="http://se.releases.ubuntu.com/mirror/ubuntu-releases/5.04/">http://se.releases.ubuntu.com/mirror/ubuntu-releases/5.04/</a>

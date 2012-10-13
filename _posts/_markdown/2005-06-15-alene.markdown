@@ -1,7 +1,8 @@
-title="Alene"
-date="2005-06-15 21:35:46"
-I dag reiste <a href="http://nenia.slaskdot.org">Nina</a> til <a href="http://www.lillehammer.kommune.no/">Lillehammer</a> for å besøke sin familie og ordne med pass og slike ting. Så jeg er igjen helt alene her i <a href="http://www.oslo.kommune.no/">Oslo</a>.
-
-Hva har jeg brukt min første "fridag" til? Vel, jeg kom hjem fra jobb, stekte meg tre burgere, satte på "The Bourne Supremacy" for å se slutten som jeg ikke fikk med meg her om dagen da jeg satte den på første gangen og husker ikke noe mer før klokka var rundt 22. Så hva har jeg gjort? Jeg har sovet bort det meste av dagen på sofaen. Får se om jeg finner på noe mer spennende i morgen.
-
-[[!tag  generelt
+---
+layout: post
+title: Alene
+date: 2005-06-15 21:35:46
+tags: 
+- generelt
+---
+I dag reiste <a href="http://nenia.slaskdot.org">Nina</a> til <a href="http://www.lillehammer.kommune.no/">Lillehammer</a> for å besøke sin familie og ordne med pass og slike ting. Så jeg er igjen helt alene her i <a href="http://www.oslo.kommune.no/">Oslo</a>. Hva har jeg brukt min første "fridag" til? Vel, jeg kom hjem fra jobb, stekte meg tre burgere, satte på "The Bourne Supremacy" for å se slutten som jeg ikke fikk med meg her om dagen da jeg satte den på første gangen og husker ikke noe mer før klokka var rundt 22. Så hva har jeg gjort? Jeg har sovet bort det meste av dagen på sofaen. Får se om jeg finner på noe mer spennende i morgen.

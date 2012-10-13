@@ -1,7 +1,9 @@
-title="Futurama"
-date="2005-10-11 18:47:36"
-Var en tur i byen for å kjøpe en <a href="http://www.worldofwarcraft.com/">WoW</a> pakke til slik at jeg og Nina kan fortsette å spille WoW. Kjøpte spillet på <a href="http://www.ebgames.no/">EB Games</a>, det var faktisk billigere enn den vi kjøpte på <a href="http://www.spiderman.no/">Spider-man</a>. Men siden vi var i byen så måtte vi innom <a href="http://www.platekompaniet.no/">Platekompaniet</a> også for å se om det var noe interessant. Der fant jeg sesong 2 av "Futurama" til 179 penger. Dette er da import, sone 2. Og jeg synes det var billig nok til at jeg ville ha den (ikke import koster 600 kr).
-
-Men på tur til kassen så ser vi en rad med noe som heter DVD BUDGET. Der fant Nina seg 6 filmer til 59,90 kr. Så samlingen vår har blitt enda større. Vi trenger snart en egen hybel bare til DVDene :P
-
-[[!tag  filmer---tv-serier
+---
+layout: post
+title: Futurama
+date: 2005-10-11 18:47:36
+tags: 
+- tv-serier
+- filmer
+---
+Var en tur i byen for å kjøpe en <a href="http://www.worldofwarcraft.com/">WoW</a> pakke til slik at jeg og Nina kan fortsette å spille WoW. Kjøpte spillet på <a href="http://www.ebgames.no/">EB Games</a>, det var faktisk billigere enn den vi kjøpte på <a href="http://www.spiderman.no/">Spider-man</a>. Men siden vi var i byen så måtte vi innom <a href="http://www.platekompaniet.no/">Platekompaniet</a> også for å se om det var noe interessant. Der fant jeg sesong 2 av "Futurama" til 179 penger. Dette er da import, sone 2. Og jeg synes det var billig nok til at jeg ville ha den (ikke import koster 600 kr). Men på tur til kassen så ser vi en rad med noe som heter DVD BUDGET. Der fant Nina seg 6 filmer til 59,90 kr. Så samlingen vår har blitt enda større. Vi trenger snart en egen hybel bare til DVDene :P

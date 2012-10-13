@@ -1,7 +1,10 @@
-title="Blåtand"
-date="2005-01-28 13:49:07"
-<img src="http://upload.wikimedia.org/wikipedia/en/7/7b/Bluetooth_logo.png" alt="Blåtand" align="left"  />Mens jeg var i Oslo så kjøpte jeg meg en <a href="http://en.wikipedia.org/wiki/Harold_Bluetooth">Blåtand</a> (<a href="http://en.wikipedia.org/wiki/Bluetooth">Bluetooth</a> for dere andre.) dongel på <a href="http://www.clasohlson.no/">Clas Ohlson</a>. Etter litt styr så fikk jeg det faktisk opp <a href="http://www.acronymfinder.com/af-query.asp?String=exact&Acronym=gprs&Find=Find">GPRS</a> over Blåtand fra både laptop og <a href="http://www.acronymfinder.com/af-query.asp?Acronym=pda&String=exact">PDA</a>.  PDA oppsettet var igrunn meget enkelt, verre var det med oppsettet i <a href="http://www.linux.org">Linux</a>. For det første viste jeg ikke hva slags moduler jeg skulle ha med i <a href="http://www.kernel.org">kjernen</a>, for det andre så har <a href="http://www.gentoo.org">Gentoo</a> plassert filene i /dev litt andreledes enn alle de andre distroene, så de howtoene jeg fant fungerte ikke. Når alt dette var funnet ut av så var igrunn det meget enkelt å sette opp GRPS over Blåtand i Linux. Jeg fulgte <a href="http://slarkware.com/">Simen</a> sin <a href="http://www.lilug.no/index.php?side=artikler&artid=12">oppskrift</a>.
+---
+layout: post
+title: Blåtand
+date: 2005-01-28 13:49:07
+tags: 
+- geeking
+---
+<img src="http://upload.wikimedia.org/wikipedia/en/7/7b/Bluetooth_logo.png" alt="Blåtand" align="left" />
 
-Så nå kan jeg surfe/<a href="http://no.wikipedia.org/wiki/Weblog">blogge</a>/chatte når jeg tar bussen til Oslo neste gang, må bare ha penger på kontantkortet, koster <a href="http://www.chess.no/eway/default0.asp?&pid=208&trg=MainPage_3733&MainPage_3733=3829::10,1143:1">14 kr MB</a>, så jeg kommer nok ikke til å bruke det så ofte.
-
-[[!tag  geeking
+Mens jeg var i Oslo så kjøpte jeg meg en <a href="http://en.wikipedia.org/wiki/Harold_Bluetooth">Blåtand</a> (<a href="http://en.wikipedia.org/wiki/Bluetooth">Bluetooth</a> for dere andre.) dongel på <a href="http://www.clasohlson.no/">Clas Ohlson</a>. Etter litt styr så fikk jeg det faktisk opp <a href="http://www.acronymfinder.com/af-query.asp?String=exact&Acronym=gprs&Find=Find">GPRS</a> over Blåtand fra både laptop og <a href="http://www.acronymfinder.com/af-query.asp?Acronym=pda&String=exact">PDA</a>. PDA oppsettet var igrunn meget enkelt, verre var det med oppsettet i <a href="http://www.linux.org">Linux</a>. For det første viste jeg ikke hva slags moduler jeg skulle ha med i <a href="http://www.kernel.org">kjernen</a>, for det andre så har <a href="http://www.gentoo.org">Gentoo</a> plassert filene i /dev litt andreledes enn alle de andre distroene, så de howtoene jeg fant fungerte ikke. Når alt dette var funnet ut av så var igrunn det meget enkelt å sette opp GRPS over Blåtand i Linux. Jeg fulgte <a href="http://slarkware.com/">Simen</a> sin <a href="http://www.lilug.no/index.php?side=artikler&artid=12">oppskrift</a>. Så nå kan jeg surfe/<a href="http://no.wikipedia.org/wiki/Weblog">blogge</a>/chatte når jeg tar bussen til Oslo neste gang, må bare ha penger på kontantkortet, koster <a href="http://www.chess.no/eway/default0.asp?&pid=208&trg=MainPage_3733&MainPage_3733=3829::10,1143:1">14 kr MB</a>, så jeg kommer nok ikke til å bruke det så ofte.
