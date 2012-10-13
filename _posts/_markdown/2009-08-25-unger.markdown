@@ -1,5 +1,8 @@
-title="Unger--"
-date="2009-08-25 06:01:33"
+---
+layout: post
+title: Unger--
+date: 2009-08-25 06:01:33
+tags: 
+- generelt
+---
 <div align="center"><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/-s2BHofE-m0&hl=en&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/-s2BHofE-m0&hl=en&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></div>
-
-[[!tag  generelt

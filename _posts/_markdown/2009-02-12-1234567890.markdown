@@ -1,8 +1,11 @@
-title="1234567890"
-date="2009-02-12 23:31:44"
-<h1>Happy 1234567890</h1>
+---
+layout: post
+title: 1234567890
+date: 2009-02-12 23:31:44
+tags: 
+- geek
+- geeking
+---
+# Happy 1234567890
 
-<a href="http://pjatt.net/images/2009/02/screenshot-1.png"><img src="http://pjatt.net/images/2009/02/screenshot-1-300x225.png" alt="1234567890" title="1234567890" width="300" height="225" class="aligncenter size-medium wp-image-752"  /></a>
-
-[[!tag  geek
-[[!tag  geeking
+<img src="http://pjatt.net/images/2009/02/screenshot-1.png" alt="1234567890" />

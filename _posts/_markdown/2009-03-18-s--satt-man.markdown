@@ -1,5 +1,13 @@
-title="så satt man"
-date="2009-03-18 19:24:09"
+---
+layout: post
+title: så satt man
+date: 2009-03-18 19:24:09
+tags: 
+- generelt
+- pain
+- sick
+- work
+---
 her og ventet på at de smertestillende skal virke. Sitter her uten å kunne bevege på hodet pga det gjør så fryktelig vondt i ryggen. Tror det er ti år siden jeg sist satt rett opp og ned i en stol i 3 dager pga jeg hadde fått kink i ryggen, denne gangen er det ikke korsryggen, men et stykke nedenfor høyre skulder.
 
 Jeg var helt fin i går, våknet i dagtidlig av vekkerklokken som jeg ikke fikk slått av pga jeg ikke klarte å bevge på meg. "Ligget forkjært" tenkte jeg, og tvingte meg opp og i dusjen. Alle bevegelser gjorde vondt og tok lang tid. Sendte mld til jobben at jeg ble forsinket pga vondt i ryggen.
@@ -7,8 +15,3 @@ Jeg var helt fin i går, våknet i dagtidlig av vekkerklokken som jeg ikke fikk 
 Siden jeg antok at det bare var pga jeg hadde sovet teit som var grunnen, så regnet jeg med at det gikk over. På jobben måtte jeg til slutt innse at dette ikke kom til å gå så bra, etter at jeg hadde, med hjelp montert opp 4 av 11 servere. Siden har jeg mer eller mindre ligget rett ut i sengen og lest og prøvd å finne en liggestilling som ikke gjorde så vondt, uten å lykkes nevneverdig.
 
 <div align="center"><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/7VibHOZOOfk&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/7VibHOZOOfk&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></div>
-
-[[!tag  generelt
-[[!tag  pain
-[[!tag  sick
-[[!tag  work

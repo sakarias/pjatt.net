@@ -1,5 +1,8 @@
-title="Bilder"
-date="2009-06-15 08:38:37"
-<a href="http://blurry-eyes.net/">Blurry Eyes</a>
-<a href="http://photos.blurry-eyes.net/">Photos @ Blurry Eyes</a>
-<a href="http://www.flickr.com/photos/sakarias">flickr</a>
+---
+layout: post
+title: Bilder
+date: 2009-06-15 08:38:37
+tags: 
+- generelt
+---
+[Blurry Eyes](http://blurry-eyes.net/) [Photos @ Blurry Eyes](http://photos.blurry-eyes.net/)

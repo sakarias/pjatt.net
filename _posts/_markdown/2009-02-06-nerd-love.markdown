@@ -1,9 +1,12 @@
-title="Nerd love"
-date="2009-02-06 08:12:55"
-<a href="http://pjatt.net/images/2009/02/alice_and_bob.jpg"><img src="http://pjatt.net/images/2009/02/alice_and_bob-300x228.jpg" alt="Alice and Bob" title="Alice and Bob" width="300" height="228" class="aligncenter size-medium wp-image-723"  /></a>
+---
+layout: post
+title: Nerd love
+date: 2009-02-06 08:12:55
+tags: 
+- geek
+- geeking
+- love
+---
+<img src="http://pjatt.net/images/2009/02/alice_and_bob.jpg" alt="Alice and Bob" width="300" height="228" />
 
 <a href="http://abstrusegoose.com/">Abstruse Goose</a>
-
-[[!tag  geek
-[[!tag  geeking
-[[!tag  love

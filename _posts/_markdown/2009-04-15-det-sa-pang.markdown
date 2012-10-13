@@ -1,6 +1,12 @@
-title="Det sa pang..."
-date="2009-04-15 00:01:01"
-<img class="alignright size-full wp-image-845" title="Epson pære" src="http://pjatt.net/images/2009/04/epson-paere.jpg" alt="Epson pære" width="200" height="150"  />
+---
+layout: post
+title: Det sa pang...
+date: 2009-04-15 00:01:01
+tags: 
+- generelt
+- projektor
+---
+<img class="alignright size-full wp-image-845" title="Epson pære" src="http://pjatt.net/images/2009/04/epson-paere.jpg" alt="Epson pære" width="200" height="150" />
 ...oppe på hylla der projektoren min sto. Pæra har "endelig" tatt kvelden, var klar over at det kom til å skje snart, men selvsagt så skjedde dette midt på natten.
 
 Spørsmålet er nå om jeg skal bære "reserve" TVen ut på stua, eller om jeg skal ta med meg Tvixen inn på soverommet.
@@ -14,6 +20,3 @@ Ny pære er bestilt fra Norek, regner med at den er hos meg på Torsdag.
 Nå har jeg jo også funnet ut at jeg vil ha en Tvix på soverommet også. Dakal lommeboka mi!
 
 Virkelig ikke min natt i natt.
-
-[[!tag  generelt
-[[!tag  projektor
