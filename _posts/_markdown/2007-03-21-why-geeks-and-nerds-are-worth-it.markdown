@@ -1,5 +1,10 @@
-title="Why Geeks and Nerds Are Worth It..."
-date="2007-03-21 11:09:50"
+---
+layout: post
+title: Why Geeks and Nerds Are Worth It...
+date: 2007-03-21 11:09:50
+tags: 
+- humor
+---
 In the wide world of dating, there are many options. Do you go for the flashy guy with the smooth smile, or the dude in the corner typing away on his laptop? The following are reasons why I think my fellow females should pay more attention to the quiet geeks and nerds, and less attention to the flashy boys.
 
 1.) While geeks and nerds may be awkward, they’re well-meaning 9 out of 10 times. That smooth dude with the sly grin and the spider hands? Wonder what HIS intentions are... plus, I’ve never had a geek guy not call me when he said he would. Score major points THERE.
@@ -38,5 +43,3 @@ Me: “Never mind...”
 15.) And the final reason why geeks and nerds make great boyfriends: They actually give a damn about you. Not how you look (though that’s a plus), not how skinny you are, not how much make-up you primp yourself up with, but they like you for you. That kind of thing lasts longer than “DaMN baby you got a fine ass!!!” Believe me.
 
 Kilde: <a href="http://www.craigslist.org/about/best/sfo/66795671.html">http://www.craigslist.org/about/best/sfo/66795671.html</a>
-
-[[!tag  humor---tester

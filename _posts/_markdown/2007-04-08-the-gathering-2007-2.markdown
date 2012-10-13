@@ -1,5 +1,10 @@
-title="The Gathering 2007"
-date="2007-04-08 13:45:55"
+---
+layout: post
+title: The Gathering 2007
+date: 2007-04-08 13:45:55
+tags: 
+- the-gathering
+---
 Hallen er tom, ting skal ryddes og jeg sitter godt gjemt på crew rommet og slapper av.
 
 Hva kan jeg si om uken som har gått tro; Jeg har hatt det artig, jeg har vært forbannet, jeg har vært trist, jeg har vært oppgitt... Mest av alt så har jeg ristet på hue.
@@ -26,5 +31,3 @@ Middag og festen... Middagen var god, potetsalat, kyllingsaus, kalkun og potetmo
 Jeg reiste hjem rundt to tiden, husker at vi forlot skipet og våknet da vi kom hjem. Jeg ryddet ut skittentøy og la det til vask, tok alle tingene mine inn på rommet, fant senga mi og sovnet før hodet traff puten. Jeg våknet dagen etter full av feber og utrolig vondt i halsen og sovnet igjen... Sov mer eller mindre i 36 timer før jeg sto opp og fant ut at det var veldig dumt gjort og la meg for å sove igjen. I 12 timer...
 
 I dag er det fredag og jeg er fremdeles syk og har vel mer eller mindre sovet hele uken. Missliker å være syk, føler at jeg ikke får gjort noe.
-
-[[!tag  the-gathering

@@ -1,14 +1,17 @@
-title="trall :D"
-date="2007-06-27 05:16:24"
-<div align="center">"Teach me passion for I fear it's gone
-Show me love, hold the lorn
-So much more I wanted to give to the ones who love me
-I'm sorry
-Time will tell (this bitter farewell)
-I live no more to shame nor me nor you
+---
+layout: post
+title: trall :D
+date: 2007-06-27 05:16:24
+tags: 
+- tanker
+---
+	Teach me passion for I fear it's gone
+	Show me love, hold the lorn
+	So much more I wanted to give to the ones who love me
+	I'm sorry
+	Time will tell (this bitter farewell)
+	I live no more to shame nor me nor you
 
-And you... I wish I didn't feel for you anymore..."</div>
+	And you... I wish I didn't feel for you anymore...
 
 Jeg vet nå at "du betyr mye for meg" ikke betyr noe som helst.
-
-[[!tag  tanker

@@ -1,13 +1,10 @@
-title="Jobb"
-date="2007-09-17 09:56:03"
-<div align="center"><a href='http://www.webdeal.no/' title='WebDeal AS'><img src='http://pjatt.net/images/2007/09/logo-rodape.gif' alt='WebDeal AS'  /></a></div>
+---
+layout: post
+title: Jobb
+date: 2007-09-17 09:56:03
+tags: 
+- generelt
+---
+<div align="center"><a href='http://www.webdeal.no/' title='WebDeal AS'><img src='http://pjatt.net/images/2007/09/logo-rodape.gif' alt='WebDeal AS' /></a></div>
 
-Jeg har nå blitt heltidsansatt i et lite firma på Gjøvik som heter <a href='http://www.webdeal.no/' title='WebDeal AS'>WebDeal AS</a>. Jeg har hatt prøvetid i firmaet i ca. 3 måneder, fra 11.06.2007. Og i dag så ble ansettelseskontrakten signert. Og jeg er igrunn happy :D
-
-Fikk hjertet litt i halsen da sjefen lurte på om jeg hadde fem-minutter og han begynte å samle sammen papirer og geleidet meg inn på et møterom og lukket døren. Jeg var igrunn det man kan kalle uforberedt.
-
-Noen små frynsegoder får man også, bærbar, mobil og internet hjemme. 3 grunner til at man blir jobbende på kveldstid også :P
-
-Internet hjemme har jeg fra før, men dette er en trådløs link bort til <a href="http://www.hig.no/" title="Høgskolen i Gjøvik">HiG</a>, og dette kan være ustabilt i dårlig vær. Det er lite aktuelt med nedetid på internetlinja når jeg begynner med driftvakt.
-
-[[!tag  generelt
+Jeg har nå blitt heltidsansatt i et lite firma på Gjøvik som heter <a href='http://www.webdeal.no/' title='WebDeal AS'>WebDeal AS</a>. Jeg har hatt prøvetid i firmaet i ca. 3 måneder, fra 11.06.2007. Og i dag så ble ansettelseskontrakten signert. Og jeg er igrunn happy :D Fikk hjertet litt i halsen da sjefen lurte på om jeg hadde fem-minutter og han begynte å samle sammen papirer og geleidet meg inn på et møterom og lukket døren. Jeg var igrunn det man kan kalle uforberedt. Noen små frynsegoder får man også, bærbar, mobil og internet hjemme. 3 grunner til at man blir jobbende på kveldstid også :P Internet hjemme har jeg fra før, men dette er en trådløs link bort til <a href="http://www.hig.no/" title="Høgskolen i Gjøvik">HiG</a>, og dette kan være ustabilt i dårlig vær. Det er lite aktuelt med nedetid på internetlinja når jeg begynner med driftvakt.

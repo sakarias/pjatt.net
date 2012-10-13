@@ -1,9 +1,10 @@
-title="Krutur!"
-date="2007-05-14 22:09:15"
-<div align="center"><img src="http://pjatt.net/wp-photos/thumb.20070515-000914-1.jpg" alt=""  /></div>
+---
+layout: post
+title: Krutur!
+date: 2007-05-14 22:09:15
+tags: 
+- the-gathering
+---
+<div align="center"><img src="http://pjatt.net/wp-photos/thumb.20070515-000914-1.jpg" alt="" /></div> 
 
-Jeg har nå meldt meg på The Gathering 2007 Crew tur. Fredag 15.6 til lørdag 16.6 så er vi på danskebåt tur. Ved siste telling jeg fikk med meg så var vi 40 stk som skulle på tur, har en følelse av at vi kommer til å være godt synlig på båten :P
-
-PS: Bildet over er bare en test av å sende mms til bloggen min. Ble litt uskarpt siden jeg ikke klarte å holde mobilen min helt rolig når jeg tok bildet.
-
-[[!tag  the-gathering
+Jeg har nå meldt meg på The Gathering 2007 Crew tur. Fredag 15.6 til lørdag 16.6 så er vi på danskebåt tur. Ved siste telling jeg fikk med meg så var vi 40 stk som skulle på tur, har en følelse av at vi kommer til å være godt synlig på båten :P PS: Bildet over er bare en test av å sende mms til bloggen min. Ble litt uskarpt siden jeg ikke klarte å holde mobilen min helt rolig når jeg tok bildet.

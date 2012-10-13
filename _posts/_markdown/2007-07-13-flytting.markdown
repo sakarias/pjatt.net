@@ -1,5 +1,10 @@
-title="Flytting"
-date="2007-07-13 07:14:38"
+---
+layout: post
+title: Flytting
+date: 2007-07-13 07:14:38
+tags: 
+- generelt
+---
 Nå har jeg tilbrakt to netter på mitt nye soverom, er veldig uvant å gå fra en 75 cm bred seng som er bittelitt for kort til en 120 cm seng som faktisk har plass til meg i lengden. Er i grunn litt rart at gamle senga skal være bittelitt for kort, for jeg er jo ikke lange karen.
 
 Grunnen til at det har tatt så lang tid på å flytte inn er at jeg har ventet på at de tidligere leieboerene skulle bli ferdige med å bo og at vi har pusset opp. Glemte å ta bilde før vi begynte, men bildet under viser gamle og nye fargen.
@@ -7,5 +12,3 @@ Grunnen til at det har tatt så lang tid på å flytte inn er at jeg har ventet 
 <div align="center"><a href="http://pjatt.net/images/2007/07/dsc00433.jpg" title="Ny veggfarge"><img src="http://pjatt.net/images/2007/07/dsc00433.jpg" alt="Ny veggfarge"  /></a></div>
 
 Skal få tatt bilde av hele rommet en dag, når jeg er ferdig med å sette ting på plass.
-
-[[!tag  generelt

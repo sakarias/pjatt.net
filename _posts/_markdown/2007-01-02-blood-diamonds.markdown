@@ -1,5 +1,9 @@
-title="Blood diamonds"
-date="2007-01-02 11:38:11"
+---
+layout: post
+title: Blood diamonds
+date: 2007-01-02 11:38:11
+tags: 
+- tv-serier
+- filmer
+---
 Denne filmen ble anbefalt på ene podcasten jeg hører på (<a href="http://www.twit.tv/TWiM">This Week in Media</a>, TWiM). Jeg hadde ingen forkunnskaper om denne filmen, så det kom egentlig som en overraskelse at det var atter en <a href="http://en.wikipedia.org/wiki/Leonardo_DiCaprio">Leonardo DiCaprio</a> film. Denne filmen handler om hvordan blod diamanter ble smuglet ut av Afrika og solgt som "rene" diamanter på det europeiske markedet. Jeg kan ikke så mye om selve historien, så den kan dere lese på <a href="http://en.wikipedia.org/wiki/Blood_diamond">wikipedia</a>. Eneste nedturen i filmen er <a href="http://en.wikipedia.org/wiki/Jennifer_Connelly">Jennifer Connelly</a>, jeg har aldri likt henne som en skuespiller, så jeg synes hun ødelegger litt av filmen. Men utover det så er filmen kjempe bra.
-
-[[!tag  filmer---tv-serier

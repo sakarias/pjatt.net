@@ -1,5 +1,11 @@
-title="slaskdot.org++"
-date="2007-02-20 07:25:03"
+---
+layout: post
+title: slaskdot.org++
+date: 2007-02-20 07:25:03
+tags: 
+- geeking
+- the-gathering
+---
 Jeg har nå jobbet litt med å få laget <a href="http://slaskdot.org">slaskdot.org</a>. Jeg begynner å nærme meg et resultat jeg er fornøyd med. Er som vanlig ikke helt ferdig med innholdet.
 
 Tanken med siden er å flytte ut diverse ting fra bloggen min og over dit. Siden er bereget på enkel lesing og er derfor igrunn meget kjedelig med hele 2 bilder som blir gjentatt diverse steder, resten er css. Siden ga meg litt problemer. Jeg fikk merke mysql 4 vs. mysql 5 problemer. Siden er skrevet på min egen maskin hvor jeg har php 5 og <a href="http://www.mysql.com/">mysql</a> 5, på serveren hvor siden skal bo, så er det <a href="http://no2.php.net">php</a> 4 og mysql 4. Så noe er ikke helt enig med seg selv. Normalt så er det bare å dumpe databasen og kopiere den og php filene over. Men denne gangen så fungerte ikke det. mysql 5 har vist nye argumenter på tabellene sine som mysql 4 ikke støtter, så jeg måtte manuelt massere .sql filen min. Noe som igrunn er utrolig kjedelig.
@@ -21,7 +27,3 @@ Jeg er utrolig glad for at jeg ikke har noe behov for å bruke Windows lenger. S
 Dette innlegget inneholder flere skrivefeil enn "normalt", siden jeg har byttet til <a href="http://en.wikipedia.org/wiki/Opera_(internet_suite)">Opera</a> som min <a href="http://no.wikipedia.org/wiki/Nettleser">nettleser</a> på laptopen, da den er utrolig mye raskere enn <a href="http://en.wikipedia.org/wiki/Firefox">Firefox</a>. Bruker Firefox på de andre maskinene mine, men den er utrolig treg å bruke i <a href="http://en.wikipedia.org/wiki/OS_X">OS X</a>.
 
 Hmm, jeg er vist veldig pratsom nå på morgenkvisten.
-
-[[!tag  geeking
-[[!tag  generelt
-[[!tag  the-gathering

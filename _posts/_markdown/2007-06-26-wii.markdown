@@ -1,5 +1,10 @@
-title="Wii"
-date="2007-06-26 07:36:31"
+---
+layout: post
+title: Wii
+date: 2007-06-26 07:36:31
+tags: 
+- geeking
+---
 <div align="center"><a href="http://gallery.slaskdot.org/HW/wii/"><img src="http://gallery.slaskdot.org/3248-2/dsc00418.jpg" alt="Wii Unwrapping"  /></a></div>
 
 Jeg tror helvete har frosset. Jeg gikk i går til innkjøp av atter en spillkonsoll. Denne gangen en <a href="http://wii.com/">Wii</a>. Og jeg som ikke spiller spill da gitt.
@@ -13,5 +18,3 @@ Men siden jeg ikke har tatt med meg en TV og ikke kommer til å gjøre det, så 
 Wii Sports Tennis var iallfall så artig at jeg spillt 3 runder før jeg stakk på jobb i dag. Og dem som kjenner meg vet at jeg sover så lenge som mulig før jeg står opp. Så man kan si at jeg er avhengi? :P
 
 <div align="center"><object width="425" height="350"> <param name="movie" value="http://www.youtube.com/v/chjjb8cX8mU"> </param> <embed src="http://www.youtube.com/v/chjjb8cX8mU" type="application/x-shockwave-flash" width="425" height="350"> </embed> </object></div>
-
-[[!tag  geeking

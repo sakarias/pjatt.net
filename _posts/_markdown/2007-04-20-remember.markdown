@@ -1,7 +1,10 @@
-title="Remember"
-date="2007-04-20 00:57:34"
-<div align="center">"In the End, we will remember not the words of our enemies, but the silence of our friends"</div>
+---
+layout: post
+title: Remember
+date: 2007-04-20 00:57:34
+tags: 
+- generelt
+---
+"In the end, we will remember not the words of our enemies, but the silence of our friends"
 
-<div align="right">- <a href="http://en.wikipedia.org/wiki/Martin_Luther_King_Jr.">Martin Luther King, Jr.</a></div>
-
-[[!tag  generelt
+[Martin Luther King, Jr.](http://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)

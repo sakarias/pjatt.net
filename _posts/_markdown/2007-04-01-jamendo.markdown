@@ -1,13 +1,8 @@
-title="jamendo"
-date="2007-04-01 19:59:56"
-jamendo is a new model for artists to promote, publish, and be paid for their music.
-
-On jamendo, the artists distribute their music under Creative Commons licenses. In a nutshell, they allow you to download, remix and share their music freely. It's a "Some rights reserved" agreement, perfectly suited for the new century.
-
-These new rules allow jamendo to use the powerful new means of digital distribution like Peer-to-Peer networks such as BitTorrent or eMule to legally distribute albums at near-zero cost.
-
-jamendo users can discover and share albums, but also review them or start a discussion on the forums. Albums are democratically rated based on the visitors’ reviews. If they fancy an artist they can support him by making a donation.
-
-Kilde: <a href="http://www.jamendo.com/en/">http://www.jamendo.com/en/</a>
-
-[[!tag  generelt
+---
+layout: post
+title: jamendo
+date: 2007-04-01 19:59:56
+tags: 
+- generelt
+---
+jamendo is a new model for artists to promote, publish, and be paid for their music. On jamendo, the artists distribute their music under Creative Commons licenses. In a nutshell, they allow you to download, remix and share their music freely. It's a "Some rights reserved" agreement, perfectly suited for the new century. These new rules allow jamendo to use the powerful new means of digital distribution like Peer-to-Peer networks such as BitTorrent or eMule to legally distribute albums at near-zero cost. jamendo users can discover and share albums, but also review them or start a discussion on the forums. Albums are democratically rated based on the visitors’ reviews. If they fancy an artist they can support him by making a donation. Kilde: <a href="http://www.jamendo.com/en/">http://www.jamendo.com/en/</a>

@@ -1,7 +1,10 @@
-title="..."
-date="2007-06-17 19:38:42"
+---
+layout: post
+title: ...
+date: 2007-06-17 19:38:42
+tags: 
+- tanker
+---
 That impossible anger strangling the grief until the memory of your loved one is just poison in your veins.
 
 And one day, you catch yourself wishing the person you loved had never existed so you'd be spared your pain.
-
-[[!tag  tanker
