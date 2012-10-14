@@ -7,9 +7,6 @@ tags:
 - the gathering
 ---
 
-{{ page.title }}
-================
-
 <strong>The Gathering</strong>
 Vel da har man fått betalt billettene. Driver å vurdere å bruke 2600 kr på motell de dagene TG holder på. Er litt lei av å ha vondt i ryggen i flere uker etter å ha sovet på betong gulv i 4 netter. 2600 kr er da for meg og dama.
 

@@ -7,9 +7,6 @@ tags:
 - home office
 ---
 
-{{ page.title }}
-================
-
 ![Home office/Bedroom beta 1 sideview](http://pjatt.net/images/2012/05/homeoffie-bedroom-beta1-side.png)
 
 Det er vår, sommeren er rundt hjørnet, er det på tide for meg å gjemme meg for min erkefiende, solen! På tide å oppgradere det stedet hvor jeg tilbringer mesteparten av min fritid. Mitt hjemmekontor / soverom.

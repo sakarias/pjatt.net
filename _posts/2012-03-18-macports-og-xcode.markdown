@@ -6,9 +6,6 @@ tags:
 - geeking
 ---
 
-{{ page.title }}
-================
-
 MacPorts og Xcode 4.3.1 er ikke helt venner. For at disse skal bli venner igjen, så må man kjøre følgende kommando:
 
 <pre lang="bash">

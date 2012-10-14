@@ -6,9 +6,6 @@ tags:
 - geeking
 ---
 
-{{ page.title }}
-================
-
 A Visual Guide to Apple's IP Claims
 
 ![Part I :: Hardware Design](/images/2012/06/Apple-vs-Samsung-1-Hardware-Design.jpg)

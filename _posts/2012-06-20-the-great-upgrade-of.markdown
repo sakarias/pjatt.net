@@ -7,9 +7,6 @@ tags:
 - upgrade
 ---
 
-{{ page.title }}
-================
-
 After surfing the net, I have found out that an upgrade of hardware is not just an "*upgrade*" anymore. Its "the great ... upgrade of ...". Replace the first "..." with the item and the second "..." with the year.
 
 ## Display

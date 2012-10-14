@@ -8,9 +8,6 @@ tags:
 - osx
 ---
 
-{{ page.title }}
-================
-
 From [Alfreds](http://www.alfredapp.com/) webpage:
 
 Alfred is an award-winning productivity application for Mac OS X, which aims to save you time in searching your local computer and the web. Whether it's maps, Amazon, eBay, Wikipedia, you can feed your web addiction quicker than ever.

@@ -6,9 +6,6 @@ tags:
 - generelt
 ---
 
-{{ page.title }}
-================
-
 Vel i dag er det 1 måned igjen til Juleaften.
 
 <strong>Her er min ønskeliste:</strong>

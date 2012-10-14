@@ -6,7 +6,4 @@ tags:
 - generelt
 ---
 
-{{ page.title }}
-================
-
 Gratulerer med 47 års dagen fatter.

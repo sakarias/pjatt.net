@@ -7,9 +7,6 @@ tags:
 - gadgets
 ---
 
-{{ page.title }}
-================
-
 Det er nå 16 år siden jeg fikk en kontorstol av min første arbeidsgiver, som 
 betaling for at jeg hjalp til med å rydde ut av kontorene dems da avdelingen i 
 Norge ble nedlagt. Stolen har fulgt meg i tykt og tynt. Den har vært med på en

@@ -6,9 +6,6 @@ tags:
 - generelt
 ---
 
-{{ page.title }}
-================
-
 Så i bloggen til <a href="http://overnode.com">Thomas</a> at han og Anita skal ha barn. Anita er vist 6 uker på vei.
 
 Gratulerer så mye fra Nina og meg.

@@ -8,9 +8,6 @@ tags:
 - osx
 ---
 
-{{ page.title }}
-================
-
 [Time Machine](http://en.wikipedia.org/wiki/Time_Machine_%28Mac_OS%29) (TM for short) is Apples take on consumers needs to make backup of your files. You can make backups to either removable drives like USB drives or a network drive over [Apple Filing Protocol](http://en.wikipedia.org/wiki/Apple_Filing_Protocol) (AFP). There is hacks to get TM to make backup on to other things as well, but that is beside the scope of this intro.
 
 I use a [Qnap](http://www.qnap.com/) [TS-410](http://www.qnap.com/en/index.php?lang=en&sn=822&c=351&sc=514&t=522&n=3388) for my Time Machine needs. But I also use [CrashPlan](http://www.crashplan.com) to make a [off-site](http://en.wikipedia.org/wiki/Off-site_data_protection) backup of my files, no point on having a backup of my files in the house, if the house burns down.

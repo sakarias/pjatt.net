@@ -7,9 +7,6 @@ tags:
 - osx
 ---
 
-{{ page.title }}
-================
-
 Grunnen til at jeg har byttet fra [MacPorts](http://www.macports.org/) til [Homebrew](http://mxcl.github.com/homebrew/), var ["mr"](http://joeyh.name/code/mr/). 
 Denne er ikke i MacPorts enda, og manualen for å lage pakker for MacPorts var lang, alt for lang til at jeg orket å sette meg inn i 
 dette. Homebrew har mr :)

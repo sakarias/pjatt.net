@@ -6,7 +6,4 @@ tags:
 - geeking
 ---
 
-{{ page.title }}
-================
-
 <a href="http://pjatt.net/images/2012/02/linkinmaps.gif"><img src="http://pjatt.net/images/2012/02/linkinmaps-1024x772.gif" alt="" title="linkedinmap" width="640" height="482" class="aligncenter size-large wp-image-1226"  /></a>

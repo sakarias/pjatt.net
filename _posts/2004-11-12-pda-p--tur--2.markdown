@@ -6,9 +6,6 @@ tags:
 - gadgets
 ---
 
-{{ page.title }}
-================
-
 Hmm, fikk i dag ordrebekreftelse fra Dell pr vanlig post. Kundenummer og ordrenummer i brevet var ikke det samme som det jeg hadde fått på mail fra dem. Nå fikk jeg faktisk sporet bestillingen min og den har blitt sendt med UPS.
 
 På UPS sine sider får jeg opp at pakken har blitt sendt fra Amsterdam til Irland, for meg så virker det som en liten omvei. Kanskje den har en liten pub runde får den kommer til Norge?

@@ -7,8 +7,4 @@ tags:
 - social
 ---
 
-{{ page.title }}
-================
-
-
 [https://twitter.com/sakarias/status/2753353](https://twitter.com/sakarias/status/2753353)

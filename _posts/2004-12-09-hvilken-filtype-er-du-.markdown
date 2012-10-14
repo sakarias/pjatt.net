@@ -6,9 +6,6 @@ tags:
 - generelt
 ---
 
-{{ page.title }}
-================
-
 Tok en liten test nå nettopp, jeg er vist .inf jeg. Hva er du?
 
 <img src="http://stuff.slaskdot.org/inf.jpg" alt="Jeg er inf" />

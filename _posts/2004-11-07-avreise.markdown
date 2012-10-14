@@ -6,9 +6,6 @@ tags:
 - generelt
 ---
 
-{{ page.title }}
-================
-
 Vel da har lommeboka blitt tom og jeg må reise tilbake til min mor for å få tjent litt mer penger. 3 timer med buss fra Oslo til Flisa er ikke det som er mest spennede her i livet, men det går greit igrunn. Behagelig å kunne sitte å sove.
 
 Edit: Hvorfor havner jeg bestandig ved siden av folk som drikker på bussen, jeg er ikke så utrolig glad i lukten av øl og gammel fyll.

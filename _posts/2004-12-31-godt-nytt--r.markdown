@@ -6,9 +6,6 @@ tags:
 - generelt
 ---
 
-{{ page.title }}
-================
-
 <div align="center"><img src="http://stuff.slaskdot.org/erwin-newyear.gif" alt="Godt nytt år"  /></div>
 
 <div align="center"><strong>Jeg og min kjære ønsker familie, venner, kjente og ukjente et riktig godt nytt år.

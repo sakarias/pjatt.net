@@ -7,9 +7,6 @@ tags:
 - geeking
 ---
 
-{{ page.title }}
-================
-
 Meget lei av [Wordpress](http://www.wordpress.org/) nå, så prøver nå nytt, valget har falt på en wikimotor,
 nærmere bestemt [ikiwiki](http://ikiwiki.info/). Enkelt forklart så er dette en *wiki kompilator*, den konverterer
 wiki sider til HTML. ikiwiki bruker revisjons kontrollsystem til å lagre innformasjon i.

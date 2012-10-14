@@ -7,9 +7,6 @@ tags:
 - geeking
 ---
 
-{{ page.title }}
-================
-
 Jobber med å flytte noe av det jeg driver med fra Bitbucket til GitHub og kom over "GitHub Pages", der man kan hoste statiske sider.
 Men de har noe som heter Jekyll også, et bloggrammeverk skrevet i Ruby. Etter et raskt overblikk på Jekyll så virket dette ut som noe
 jeg kom til å forsto bedre enn ikiwiki. Så jeg bestemte meg for å ta en grundigere titt på om dette var noe for meg.

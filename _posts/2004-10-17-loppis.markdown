@@ -6,7 +6,4 @@ tags:
 - loppemarked
 ---
 
-{{ page.title }}
-================
-
 I dag dro Nenia meg med på loppemarked på Tåsen skole. Kan ikke si at jeg gledet meg så utrolig til masse folk og gamle klær, men det var faktisk ikke så ille. Nenia fant seg faktisk en bærepose med klær som de skulle ha 100 kr for, billigere enn den buksen hun kjøpte seg i går til 400 kr på bikbok, som jeg skulle "legge ut" for, tror ikke jeg ser de pengene igjen :D
