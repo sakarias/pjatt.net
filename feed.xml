@@ -4,7 +4,6 @@ permalink: /feed/index.html
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- 
 <title>{{ site.title }}</title>
 <link href="{{ site.production_url }}/atom.xml" rel="self"/>
 <link href="{{ site.production_url }}"/>
@@ -15,7 +14,7 @@ permalink: /feed/index.html
 	<email>{{ site.author.email }}</email>
 </author>
 
-{% for post in site.posts %}
+{% for post in site.posts offset: 0 limit: 10 %}
 <entry>
 	<title>{{ post.title }}</title>
 	<link href="{{ site.production_url }}{{ post.url }}"/>
