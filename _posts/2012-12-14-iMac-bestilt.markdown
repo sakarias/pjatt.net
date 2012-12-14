@@ -8,7 +8,7 @@ tags:
 
 <img src="/images/2012/12/imac.jpg" />
 
-Min kjøre Mac Pro fra 2008 har begynt å bli veldig lang i skjermkortet sitt. Så det er påtide med en oppgradering. Jeg har ventet en stund på at ny iMac skulle bli lansert fra Apple. Den ble lansert i oktober, med release i desember for 27".
+Min kjære Mac Pro fra 2008 har begynt å bli veldig lang i skjermkortet sitt. Så det er påtide med en oppgradering. Jeg har ventet en stund på at ny iMac skulle bli lansert fra Apple. Den ble lansert i oktober, med release i desember for 27".
 
 Så jeg har bestilt følgende:
 
