@@ -6,7 +6,7 @@ tags:
 - geeking
 ---
 
-![Huawei E589](/images/2012/12/huawei_e589-1.jpg)
+![Huawei E589](/images/2012/12/huawei_e589_1.jpg)
 
 Rett før jul så bestilte jeg meg Huawei E589 "Mobile WiFi", for å gjøre reisen til og fra jobb litt mer behagelig.
 
