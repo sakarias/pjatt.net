@@ -26,4 +26,6 @@ i dag, og bruker mindre strøm. To gode ting. Valgte å bestille denne fra Dusti
 billigere enn Komplett. Bare så synd at DustinHome ikke har denne på lager, den kommer på lager om 1-3
 dager :(
 
+Ser fram til å koble ned beistet jeg bruker i dag.
+
 ![Synology DiskStation DS1812+ back](/images/2013/01/synology_diskstation_ds1812_back.jpg)
