@@ -79,6 +79,7 @@ header:after{display:block;clear:both;content:'';float:none;height:1px;}
 
 h1, h2, h3, h4, h5, h6{font-weight:bold;line-height:1;padding-bottom:.2em;}
 h1, h2, h3, h4 {font-family:"LeagueGothicRegular", helvetica,"League Gothic", "Helvetica Neue", helvetica, arial, sans-serif;font-weight:normal;letter-spacing:-.025em;}
+h1{font-size:40px}
 h2{font-size:40px}
 section h2{margin-top:40px;}
 section p+h2{margin-top:26px}
