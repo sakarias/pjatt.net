@@ -34,7 +34,7 @@ Første som skjedde etter at folk fikk snurten i at jeg hadde fått mottatt iMac
 Først ut er Geekbench, dette er et produkt jeg bruker på de fleste plattformer (Windows, Mac, Android, iOS og Linux) for å få et tall på hvor rask/bedre
 maskinen er enn forrige.
 
-iMac'n skårte [14110](http://browser.primatelabs.com/geekbench2/1564585) poeng, maskinen jeg oppgraderer fra skårte [10117](http://browser.primatelabs.com/geekbench2/629329) poeng. Det er opp 3993 poeng. Vil si Mac Pro'n fra 2008 fremdeles henger med i svingene, men den begynner dessverre å bli litt lang i skjermkortene, som er årsaken til oppgraderingen.
+iMac'n fikk et resultat på [14110](http://browser.primatelabs.com/geekbench2/1564585) poeng, maskinen jeg oppgraderer fra hadde et resultat på [10117](http://browser.primatelabs.com/geekbench2/629329) poeng. Det er opp 3993 poeng. Vil si Mac Pro'n fra 2008 fremdeles henger med i svingene, men den begynner dessverre å bli litt lang i skjermkortene, som er årsaken til oppgraderingen.
 iMacen har foreløpig bare 8 GB med minne, så når jeg har fått oppgradert det så vil jeg kjøre en ny test og se om det øker summen litt mer.
 
 ## Fusion Drive
