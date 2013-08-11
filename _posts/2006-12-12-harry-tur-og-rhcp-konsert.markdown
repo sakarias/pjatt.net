@@ -1,6 +1,6 @@
 ---
 layout: post
-title: &quot;Harry tur&quot; og RHCP konsert
+title: Harry tur og RHCP konsert
 date: 2006-12-12 22:14:03
 tags: 
 - generelt
