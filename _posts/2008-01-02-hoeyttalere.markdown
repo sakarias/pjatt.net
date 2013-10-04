@@ -3,7 +3,8 @@ layout: post
 title: Høyttalere
 date: 2008-01-02 14:50:37
 tags: 
-- generelt
+- surround
+- geeking
 - hjemmekino
 ---
 Har nå også bestilt meg høyttalere til et kommende "rundt-om-lyd" oppsett hjemme. Satser på å få råd til forsterkeren neste måned. 
