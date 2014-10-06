@@ -18,7 +18,7 @@ author :
 
 future:      true
 lsi:         false
-pygments:    true
+highlighter: pygments
 markdown:    redcarpet
 permalink:   pretty
 
